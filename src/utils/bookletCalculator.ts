@@ -178,7 +178,14 @@ export function calculateBookletLayout(
 
   const completeBooklets = Math.floor(totalPages / pagesPerBooklet)
   const remainingPages = totalPages % pagesPerBooklet
-  const efficiency = totalPages > 0 ? ((totalPages / totalPhysicalPages) * 100).toFixed(1) : '0'
+
+  // Calculate efficiency: cover blank pages are intentional design elements, not waste
+  // Efficiency = (content pages + intentional cover blanks) / total physical pages
+  const totalCoverBlankPages = hasCover ? coverPages * 2 : 0
+  const totalDesignedPages = totalPages + totalCoverBlankPages
+  const efficiencyPercent = totalDesignedPages > 0
+    ? ((totalDesignedPages / totalPhysicalPages) * 100).toFixed(1)
+    : '0'
 
   return {
     totalPages,
@@ -192,7 +199,7 @@ export function calculateBookletLayout(
     totalSheets,
     totalPhysicalPages,
     totalBlankPages,
-    efficiency: parseFloat(efficiency),
+    efficiency: parseFloat(efficiencyPercent),
     booklets,
     sequence,
     hasCover,
