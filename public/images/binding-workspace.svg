@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <style>
+      .table { fill: #D7CCC8; stroke: #8D6E63; }
+      .mat { fill: #4CAF50; opacity: 0.3; }
+      .tool { fill: #fff; stroke: #333; }
+      .label { font-family: sans-serif; font-size: 12px; fill: #333; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <rect width="600" height="400" fill="#fff" />
+
+  <!-- Table -->
+  <rect x="50" y="50" width="500" height="300" class="table" rx="5" />
+
+  <!-- Cutting Mat -->
+  <rect x="150" y="100" width="300" height="200" class="mat" />
+  <text x="300" y="190" class="label" font-size="20" opacity="0.3">Cutting Mat</text>
+
+  <!-- Tools -->
+  <!-- Ruler -->
+  <rect x="160" y="310" width="280" height="20" class="tool" fill="#B0BEC5" />
+  <text x="300" y="325" class="label">Metal Ruler</text>
+
+  <!-- Knife -->
+  <rect x="470" y="150" width="10" height="80" class="tool" fill="#CFD8DC" rx="2" />
+  <polygon points="470,230 475,250 480,230" fill="#90A4AE" />
+  <text x="475" y="140" class="label">Knife</text>
+
+  <!-- Bone Folder -->
+  <path d="M120,150 Q130,150 130,220 Q120,240 110,220 Q110,150 120,150" class="tool" fill="#FFF9C4" />
+  <text x="120" y="140" class="label">Bone Folder</text>
+
+  <!-- Glue & Brush -->
+  <circle cx="90" cy="280" r="25" class="tool" fill="#fff" />
+  <text x="90" y="285" class="label">PVA</text>
+  <rect x="125" y="260" width="10" height="40" class="tool" fill="#D7CCC8" />
+  <rect x="123" y="250" width="14" height="10" fill="#333" />
+  <text x="130" y="315" class="label">Brush</text>
+
+  <!-- Weights -->
+  <rect x="400" y="80" width="40" height="30" class="tool" fill="#546E7A" />
+  <text x="420" y="75" class="label">Weights</text>
+
+  <!-- Pressing Boards -->
+  <rect x="300" y="70" width="80" height="10" class="tool" fill="#8D6E63" />
+  <rect x="300" y="60" width="80" height="10" class="tool" fill="#8D6E63" />
+  <text x="340" y="55" class="label">Boards</text>
+
+</svg>

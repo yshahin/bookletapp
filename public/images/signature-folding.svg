@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300">
+  <defs>
+    <style>
+      .paper { fill: #fdfdfd; stroke: #333; stroke-width: 1.5; }
+      .fold-line { stroke: #999; stroke-width: 1; stroke-dasharray: 5,3; }
+      .arrow { stroke: #2196F3; stroke-width: 2; fill: none; marker-end: url(#arrowhead-blue); }
+      .label { font-family: sans-serif; font-size: 14px; fill: #333; text-anchor: middle; font-weight: bold; }
+      .number { font-family: sans-serif; font-size: 10px; fill: #999; text-anchor: middle; }
+    </style>
+    <marker id="arrowhead-blue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2196F3" />
+    </marker>
+  </defs>
+
+  <rect width="700" height="300" fill="#fff" />
+
+  <!-- Step 1: Flat Sheet -->
+  <g transform="translate(100, 150)">
+    <rect x="-60" y="-80" width="120" height="160" class="paper" />
+    <line x1="0" y1="-80" x2="0" y2="80" class="fold-line" />
+    <text x="0" y="100" class="label">1. Flat Sheet</text>
+    <text x="-40" y="70" class="number">p1</text>
+    <text x="40" y="70" class="number">p4</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M190,150 L230,150" class="arrow" />
+
+  <!-- Step 2: Folio (Folded Once) -->
+  <g transform="translate(300, 150)">
+    <!-- Back leaf -->
+    <path d="M0,-80 L60,-70 L60,90 L0,80 Z" class="paper" fill="#eee" />
+    <!-- Front leaf -->
+    <path d="M0,-80 L-50,-70 L-50,90 L0,80 Z" class="paper" />
+    <!-- Fold spine -->
+    <line x1="0" y1="-80" x2="0" y2="80" stroke="#333" stroke-width="2" />
+
+    <text x="0" y="110" class="label">2. Folio</text>
+    <text x="0" y="125" class="number" fill="#666">(4 Pages)</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M380,150 L420,150" class="arrow" />
+
+  <!-- Step 3: Quarto (Folded Twice) -->
+  <g transform="translate(550, 150)">
+     <!-- Stack of folded papers representation -->
+    <rect x="-30" y="-45" width="60" height="90" class="paper" fill="#ddd" /> <!-- Bottom -->
+    <rect x="-32" y="-47" width="60" height="90" class="paper" fill="#eee" />
+    <rect x="-34" y="-49" width="60" height="90" class="paper" /> <!-- Top -->
+
+    <text x="0" y="70" class="label">3. Signature</text>
+    <text x="0" y="85" class="number" fill="#666">(Collected/Nested)</text>
+  </g>
+
+</svg>

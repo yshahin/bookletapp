@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <style>
+      .page-num { font-family: sans-serif; font-size: 30px; fill: #ccc; font-weight: bold; text-anchor: middle; dominant-baseline: middle; }
+      .label { font-family: sans-serif; font-size: 14px; fill: #333; text-anchor: middle; }
+      .sheet { fill: white; stroke: #333; stroke-width: 2; }
+      .fold { stroke: #D32F2F; stroke-width: 2; stroke-dasharray: 5,5; }
+      .cut { stroke: #555; stroke-width: 1; stroke-dasharray: 2,2; }
+      .orientation { font-family: sans-serif; font-size: 12px; fill: #555; }
+    </style>
+  </defs>
+
+  <rect width="600" height="400" fill="#f0f0f0" />
+
+  <!-- The Sheet -->
+  <rect x="50" y="50" width="500" height="300" class="sheet" />
+
+  <!-- Horizontal Fold -->
+  <line x1="50" y1="200" x2="550" y2="200" class="fold" />
+
+  <!-- Vertical Folds -->
+  <line x1="175" y1="50" x2="175" y2="350" class="cut" stroke-opacity="0.3" />
+  <line x1="300" y1="50" x2="300" y2="350" class="fold" />
+  <line x1="425" y1="50" x2="425" y2="350" class="cut" stroke-opacity="0.3" />
+
+  <!-- Page Numbers (Imposition Order) -->
+  <!-- Top Row: Upside down -->
+  <g transform="translate(112.5, 125) rotate(180)">
+    <text class="page-num">4</text>
+    <text y="30" class="orientation" text-anchor="middle">Top Left</text>
+  </g>
+  <g transform="translate(237.5, 125) rotate(180)">
+    <text class="page-num">5</text>
+  </g>
+  <g transform="translate(362.5, 125) rotate(180)">
+    <text class="page-num">8</text>
+  </g>
+  <g transform="translate(487.5, 125) rotate(180)">
+    <text class="page-num">1</text>
+    <text y="30" class="orientation" text-anchor="middle">Top Right</text>
+  </g>
+
+  <!-- Bottom Row: Right side up -->
+  <g transform="translate(112.5, 275)">
+    <text class="page-num">6</text>
+  </g>
+  <g transform="translate(237.5, 275)">
+    <text class="page-num">3</text>
+  </g>
+  <g transform="translate(362.5, 275)">
+    <text class="page-num">2</text>
+  </g>
+  <g transform="translate(487.5, 275)">
+    <text class="page-num">7</text>
+  </g>
+
+  <!-- Legend -->
+  <line x1="100" y1="380" x2="150" y2="380" class="fold" />
+  <text x="200" y="385" class="label" text-anchor="start">Fold Lines</text>
+  <text x="300" y="20" class="label" font-size="16">8-Page Imposition (Side 1)</text>
+
+</svg>

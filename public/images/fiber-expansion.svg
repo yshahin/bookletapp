@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300">
+  <defs>
+    <style>
+      .fiber { fill: none; stroke: #5D4037; stroke-width: 2; stroke-linecap: round; }
+      .arrow { stroke: #D32F2F; stroke-width: 2; marker-end: url(#arrowhead); }
+      .label { font-family: sans-serif; font-size: 14px; fill: #333; text-anchor: middle; }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#D32F2F" />
+    </marker>
+  </defs>
+
+  <rect width="500" height="300" fill="#fff" />
+
+  <!-- Grain Direction Label -->
+  <text x="250" y="30" class="label" font-weight="bold">Grain Direction (Long Grain)</text>
+  <line x1="250" y1="40" x2="250" y2="280" stroke="#ccc" stroke-dasharray="4,4" />
+
+  <!-- Fibers (Dry) -->
+  <g transform="translate(100, 150)">
+    <text x="0" y="-80" class="label">Dry State</text>
+    <line x1="-20" y1="-50" x2="-20" y2="50" class="fiber" />
+    <line x1="0" y1="-50" x2="0" y2="50" class="fiber" />
+    <line x1="20" y1="-50" x2="20" y2="50" class="fiber" />
+
+    <!-- Width indicator -->
+    <line x1="-30" y1="60" x2="30" y2="60" stroke="#333" marker-end="url(#arrowhead)" marker-start="url(#arrowhead)" />
+    <text x="0" y="80" class="label" font-size="12">Original Width</text>
+  </g>
+
+  <!-- Arrow -->
+  <path d="M180,150 L280,150" class="arrow" stroke="#999" fill="none" />
+  <text x="230" y="140" class="label" font-size="12" fill="#666">+ Moisture</text>
+
+  <!-- Fibers (Wet/Expanded) -->
+  <g transform="translate(350, 150)">
+    <text x="0" y="-80" class="label">Wet / Expanded</text>
+    <!-- Thicker, wider spaced fibers -->
+    <line x1="-30" y1="-50" x2="-30" y2="50" class="fiber" stroke-width="6" stroke="#8D6E63" />
+    <line x1="0" y1="-50" x2="0" y2="50" class="fiber" stroke-width="6" stroke="#8D6E63" />
+    <line x1="30" y1="-50" x2="30" y2="50" class="fiber" stroke-width="6" stroke="#8D6E63" />
+
+    <!-- Expansion Arrows -->
+    <line x1="-40" y1="0" x2="-60" y2="0" class="arrow" />
+    <line x1="40" y1="0" x2="60" y2="0" class="arrow" />
+
+    <text x="0" y="80" class="label" font-size="12" fill="#D32F2F">Expands in Width</text>
+    <text x="0" y="100" class="label" font-size="12" fill="#555">(Across Grain)</text>
+  </g>
+
+</svg>
