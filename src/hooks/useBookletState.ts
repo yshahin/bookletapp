@@ -1,27 +1,20 @@
-import { useState, useCallback } from 'react'
+import { useReducer, useCallback } from 'react'
 import { PDFDocument } from 'pdf-lib'
 import { calculateBookletLayout, findOptimalSheetsPerBooklet, type BookletLayout } from '../utils/bookletCalculator'
 import { detectTextDirection, inferDirectionFromFilename, type TextDirection } from '../utils/rtlDetector'
 
 const getRangePageCount = (start: number, end: number): number => Math.max(0, end - start + 1)
 
-interface ApplyRangeLayoutOptions {
-  pdfTotalPages?: number
-  rangeStart?: number
-  rangeEnd?: number
-  isRTL?: boolean
-  sheetsPerBooklet?: number
-  pagesPerSheet?: number
-  hasCover?: boolean
-  coverPages?: number
-}
-
 interface EnrichedBookletLayout extends BookletLayout {
   rangeStart: number
   rangeEnd: number
 }
 
-export interface BookletState {
+// ------------------------------------------------------------------
+// State & Actions
+// ------------------------------------------------------------------
+
+interface State {
   pdfFile: File | null
   totalPages: number
   sheetsPerBooklet: number
@@ -36,9 +29,202 @@ export interface BookletState {
   exporting: boolean
   rangeStart: number
   rangeEnd: number
-  selectedPageCount: number
   hasCover: boolean
   coverPages: number
+}
+
+type Action =
+  | { type: 'SET_ERROR'; payload: string | null }
+  | { type: 'SET_EXPORTING'; payload: boolean }
+  | { type: 'START_FILE_LOAD' }
+  | {
+    type: 'FILE_LOADED';
+    payload: {
+      file: File;
+      data: ArrayBuffer;
+      totalPages: number;
+      initialDirection: TextDirection
+    }
+  }
+  | { type: 'FILE_LOAD_ERROR'; payload: string }
+  | { type: 'SET_DETECTED_DIRECTION'; payload: { detected: TextDirection | null, final: TextDirection } }
+  | { type: 'UPDATE_PARAM'; payload: Partial<State> }
+  | { type: 'RESET_RANGE' }
+
+const initialState: State = {
+  pdfFile: null,
+  totalPages: 0,
+  sheetsPerBooklet: 4,
+  pagesPerSheet: 4,
+  pdfData: null,
+  textDirection: 'ltr',
+  detectedDirection: null,
+  layout: null,
+  error: null,
+  loading: false,
+  detecting: false,
+  exporting: false,
+  rangeStart: 1,
+  rangeEnd: 0,
+  hasCover: true,
+  coverPages: 2,
+}
+
+// ------------------------------------------------------------------
+// Reducer Helper
+// ------------------------------------------------------------------
+
+function recalculateLayout(state: State): State {
+  const {
+    totalPages, rangeStart, rangeEnd,
+    sheetsPerBooklet, pagesPerSheet,
+    textDirection, hasCover, coverPages
+  } = state
+
+  const pdfCapacity = totalPages
+  if (pdfCapacity <= 0) {
+    return { ...state, layout: null }
+  }
+
+  const startValue = Math.min(Math.max(1, rangeStart), pdfCapacity)
+  const endValue = Math.min(Math.max(startValue, rangeEnd), pdfCapacity)
+  const rangeLength = getRangePageCount(startValue, endValue)
+
+  if (rangeLength <= 0) {
+    return { ...state, layout: null, rangeStart: startValue, rangeEnd: endValue }
+  }
+
+  try {
+    const calculatedLayout = calculateBookletLayout(
+      rangeLength,
+      sheetsPerBooklet,
+      pagesPerSheet,
+      textDirection === 'rtl',
+      hasCover,
+      coverPages
+    )
+
+    const enrichedLayout: EnrichedBookletLayout = {
+      ...calculatedLayout,
+      rangeStart: startValue,
+      rangeEnd: endValue,
+      isRTL: textDirection === 'rtl',
+    }
+
+    return {
+      ...state,
+      layout: enrichedLayout,
+      error: null,
+      rangeStart: startValue,
+      rangeEnd: endValue
+    }
+  } catch (err) {
+    return {
+      ...state,
+      layout: null,
+      rangeStart: startValue,
+      rangeEnd: endValue,
+      error: err instanceof Error ? err.message : 'Layout calculation failed'
+    }
+  }
+}
+
+function bookletReducer(state: State, action: Action): State {
+  switch (action.type) {
+    case 'SET_ERROR':
+      return { ...state, error: action.payload }
+
+    case 'SET_EXPORTING':
+      return { ...state, exporting: action.payload }
+
+    case 'START_FILE_LOAD':
+      return {
+        ...state,
+        loading: true,
+        detecting: true,
+        error: null,
+        layout: null,
+        pdfFile: null,
+        totalPages: 0,
+        pdfData: null
+      }
+
+    case 'FILE_LOADED': {
+      const { totalPages, initialDirection } = action.payload
+      const newState = {
+        ...state,
+        pdfFile: action.payload.file,
+        pdfData: action.payload.data,
+        totalPages,
+        rangeStart: 1,
+        rangeEnd: totalPages,
+        textDirection: initialDirection,
+        detectedDirection: initialDirection,
+        // Calculate initial optimal sheets
+        sheetsPerBooklet: findOptimalSheetsPerBooklet(totalPages, state.pagesPerSheet, state.hasCover, state.coverPages)
+      }
+      return recalculateLayout(newState)
+    }
+
+    case 'FILE_LOAD_ERROR':
+      return {
+        ...state,
+        loading: false,
+        detecting: false,
+        pdfFile: null,
+        totalPages: 0,
+        layout: null,
+        pdfData: null,
+        error: action.payload
+      }
+
+    case 'SET_DETECTED_DIRECTION': {
+      const newState = {
+        ...state,
+        detectedDirection: action.payload.detected,
+        textDirection: action.payload.final,
+        loading: false,
+        detecting: false
+      }
+      return recalculateLayout(newState)
+    }
+
+    case 'UPDATE_PARAM': {
+      const newState = { ...state, ...action.payload }
+      // Validations if needed before recalc
+      if (newState.coverPages <= 0) newState.coverPages = 2
+      if (newState.sheetsPerBooklet <= 0) newState.sheetsPerBooklet = 1
+
+      // Special logic: if pagesPerSheet changed, maybe re-optimize sheetsPerBooklet?
+      // Keeping it simple: trust the payload, but if user explicitly changed pagesPerSheet,
+      // the handler usually handles the optimization logic.
+      // However, to keep reducer pure, we can move optimization logic here if we wanted.
+      // For now, let's assume the payload contains the optimized values if needed.
+
+      return recalculateLayout(newState)
+    }
+
+    case 'RESET_RANGE': {
+      if (state.totalPages <= 0) return state
+      const newState = {
+        ...state,
+        rangeStart: 1,
+        rangeEnd: state.totalPages
+      }
+      return recalculateLayout(newState)
+    }
+
+    default:
+      return state
+  }
+}
+
+// ------------------------------------------------------------------
+// Hook Export
+// ------------------------------------------------------------------
+
+export interface BookletState extends State {
+  selectedPageCount: number
   setError: (error: string | null) => void
   setExporting: (exporting: boolean) => void
   handleFileUpload: (event: React.ChangeEvent<HTMLInputElement>) => Promise<void>
@@ -54,253 +240,141 @@ export interface BookletState {
 }
 
 export function useBookletState(): BookletState {
-  const [pdfFile, setPdfFile] = useState<File | null>(null)
-  const [totalPages, setTotalPages] = useState<number>(0)
-  const [sheetsPerBooklet, setSheetsPerBooklet] = useState<number>(4)
-  const [pagesPerSheet, setPagesPerSheet] = useState<number>(4)
-  const [pdfData, setPdfData] = useState<ArrayBuffer | null>(null)
-  const [textDirection, setTextDirection] = useState<TextDirection>('ltr')
-  const [detectedDirection, setDetectedDirection] = useState<TextDirection | null>(null)
-  const [layout, setLayout] = useState<EnrichedBookletLayout | null>(null)
-  const [error, setError] = useState<string | null>(null)
-  const [loading, setLoading] = useState<boolean>(false)
-  const [detecting, setDetecting] = useState<boolean>(false)
-  const [exporting, setExporting] = useState<boolean>(false)
-  const [rangeStart, setRangeStart] = useState<number>(1)
-  const [rangeEnd, setRangeEnd] = useState<number>(0)
-  const [hasCover, setHasCover] = useState<boolean>(true)
-  const [coverPages, setCoverPages] = useState<number>(2)
+  const [state, dispatch] = useReducer(bookletReducer, initialState)
 
-  const applyRangeLayout = useCallback((options: ApplyRangeLayoutOptions = {}): EnrichedBookletLayout | null => {
-    const pdfCapacity = options.pdfTotalPages ?? totalPages
-    if (!pdfCapacity || pdfCapacity <= 0) {
-      setLayout(null)
-      return null
-    }
+  const setError = useCallback((error: string | null) => {
+    dispatch({ type: 'SET_ERROR', payload: error })
+  }, [])
 
-    const startValue = Math.min(Math.max(1, options.rangeStart ?? rangeStart), pdfCapacity)
-    const endValue = Math.min(
-      Math.max(startValue, options.rangeEnd ?? rangeEnd),
-      pdfCapacity,
-    )
-
-    const rangeLength = getRangePageCount(startValue, endValue)
-    if (rangeLength <= 0) {
-      setLayout(null)
-      return null
-    }
-
-    const isRTL = options.isRTL ?? textDirection === 'rtl'
-    const sheetsValue = options.sheetsPerBooklet ?? sheetsPerBooklet
-    const perSheetValue = options.pagesPerSheet ?? pagesPerSheet
-    const coverEnabled = options.hasCover ?? hasCover
-    const coverPagesValue = options.coverPages ?? coverPages
-
-    try {
-      const calculatedLayout = calculateBookletLayout(rangeLength, sheetsValue, perSheetValue, isRTL, coverEnabled, coverPagesValue)
-      const enrichedLayout: EnrichedBookletLayout = {
-        ...calculatedLayout,
-        rangeStart: startValue,
-        rangeEnd: endValue,
-        isRTL,
-      }
-      setLayout(enrichedLayout)
-      setError(null)
-      return enrichedLayout
-    } catch (err) {
-      setError(err instanceof Error ? err.message : 'An error occurred')
-      return null
-    }
-  }, [pagesPerSheet, rangeEnd, rangeStart, sheetsPerBooklet, textDirection, totalPages, hasCover, coverPages])
+  const setExporting = useCallback((exporting: boolean) => {
+    dispatch({ type: 'SET_EXPORTING', payload: exporting })
+  }, [])
 
   const handleFileUpload = useCallback(async (event: React.ChangeEvent<HTMLInputElement>): Promise<void> => {
     const file = event.target.files?.[0]
     if (!file) return
 
     if (file.type !== 'application/pdf') {
-      setError('Please upload a PDF file')
+      dispatch({ type: 'SET_ERROR', payload: 'Please upload a PDF file' })
       return
     }
 
-    setLoading(true)
-    setDetecting(true)
-    setError(null)
+    dispatch({ type: 'START_FILE_LOAD' })
+
     const initialDirection = inferDirectionFromFilename(file.name)
-    setTextDirection(initialDirection)
-    setDetectedDirection(initialDirection)
 
     try {
       const arrayBuffer = await file.arrayBuffer()
-      setPdfData(arrayBuffer)
       const pdfDoc = await PDFDocument.load(arrayBuffer)
       const pages = pdfDoc.getPageCount()
 
-      setPdfFile(file)
-      setTotalPages(pages)
-      const defaultStart = 1
-      const defaultEnd = pages
-      setRangeStart(defaultStart)
-      setRangeEnd(defaultEnd)
+      dispatch({
+        type: 'FILE_LOADED',
+        payload: {
+          file,
+          data: arrayBuffer,
+          totalPages: pages,
+          initialDirection
+        }
+      })
 
-      let detectedDir: TextDirection = initialDirection || 'ltr'
+      // Continue with async detection
       try {
         const detected = await detectTextDirection(arrayBuffer, file.name)
-        setDetectedDirection(detected)
-        if (detected === 'rtl' || detected === 'ltr') {
-          detectedDir = detected
-          setTextDirection(detected)
-        }
+        const final = (detected === 'rtl' || detected === 'ltr') ? detected : initialDirection || 'ltr'
+
+        dispatch({
+          type: 'SET_DETECTED_DIRECTION',
+          payload: { detected, final }
+        })
       } catch (detectErr) {
         console.warn('Could not detect text direction:', detectErr)
-        setDetectedDirection('unknown')
-      }
-
-      if (pages > 0) {
-        const isRTL = detectedDir === 'rtl'
-        const optimalSheets = findOptimalSheetsPerBooklet(pages, pagesPerSheet, hasCover, coverPages)
-        setSheetsPerBooklet(optimalSheets)
-        applyRangeLayout({
-          rangeStart: defaultStart,
-          rangeEnd: defaultEnd,
-          sheetsPerBooklet: optimalSheets,
-          isRTL,
-          pdfTotalPages: pages,
+        dispatch({
+          type: 'SET_DETECTED_DIRECTION',
+          payload: { detected: 'unknown', final: initialDirection || 'ltr' }
         })
       }
+
     } catch (err) {
-      setError(`Error reading PDF: ${err instanceof Error ? err.message : 'Unknown error'}`)
-      setPdfFile(null)
-      setTotalPages(0)
-      setLayout(null)
-      setDetectedDirection(null)
-      setPdfData(null)
-    } finally {
-      setLoading(false)
-      setDetecting(false)
+      dispatch({
+        type: 'FILE_LOAD_ERROR',
+        payload: `Error reading PDF: ${err instanceof Error ? err.message : 'Unknown error'}`
+      })
     }
-  }, [applyRangeLayout, pagesPerSheet])
+  }, [])
 
   const handleSheetsPerBookletChange = useCallback((value: string): void => {
     const newValue = parseInt(value) || 4
     if (newValue > 0) {
-      setSheetsPerBooklet(newValue)
-      if (getRangePageCount(rangeStart, rangeEnd) > 0) {
-        applyRangeLayout({ sheetsPerBooklet: newValue })
-      }
+      dispatch({ type: 'UPDATE_PARAM', payload: { sheetsPerBooklet: newValue } })
     }
-  }, [applyRangeLayout, rangeEnd, rangeStart])
+  }, [])
 
   const handleTextDirectionChange = useCallback((direction: TextDirection): void => {
-    setTextDirection(direction)
-    if (getRangePageCount(rangeStart, rangeEnd) > 0) {
-      applyRangeLayout({ isRTL: direction === 'rtl' })
-    }
-  }, [applyRangeLayout, rangeEnd, rangeStart])
+    dispatch({ type: 'UPDATE_PARAM', payload: { textDirection: direction } })
+  }, [])
 
   const handlePagesPerSheetChange = useCallback((value: number): void => {
     const newValue = parseInt(String(value)) || 2
     if (newValue > 0 && newValue % 2 === 0) {
-      setPagesPerSheet(newValue)
-      const selectedPages = getRangePageCount(rangeStart, rangeEnd)
+      const selectedPages = getRangePageCount(state.rangeStart, state.rangeEnd)
+      let update: Partial<State> = { pagesPerSheet: newValue }
+
       if (selectedPages > 0) {
-        const isRTL = textDirection === 'rtl'
-        const optimalSheets = findOptimalSheetsPerBooklet(selectedPages, newValue, hasCover, coverPages)
-        setSheetsPerBooklet(optimalSheets)
-        applyRangeLayout({
-          sheetsPerBooklet: optimalSheets,
-          pagesPerSheet: newValue,
-          isRTL,
-        })
+        const optimalSheets = findOptimalSheetsPerBooklet(selectedPages, newValue, state.hasCover, state.coverPages)
+        update.sheetsPerBooklet = optimalSheets
       }
+
+      dispatch({ type: 'UPDATE_PARAM', payload: update })
     }
-  }, [applyRangeLayout, rangeEnd, rangeStart, textDirection, hasCover, coverPages])
+  }, [state.rangeStart, state.rangeEnd, state.hasCover, state.coverPages])
 
   const useOptimalSheets = useCallback((): void => {
-    const selectedPages = getRangePageCount(rangeStart, rangeEnd)
+    const selectedPages = getRangePageCount(state.rangeStart, state.rangeEnd)
     if (selectedPages > 0) {
-      const isRTL = textDirection === 'rtl'
-      const optimalSheets = findOptimalSheetsPerBooklet(selectedPages, pagesPerSheet, hasCover, coverPages)
-      setSheetsPerBooklet(optimalSheets)
-      applyRangeLayout({
-        sheetsPerBooklet: optimalSheets,
-        isRTL,
-      })
+      const optimalSheets = findOptimalSheetsPerBooklet(selectedPages, state.pagesPerSheet, state.hasCover, state.coverPages)
+      dispatch({ type: 'UPDATE_PARAM', payload: { sheetsPerBooklet: optimalSheets } })
     }
-  }, [applyRangeLayout, pagesPerSheet, rangeEnd, rangeStart, textDirection, hasCover, coverPages])
+  }, [state.rangeStart, state.rangeEnd, state.pagesPerSheet, state.hasCover, state.coverPages])
 
   const handleRangeStartChange = useCallback((value: string): void => {
-    if (totalPages <= 0) return
     const parsed = parseInt(value, 10)
-    if (Number.isNaN(parsed)) return
-    const boundedStart = Math.min(Math.max(1, parsed), totalPages)
-    const boundedEnd = Math.min(Math.max(boundedStart, rangeEnd), totalPages)
-    setRangeStart(boundedStart)
-    setRangeEnd(boundedEnd)
-    applyRangeLayout({ rangeStart: boundedStart, rangeEnd: boundedEnd })
-  }, [applyRangeLayout, rangeEnd, totalPages])
+    if (!Number.isNaN(parsed)) {
+      dispatch({ type: 'UPDATE_PARAM', payload: { rangeStart: parsed } })
+    }
+  }, [])
 
   const handleRangeEndChange = useCallback((value: string): void => {
-    if (totalPages <= 0) return
     const parsed = parseInt(value, 10)
-    if (Number.isNaN(parsed)) return
-    const boundedEnd = Math.min(Math.max(rangeStart, parsed), totalPages)
-    setRangeEnd(boundedEnd)
-    applyRangeLayout({ rangeEnd: boundedEnd })
-  }, [applyRangeLayout, rangeStart, totalPages])
+    if (!Number.isNaN(parsed)) {
+      dispatch({ type: 'UPDATE_PARAM', payload: { rangeEnd: parsed } })
+    }
+  }, [])
 
   const handleResetRange = useCallback((): void => {
-    if (totalPages <= 0) return
-    setRangeStart(1)
-    setRangeEnd(totalPages)
-    applyRangeLayout({ rangeStart: 1, rangeEnd: totalPages })
-  }, [applyRangeLayout, totalPages])
+    dispatch({ type: 'RESET_RANGE' })
+  }, [])
 
   const handleHasCoverChange = useCallback((value: boolean): void => {
-    setHasCover(value)
-    if (getRangePageCount(rangeStart, rangeEnd) > 0) {
-      const selectedPages = getRangePageCount(rangeStart, rangeEnd)
-      const optimalSheets = findOptimalSheetsPerBooklet(selectedPages, pagesPerSheet, value, coverPages)
-      setSheetsPerBooklet(optimalSheets)
-      applyRangeLayout({ hasCover: value, sheetsPerBooklet: optimalSheets })
-    }
-  }, [applyRangeLayout, rangeEnd, rangeStart, pagesPerSheet, coverPages])
+    const selectedPages = getRangePageCount(state.rangeStart, state.rangeEnd)
+    const optimalSheets = findOptimalSheetsPerBooklet(selectedPages, state.pagesPerSheet, value, state.coverPages)
+    dispatch({ type: 'UPDATE_PARAM', payload: { hasCover: value, sheetsPerBooklet: optimalSheets } })
+  }, [state.rangeStart, state.rangeEnd, state.pagesPerSheet, state.coverPages])
 
   const handleCoverPagesChange = useCallback((value: number): void => {
     const newValue = parseInt(String(value)) || 2
     if (newValue > 0 && newValue <= 10) {
-      setCoverPages(newValue)
-      if (getRangePageCount(rangeStart, rangeEnd) > 0) {
-        const selectedPages = getRangePageCount(rangeStart, rangeEnd)
-        const optimalSheets = findOptimalSheetsPerBooklet(selectedPages, pagesPerSheet, hasCover, newValue)
-        setSheetsPerBooklet(optimalSheets)
-        applyRangeLayout({ coverPages: newValue, sheetsPerBooklet: optimalSheets })
-      }
+      const selectedPages = getRangePageCount(state.rangeStart, state.rangeEnd)
+      const optimalSheets = findOptimalSheetsPerBooklet(selectedPages, state.pagesPerSheet, state.hasCover, newValue)
+      dispatch({ type: 'UPDATE_PARAM', payload: { coverPages: newValue, sheetsPerBooklet: optimalSheets } })
     }
-  }, [applyRangeLayout, rangeEnd, rangeStart, pagesPerSheet, hasCover])
+  }, [state.rangeStart, state.rangeEnd, state.pagesPerSheet, state.hasCover])
 
   return {
-    // State
-    pdfFile,
-    totalPages,
-    sheetsPerBooklet,
-    pagesPerSheet,
-    pdfData,
-    textDirection,
-    detectedDirection,
-    layout,
-    error,
-    loading,
-    detecting,
-    exporting,
-    rangeStart,
-    rangeEnd,
-    selectedPageCount: getRangePageCount(rangeStart, rangeEnd),
-    hasCover,
-    coverPages,
-    // Setters
+    ...state,
+    selectedPageCount: getRangePageCount(state.rangeStart, state.rangeEnd),
     setError,
     setExporting,
-    // Handlers
     handleFileUpload,
     handleSheetsPerBookletChange,
     handleTextDirectionChange,

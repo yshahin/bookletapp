@@ -18,6 +18,26 @@ export function useBookletPdfGenerator(pdfData: ArrayBuffer | null, layout: Book
     }
 
     const pageRangeOffset = Math.max(0, (layout.rangeStart ?? 1) - 1)
+
+    // Optimize: Collect all valid page indices to copy in one batch operation
+    // this is significantly faster than calling copyPages for each page
+    const indicesToCopy: number[] = []
+
+    // First pass: identify valid pages
+    for (const pageNum of layout.sequence) {
+      if (pageNum !== null) {
+        const absoluteIndex = pageRangeOffset + pageNum - 1
+        if (absoluteIndex >= 0 && absoluteIndex < sourcePdf.getPageCount()) {
+          indicesToCopy.push(absoluteIndex)
+        }
+      }
+    }
+
+    // Batch copy
+    const copiedPages = await bookletPdf.copyPages(sourcePdf, indicesToCopy)
+
+    // Second pass: construct the booklet
+    let copiedPageIndex = 0
     for (const pageNum of layout.sequence) {
       if (pageNum === null) {
         bookletPdf.addPage(defaultSize)
@@ -26,9 +46,10 @@ export function useBookletPdfGenerator(pdfData: ArrayBuffer | null, layout: Book
 
       const absoluteIndex = pageRangeOffset + pageNum - 1
       if (absoluteIndex >= 0 && absoluteIndex < sourcePdf.getPageCount()) {
-        const [copiedPage] = await bookletPdf.copyPages(sourcePdf, [absoluteIndex])
-        bookletPdf.addPage(copiedPage)
+        bookletPdf.addPage(copiedPages[copiedPageIndex])
+        copiedPageIndex++
       } else {
+        // Page out of range or invalid, insert blank
         bookletPdf.addPage(defaultSize)
       }
     }
