@@ -14,7 +14,7 @@ interface EnrichedBookletLayout extends BookletLayout {
 // State & Actions
 // ------------------------------------------------------------------
 
-interface State {
+export interface State {
   pdfFile: File | null
   totalPages: number
   sheetsPerBooklet: number
@@ -33,25 +33,25 @@ interface State {
   coverPages: number
 }
 
-type Action =
+export type Action =
   | { type: 'SET_ERROR'; payload: string | null }
   | { type: 'SET_EXPORTING'; payload: boolean }
   | { type: 'START_FILE_LOAD' }
-  | {
-    type: 'FILE_LOADED';
-    payload: {
-      file: File;
-      data: ArrayBuffer;
-      totalPages: number;
-      initialDirection: TextDirection
+  | { 
+      type: 'FILE_LOADED'; 
+      payload: { 
+        file: File; 
+        data: ArrayBuffer; 
+        totalPages: number; 
+        initialDirection: TextDirection 
+      } 
     }
-  }
   | { type: 'FILE_LOAD_ERROR'; payload: string }
   | { type: 'SET_DETECTED_DIRECTION'; payload: { detected: TextDirection | null, final: TextDirection } }
   | { type: 'UPDATE_PARAM'; payload: Partial<State> }
   | { type: 'RESET_RANGE' }
 
-const initialState: State = {
+export const initialState: State = {
   pdfFile: null,
   totalPages: 0,
   sheetsPerBooklet: 4,
@@ -74,7 +74,7 @@ const initialState: State = {
 // Reducer Helper
 // ------------------------------------------------------------------
 
-function recalculateLayout(state: State): State {
+export function recalculateLayout(state: State): State {
   const {
     totalPages, rangeStart, rangeEnd,
     sheetsPerBooklet, pagesPerSheet,
@@ -129,7 +129,7 @@ function recalculateLayout(state: State): State {
   }
 }
 
-function bookletReducer(state: State, action: Action): State {
+export function bookletReducer(state: State, action: Action): State {
   switch (action.type) {
     case 'SET_ERROR':
       return { ...state, error: action.payload }
