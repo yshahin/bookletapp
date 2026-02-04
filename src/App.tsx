@@ -66,7 +66,7 @@ function App() {
   return (
     <div className="app">
       <GithubCorner
-        href="https://github.com/yshahin/bindry"
+        href="https://github.com/yshahin/bindery"
         bannerColor="#5d4037"
         octoColor="#f9f5f1"
         size={80}
