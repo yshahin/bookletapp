@@ -1,4 +1,4 @@
-# Booklet Layout Optimizer
+# Bindry
 
 A modern web application that calculates optimal booklet layouts for PDF files to minimize blank pages when printing.
 
