@@ -1,23 +1,68 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+@import "tailwindcss";
+
+@theme {
+  --color-warm-paper: #f9f5f1;
+  --color-parchment: #e8e4dc;
+  --color-saddle-brown: #5d4037;
+  --color-ink-black: #2b2b2b;
+  --font-serif: "Crimson Pro", serif;
+  --font-sans: "Lato", sans-serif;
+
+  --animate-fade-in: fadeIn 0.5s ease-out;
+  --animate-slide-up: slideUp 0.5s ease-out;
 }
 
-body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  min-height: 100vh;
-  padding: 20px;
+@layer base {
+  body {
+    background-color: var(--color-warm-paper);
+    color: var(--color-ink-black);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
 }
 
-#root {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
+@layer utilities {
+  .serif-font {
+    font-family: var(--font-serif);
+  }
+
+  .paper-shadow {
+    box-shadow:
+      0 1px 1px rgba(0, 0, 0, 0.05),
+      0 2px 5px rgba(0, 0, 0, 0.05),
+      0 10px 30px rgba(0, 0, 0, 0.04);
+  }
+
+  .paper-shadow-sm {
+    box-shadow:
+      0 1px 1px rgba(0, 0, 0, 0.05),
+      0 2px 2px rgba(0, 0, 0, 0.05);
+  }
+
+  .texture-overlay {
+    background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100' height='100' filter='url(%23noise)' opacity='0.08'/%3E%3C/svg%3E");
+    pointer-events: none;
+  }
 }
 
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

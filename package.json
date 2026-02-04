@@ -10,11 +10,16 @@
     "test:watch": "vitest"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.563.0",
     "pdf-lib": "^1.17.1",
     "pdfjs-dist": "^5.4.624",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "react-github-corner": "^2.5.0"
+    "react-github-corner": "^2.5.0",
+    "tailwind-merge": "^3.4.0",
+    "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
     "@testing-library/dom": "^10.4.0",
