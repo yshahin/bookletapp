@@ -3,16 +3,16 @@ import { describe, it, expect } from 'vitest';
 import { getYouTubeId, articles } from './data';
 
 describe('Article Data', () => {
-   it('loads markdown articles correctly', () => {
-     expect(articles.length).toBeGreaterThan(0);
-   });
-   
-   it('correctly parses frontmatter', () => {
-     const article = articles[0];
-     expect(article).toHaveProperty('title');
-     expect(article).toHaveProperty('date');
-     expect(article).toHaveProperty('content');
-   });
+  it('loads markdown articles correctly', () => {
+    expect(articles.length).toBeGreaterThan(0);
+  });
+
+  it('correctly parses frontmatter', () => {
+    const article = articles[0];
+    expect(article).toHaveProperty('title');
+    expect(article).toHaveProperty('date');
+    expect(article).toHaveProperty('content');
+  });
 });
 
 describe('getYouTubeId', () => {
