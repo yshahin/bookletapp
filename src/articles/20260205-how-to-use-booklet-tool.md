@@ -38,7 +38,7 @@ This is the most critical setting for binders. A **signature** is a group of fol
 *   **Single Signature**: If you are making a pamphlet or simple notebook, you can set this to cover the entire page count.
 
 #### Page Range
-You can choose to process only a specific chapter or section of your PDF using the "Start Page" and "End Page" sliders.
+You can choose to process only a specific chapter or section of your PDF using the "Start Page" and "End Page" inputs.
 
 #### Reading Direction
 Select **LTR** (Left-to-Right) for English, Spanish, etc., or **RTL** for languages like Arabic or Hebrew. The tool attempts to auto-detect this, but you can override it manually.
