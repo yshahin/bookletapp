@@ -2,7 +2,7 @@
 title: "How to Use the Booklet Imposition Tool"
 excerpt: "A step-by-step guide to transforming your digital PDFs into print-ready signatures for bookbinding."
 category: "Guide"
-date: "Feb 05, 2026"
+date: "Feb 04, 2026"
 image: "/images/covers/20260205-how-to-use-booklet-tool.png"
 ---
 

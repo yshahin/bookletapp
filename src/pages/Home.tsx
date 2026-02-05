@@ -34,20 +34,26 @@ export default function Home() {
       {/* Featured Content Grid */}
       <div className="grid md:grid-cols-2 gap-12 mt-12">
         {/* Latest Tutorial */}
-        <div
-          className="bg-white p-8 rounded-xl paper-shadow border border-stone-100 hover:border-stone-300 transition-colors cursor-pointer group"
-          onClick={() => navigate(`/articles/${latestArticle.id}`)}
-        >
-          <div className="flex items-center justify-between mb-4">
-            <span className="text-xs font-bold tracking-wider uppercase text-stone-400">Latest Article</span>
-            <ArrowRight className="h-5 w-5 text-stone-300 group-hover:text-stone-800 transition-colors" />
+        {latestArticle ? (
+          <div
+            className="bg-white p-8 rounded-xl paper-shadow border border-stone-100 hover:border-stone-300 transition-colors cursor-pointer group"
+            onClick={() => navigate(`/articles/${latestArticle.id}`)}
+          >
+            <div className="flex items-center justify-between mb-4">
+              <span className="text-xs font-bold tracking-wider uppercase text-stone-400">Latest Article</span>
+              <ArrowRight className="h-5 w-5 text-stone-300 group-hover:text-stone-800 transition-colors" />
+            </div>
+            <h2 className="serif-font text-3xl font-bold text-stone-800 mb-3 group-hover:text-amber-700 transition-colors">{latestArticle.title}</h2>
+            <p className="text-stone-600 mb-6 leading-relaxed line-clamp-3">{latestArticle.excerpt}</p>
+            <div className="flex items-center text-sm text-stone-400">
+              <Clock className="h-4 w-4 mr-2" /> {latestArticle.readTime}
+            </div>
           </div>
-          <h2 className="serif-font text-3xl font-bold text-stone-800 mb-3 group-hover:text-amber-700 transition-colors">{latestArticle.title}</h2>
-          <p className="text-stone-600 mb-6 leading-relaxed line-clamp-3">{latestArticle.excerpt}</p>
-          <div className="flex items-center text-sm text-stone-400">
-            <Clock className="h-4 w-4 mr-2" /> {latestArticle.readTime}
+        ) : (
+           <div className="bg-stone-50 p-8 rounded-xl border border-stone-100 flex items-center justify-center text-stone-400">
+            <p className="text-center italic">No articles currently available.<br />Check back soon!</p>
           </div>
-        </div>
+        )}
 
         {/* Featured Video */}
         {featuredVideo && (
