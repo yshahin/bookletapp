@@ -50,7 +50,7 @@ export default function Home() {
             </div>
           </div>
         ) : (
-           <div className="bg-stone-50 p-8 rounded-xl border border-stone-100 flex items-center justify-center text-stone-400">
+          <div className="bg-stone-50 p-8 rounded-xl border border-stone-100 flex items-center justify-center text-stone-400">
             <p className="text-center italic">No articles currently available.<br />Check back soon!</p>
           </div>
         )}
