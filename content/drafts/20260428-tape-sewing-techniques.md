@@ -5,11 +5,21 @@ category: "Technique"
 date: "Apr 28, 2026"
 image: "/images/covers/20261215-tape-sewing-techniques.png"
 published: false
+seoTitle: "Tape Sewing Tutorial: Using a Sewing Frame"
+metaDescription: "Learn tape sewing with a sewing frame for strong, archival-quality text blocks. Step-by-step guide with frame setup and board attachment methods."
+slug: "tape-sewing-techniques"
 ---
 
-Sewing onto tapes creates strong, durable text blocks suitable for heavy books and archival binding. Using a sewing frame holds tapes at consistent tension while you work, enabling professional results. This technique has been used for centuries and remains relevant for quality binding.
+Sewing onto tapes creates strong, durable text blocks suitable for heavy books and archival binding.
 
-### Understanding Tape Sewing
+**TL;DR**
+- Tapes provide structural support and anchor text blocks to boards
+- A sewing frame holds tapes taut at consistent positions while you work
+- Thread wraps around tapes at each sewing station, creating very strong joints
+
+![Hero: Text block being sewn onto tapes in a sewing frame](/images/hero/tape-sewing-frame.jpg)
+
+## Understanding Tape Sewing
 
 Tape sewing differs from unsupported sewing:
 
@@ -26,7 +36,9 @@ Tape sewing differs from unsupported sewing:
 
 <!-- TODO: Add photo comparing supported and unsupported sewing -->
 
-### The Sewing Frame
+> **Pro tip:** Test your tape tension by pressing the center of each tape—it should deflect slightly but spring back. Too tight restricts movement; too loose causes uneven sewing.
+
+## The Sewing Frame
 
 A sewing frame holds tapes taut and at correct positions.
 
@@ -55,17 +67,19 @@ If no frame available:
 - Less ideal but workable
 - Consider building or purchasing a frame
 
-### Materials for Tape Sewing
+## Tools & Materials
 
 | Material | Specification | Notes |
 |----------|---------------|-------|
-| Tapes | Linen or cotton, 1/2"-3/4" | Natural fiber preferred |
+| Tapes | Linen or cotton, 1/2–3/4 inch (12–20mm) | Natural fiber preferred |
 | Thread | Linen, waxed | Strong, appropriate weight |
 | Signatures | Prepared, pressed | Standard |
 | Needle | Straight, large eye | Must fit through holes easily |
 | Sewing frame | Adjusted for your tapes | Essential for best results |
 
-### Planning Tape Positions
+> **Budget option:** Cotton twill tape from fabric stores works well and costs a fraction of specialty bookbinding tape.
+
+## Planning Tape Positions
 
 Proper spacing ensures even support:
 
@@ -74,22 +88,22 @@ Proper spacing ensures even support:
 - Distance from head/tail approximately equal
 - More tapes for larger books
 
-**Example for 9" spine with 3 tapes:**
+**Example for 9-inch (23cm) spine with 3 tapes:**
 ```
 Head → ┌─────────────────────┐
-       │ ● Kettle station (1/2")
+       │ ● Kettle station 1/2 inch (12mm)
        │
-       │═══ Tape 1 (2.25")
+       │═══ Tape 1 at 2.25 inches (57mm)
        │
-       │═══ Tape 2 (4.5" - center)
+       │═══ Tape 2 at 4.5 inches (114mm) - center
        │
-       │═══ Tape 3 (6.75")
+       │═══ Tape 3 at 6.75 inches (171mm)
        │
-       │ ● Kettle station (8.5")
+       │ ● Kettle station 8.5 inches (216mm)
 Tail → └─────────────────────┘
 ```
 
-### Marking and Piercing
+## Marking and Piercing
 
 #### Creating the Template
 
@@ -106,11 +120,11 @@ Tail → └─────────────────────┘
 4. Two holes per tape (on either side)
 5. One hole each for kettle positions
 
-**Hole spacing at tapes:** Approximately 3/8" apart, tape sits between
+**Hole spacing at tapes:** Approximately 3/8 inch (10mm) apart, tape sits between
 
-<!-- TODO: Add photo showing template and piercing -->
+![Step 1: Template showing tape positions and hole markings](/images/diagrams/tape-sewing-template.jpg)
 
-### The Sewing Process
+## The Sewing Process
 
 #### Positioning First Signature
 
@@ -123,7 +137,7 @@ Tail → └─────────────────────┘
 
 **Starting:**
 1. Enter at kettle station inside (head)
-2. Draw thread through, leave 3" tail
+2. Draw thread through, leave 3-inch (8cm) tail
 
 **At each tape:**
 3. Exit at first hole beside tape
@@ -142,7 +156,11 @@ Tail → └─────────────────────┘
 5. At head: kettle stitch
 6. Tie thread to starting tail with square knot
 
-#### Continuing
+![Step 2: Thread path showing wrap around tape](/images/diagrams/tape-sewing-path.svg)
+
+> **Common mistake:** Sewing through the tape instead of around it. The needle and thread must pass around the outside of the tape, not pierce it.
+
+### Continuing
 
 For each new signature:
 1. Enter at the end where you just made kettle stitch
@@ -151,7 +169,7 @@ For each new signature:
 4. Kettle stitch at opposite end
 5. Continue adding signatures
 
-### Kettle Stitch in Tape Sewing
+## Kettle Stitch in Tape Sewing
 
 The kettle stitch at head and tail is the same as unsupported sewing:
 1. Loop thread under the stitch connecting previous two signatures
@@ -160,7 +178,7 @@ The kettle stitch at head and tail is the same as unsupported sewing:
 
 The tapes don't change the kettle stitch - it still links signatures at the ends.
 
-### Tension Considerations
+## Tension Considerations
 
 **At tapes:**
 - Pull thread snug around tape
@@ -177,16 +195,16 @@ The tapes don't change the kettle stitch - it still links signatures at the ends
 - Links should be snug
 - Creates the chain at spine ends
 
-### Removing from Frame
+## Removing from Frame
 
 When sewing is complete:
 
 1. Tie off final kettle stitch securely
-2. Cut tapes from frame, leaving 1.5-2" extensions
+2. Cut tapes from frame, leaving 1.5–2 inch (4–5cm) extensions
 3. Handle text block carefully
 4. Tape extensions will attach to boards
 
-### Post-Sewing Treatment
+## Post-Sewing Treatment
 
 #### Gluing the Spine
 
@@ -201,7 +219,7 @@ When sewing is complete:
 2. Consolidates sewing
 3. Don't crush tapes
 
-### Board Attachment
+## Board Attachment
 
 Tapes provide strong board connection.
 
@@ -237,9 +255,9 @@ For very clean appearance:
 - Less refined but functional
 - Cover with pastedown
 
-<!-- TODO: Add diagram showing laced board construction -->
+![Step 3: Tapes laced through slots in cover boards](/images/diagrams/tape-lacing-boards.jpg)
 
-### Troubleshooting
+## Tips & Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -249,7 +267,9 @@ For very clean appearance:
 | Weak joints | Tapes not well anchored | Better board attachment |
 | Spine too rigid | Too much glue | Less adhesive |
 
-### Historical Context
+> **Tool swap:** No sewing frame? Tape the ends of your tapes to a wall or clipboard and weight the bottom ends. Less ideal but workable for practice.
+
+## Historical Context
 
 Tape sewing evolved from sewing on cords:
 - Medieval books sewn on raised cords
@@ -258,7 +278,7 @@ Tape sewing evolved from sewing on cords:
 - Allowed smoother spines
 - Same structural principles
 
-### When to Use Tape Sewing
+## When to Use Tape Sewing
 
 **Ideal for:**
 - Library binding
@@ -273,7 +293,7 @@ Tape sewing evolved from sewing on cords:
 - Decorative exposed spine books
 - Where simplicity is preferred
 
-### Building or Buying a Frame
+## Building or Buying a Frame
 
 **DIY frame:**
 - Wood base and uprights
@@ -286,8 +306,49 @@ Tape sewing evolved from sewing on cords:
 - Range from basic to professional
 - Investment for serious binding
 
-### Conclusion
+---
 
-Tape sewing creates the strong, durable text blocks that define quality binding. The sewing frame transforms this from awkward to elegant - taut tapes and good positioning make the work flow smoothly.
+## Glossary
 
-Master the rhythm of around-the-tape sewing, and you'll have access to binding structures appropriate for books meant to last generations. The technique connects you to centuries of bookmaking tradition while producing work that meets the highest standards.
+- **Sewing frame:** A device that holds tapes taut and at correct positions during sewing
+- **Kettle stitch:** The linking stitch at head and tail that connects signatures
+- **Lacing:** Threading tape extensions through slots in cover boards for attachment
+- **Swell:** The increased spine thickness caused by thread passing through signatures
+- **Knocking down:** Gently tapping the spine with a hammer to consolidate sewing
+
+---
+
+## FAQ
+
+**How many tapes do I need?**
+Two tapes for small books under 6 inches (15cm), three for medium books, four or more for large or heavy books. More tapes means more support but longer sewing time.
+
+**Can I use ribbon instead of tape?**
+Ribbon is weaker than woven tape and may not hold up to board attachment. For decorative bindings that won't see heavy use, it works; for durable books, use proper linen or cotton tape.
+
+**Do I need a sewing frame?**
+Not strictly, but it helps significantly. Without one, tape your tape ends to the wall and weight the bottoms, or have an assistant hold them taut.
+
+**How do I know if tension is correct?**
+Tapes should stay centered and not pull sideways. Signatures should compress evenly. If the spine curves or tapes shift, adjust your pull.
+
+**What width tape should I use?**
+Standard is 1/2–3/4 inch (12–20mm). Narrower tapes for small books, wider for large books. The tape width affects the slot size needed in boards.
+
+---
+
+## Suggested Internal Links
+
+- French Link Stitch
+- Beginner's Guide to Case Binding
+- Thread Types Guide
+- Kettle Stitch: The Foundation
+
+---
+
+## Image Plan
+
+- **Hero:** Text block being sewn onto tapes in a sewing frame
+- **Step 1:** Template showing tape positions and hole markings
+- **Step 2:** Thread path showing wrap around tape
+- **Step 3:** Tapes laced through slots in cover boards

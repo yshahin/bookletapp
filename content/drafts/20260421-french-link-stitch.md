@@ -5,11 +5,21 @@ category: "Technique"
 date: "Apr 21, 2026"
 image: "/images/covers/20261208-french-link-stitch.png"
 published: false
+seoTitle: "French Link Stitch Tutorial: Tape Sewing Technique"
+metaDescription: "Master the French link stitch for durable exposed-spine books. Combines decorative chain pattern with tape reinforcement for heavy-use journals."
+slug: "french-link-stitch"
 ---
 
-The French link stitch combines the decorative appeal of Coptic-style exposed sewing with the structural benefits of sewing onto tapes. Thread links between signatures create a chain pattern on the spine while tape supports provide added strength for the binding.
+The French link stitch combines the decorative appeal of Coptic-style exposed sewing with the structural benefits of sewing onto tapes.
 
-### Understanding French Link Stitch
+**TL;DR**
+- Thread links between signatures while wrapping around support tapes
+- Creates visible chain pattern with added structural strength
+- Ideal for sketchbooks and journals that need durability
+
+![Hero: Exposed spine showing French link chain pattern over tapes](/images/hero/french-link-spine.jpg)
+
+## Understanding French Link Stitch
 
 French link stitch differs from both simple link stitch and tape sewing:
 
@@ -25,9 +35,7 @@ French link stitch differs from both simple link stitch and tape sewing:
 - Beautiful spine appearance
 - Appropriate for medium to heavy books
 
-<!-- TODO: Add photo showing French link stitch spine -->
-
-### When to Use French Link
+## When to Use French Link
 
 **Ideal for:**
 - Sketchbooks and journals (needs durability)
@@ -35,7 +43,8 @@ French link stitch differs from both simple link stitch and tape sewing:
 - Medium to thick text blocks
 - When both strength and beauty matter
 
-**Compare to other stitches:**
+> **Pro tip:** French link is excellent for travel journals and field notebooks—the tapes add durability for rough handling.
+
 | Stitch Type | Strength | Decoration | Complexity |
 |-------------|----------|------------|------------|
 | Kettle stitch | Good | Hidden | Basic |
@@ -43,64 +52,68 @@ French link stitch differs from both simple link stitch and tape sewing:
 | French link | Excellent | Visible | Intermediate |
 | Coptic | Good | Very visible | Intermediate |
 
-### Materials Needed
+## Tools & Materials
 
 | Material | Specification | Notes |
 |----------|---------------|-------|
 | Text paper | Folded signatures | Standard preparation |
-| Cover boards | Book board | If making a case |
-| Tapes | Linen or cotton, 1/2" wide | 2-4 depending on book size |
+| Cover boards | Book board, 1/16 inch (2mm) | If making a case |
+| Tapes | Linen or cotton, 1/2 inch (12mm) wide | 2–4 depending on book size |
 | Thread | Waxed linen | Medium weight |
 | Needle | Curved or straight | Large eye |
 | Awl | For piercing | Sharp |
 | Sewing frame (optional) | For tape positioning | Helpful but not essential |
 
-### Preparing the Tapes
+> **Budget option:** Cotton twill tape from a fabric store works well and costs less than specialty bookbinding tape.
 
-#### Tape Selection
+## Preparing the Tapes
 
-**Linen tape:** Traditional, strong
-**Cotton tape:** More economical, good grip
-**Width:** 1/2" to 3/4" typical
+### Tape Selection
 
-#### Tape Quantity
+- **Linen tape:** Traditional, strong
+- **Cotton tape:** More economical, good grip
+- **Width:** 1/2–3/4 inch (12–20mm) typical
+
+### Tape Quantity
 
 Based on spine height:
-- Small books (under 6"): 2 tapes
-- Medium books (6-9"): 3 tapes
-- Large books (over 9"): 4+ tapes
+- Small books (under 6 inches / 15cm): 2 tapes
+- Medium books (6–9 inches / 15–23cm): 3 tapes
+- Large books (over 9 inches / 23cm): 4+ tapes
 
-#### Tape Preparation
+### Tape Preparation
 
-1. Cut tapes to approximately 3" longer than spine width
+1. Cut tapes to approximately 3 inches (8cm) longer than spine width
 2. Tapes will extend beyond the text block
 3. Extensions later attach to boards or fold inside
 
-### Marking and Piercing
+![Step 1: Prepared tapes and signatures with marked sewing stations](/images/diagrams/french-link-preparation.jpg)
 
-#### Station Layout
+## Marking and Piercing
 
-Example for 3 tapes on 8" spine:
+### Station Layout
+
+Example for 3 tapes on 8-inch (20cm) spine:
 
 ```
-Head end → ────────────────── ← Kettle station (1/2" from edge)
+Head end → ────────────────── ← Kettle station (1/2 inch from edge)
 
-          ═══════════════════ ← Tape 1 (2" from head)
+          ═══════════════════ ← Tape 1 (2 inches from head)
 
-          ═══════════════════ ← Tape 2 (4" - center)
+          ═══════════════════ ← Tape 2 (4 inches - center)
 
-          ═══════════════════ ← Tape 3 (6" from head)
+          ═══════════════════ ← Tape 3 (6 inches from head)
 
-Tail end → ────────────────── ← Kettle station (1/2" from edge)
+Tail end → ────────────────── ← Kettle station (1/2 inch from edge)
 ```
 
 **At each tape:** Pierce holes on either side (thread enters one side, exits other)
 
-#### Piercing Pattern
+### Piercing Pattern
 
 For each signature at each tape station:
 - Two holes, straddling the tape position
-- Holes approximately 3/8" apart
+- Holes approximately 3/8 inch (10mm) apart
 - Tape will sit between these holes
 
 **Total holes per signature (for 3 tapes):**
@@ -108,16 +121,18 @@ For each signature at each tape station:
 - 6 tape stations (2 per tape)
 - Total: 8 holes
 
-### The French Link Sewing Pattern
+## Step-by-Step Sewing
 
-#### Setting Up
+### Setting Up
 
 1. Position first signature
 2. Place tapes across spine at marked positions
 3. Tapes sit behind the signature
 4. Hold tapes in place (sewing frame, tape, or assistant)
 
-#### Sewing Signature 1
+> **Tool swap:** No sewing frame? Tape the ends of your tapes to the work surface with masking tape. Remove and reposition as you sew.
+
+### Sewing Signature 1
 
 1. Enter at head kettle station from inside
 2. Exit outside, wrap thread around tape 1
@@ -131,9 +146,9 @@ For each signature at each tape station:
 
 **Pattern:** The thread wraps around each tape, creating the structural connection.
 
-<!-- TODO: Add diagram showing sewing path through signature -->
+![Step 2: Diagram showing sewing path through signature around tapes](/images/diagrams/french-link-sewing-path.svg)
 
-#### Adding Signature 2
+### Adding Signature 2
 
 1. Position signature 2 on top of signature 1
 2. Enter at tail from outside
@@ -143,7 +158,7 @@ For each signature at each tape station:
 6. At head: kettle stitch to signature 1
 7. Tie to starting tail with square knot
 
-#### The French Link (The Key Technique)
+### The French Link (The Key Technique)
 
 The "French link" happens at each tape:
 
@@ -155,7 +170,6 @@ The "French link" happens at each tape:
 
 This creates the chain pattern visible on the spine.
 
-**Visual:**
 ```
      Sig 2 thread
          │
@@ -166,7 +180,9 @@ This creates the chain pattern visible on the spine.
          │
 ```
 
-#### Continuing the Pattern
+> **Common mistake:** Forgetting to pass behind the tape twice. The thread must go behind the tape, form the link, then pass behind the tape again before re-entering.
+
+### Continuing the Pattern
 
 For each subsequent signature:
 1. Enter at the end where previous exited
@@ -174,11 +190,13 @@ For each subsequent signature:
 3. Kettle stitch at spine ends
 4. Build up chain pattern at tapes
 
-### Board Attachment Options
+![Step 3: Completed French link sewing showing chain pattern](/images/diagrams/french-link-completed.jpg)
+
+## Board Attachment Options
 
 The tape extensions allow several attachment methods:
 
-#### Laced-In Boards
+### Laced-In Boards
 
 Traditional method:
 1. Cut slots in boards for tapes
@@ -188,23 +206,21 @@ Traditional method:
 
 Strong, historical, clean appearance.
 
-#### Adhered Tapes
+### Adhered Tapes
 
 Simpler method:
 1. Paste tape extensions to inside of boards
 2. Cover with pastedown
 3. Functional but less refined
 
-#### Exposed Tapes
+### Exposed Tapes
 
 Contemporary option:
 1. Leave tapes visible
 2. Creates design feature
 3. Industrial or artistic aesthetic
 
-<!-- TODO: Add photo showing board attachment options -->
-
-### Troubleshooting
+## Tips & Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -212,14 +228,14 @@ Contemporary option:
 | Tapes shifting | Not secured well | Better initial attachment |
 | Tension inconsistent | Variable pulling | Focus on even tension |
 | Forgetting links | Complex pattern | Count stations systematically |
-| Holes tearing | Too close to edge | Increase margins |
+| Holes tearing | Too close to edge | Increase margins to 1/2 inch (12mm) |
 
 ### Tips for Success
 
 **Tape Management:**
 - Secure tapes well before starting
 - A sewing frame makes this easier
-- Or use small pieces of tape to hold in place
+- Or use small pieces of masking tape to hold in place
 
 **Thread Tension:**
 - Snug but not tight
@@ -231,43 +247,73 @@ Contemporary option:
 - Count stations to avoid missing links
 - Take time with first few signatures
 
-### Variations
+> **Pro tip:** Say the pattern aloud as you sew: "Exit, behind tape, link, behind tape, enter." This prevents mistakes.
 
-#### Single Link
+## Variations
+
+### Single Link
 
 Simplified version:
 - Link only to adjacent signature (not through previous chain)
 - Easier but less decorative
 
-#### Colored Thread
+### Colored Thread
 
 Design element:
 - Contrasting thread highlights the chain
 - Multiple colors possible
 - Decorative emphasis
 
-#### Combined with Other Structures
+### Combined with Other Structures
 
 French link can combine with:
 - Exposed spine covers
 - Limp bindings
 - Case bindings (tapes hidden inside)
 
-### Practice Exercise
+---
 
-**Practice book:**
-- 5 signatures, 3 sheets each
-- 2 tapes
-- Scrap paper fine
-- Focus on link formation
+## Glossary
 
-**Goals:**
-- Consistent links
-- Even tension
-- Understand the pattern
+- **French link:** The looping connection formed at each tape station between signatures
+- **Kettle stitch:** The linking stitch at head and tail that joins signatures at the spine ends
+- **Sewing station:** A hole position through which the needle and thread pass
+- **Tape:** Woven strip providing structural support perpendicular to the spine
+- **Laced-in boards:** Board attachment where tapes pass through slots cut in the cover
 
-### Conclusion
+---
 
-French link stitch offers an excellent balance of structural strength and visual appeal. The tapes provide support while the linked thread creates an attractive chain pattern.
+## FAQ
 
-Master the basic rhythm of exit-link-reenter at each tape, and the technique becomes natural. The result is a binding that works as well as it looks, suitable for books that will see real use while displaying your craftsmanship.
+**How is French link different from regular tape sewing?**
+In regular tape sewing, you simply wrap around the tape. French link adds a loop connecting to the previous signature, creating the visible chain pattern.
+
+**Can I use ribbons instead of tape?**
+Ribbon is weaker than woven tape. For decorative books that won't see heavy use, it works. For journals, stick with linen or cotton tape.
+
+**Do I need a sewing frame?**
+No, but it helps significantly. Without one, tape your tape ends to the table and work carefully to keep them positioned.
+
+**How many signatures can I sew with one length of thread?**
+Approximately 4–6 signatures depending on spine height. Join new thread with a reef knot inside a signature and continue.
+
+**Can I combine French link with Coptic-style covers?**
+Yes. Use French link for the signatures, then attach covers with the tape extensions or with Coptic-style board holes—a hybrid approach that's very strong.
+
+---
+
+## Suggested Internal Links
+
+- Tape Sewing Techniques
+- Coptic Stitch: The Basics
+- Thread Types Guide
+- Beginner's Guide to Case Binding
+
+---
+
+## Image Plan
+
+- **Hero:** Exposed spine showing French link chain pattern over tapes
+- **Step 1:** Prepared tapes and signatures with marked sewing stations
+- **Step 2:** Diagram showing sewing path through signature around tapes
+- **Step 3:** Completed French link sewing showing chain pattern

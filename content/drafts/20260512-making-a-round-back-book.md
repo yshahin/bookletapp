@@ -5,11 +5,21 @@ category: "Project"
 date: "May 12, 2026"
 image: "/images/covers/20260714-making-a-round-back-book.png"
 published: false
+seoTitle: "Round Back Case Binding: Complete Project Guide"
+metaDescription: "Create a professional hardcover book with rounded spine and backing shoulders. Step-by-step project covering sewing through hollow back construction."
+slug: "making-a-round-back-book"
 ---
 
-Building on the theory from our previous article, this project guides you through creating a round-backed case binding. You will sew a text block, round and back the spine, and construct a case that accommodates the shaped spine. This is advanced work - ensure you are comfortable with basic case binding before attempting.
+This project guides you through creating a round-backed case binding with hollow back construction.
 
-### Project Overview
+**TL;DR**
+- Sew an 8-signature text block, then round and back the spine
+- Construct a hollow back for flexible spine movement
+- Build a case that accommodates the shaped spine with proper shoulder fit
+
+![Hero: Finished round-backed hardcover book showing curved spine profile](/images/hero/round-back-book.jpg)
+
+## Project Overview
 
 **Structure:** Rounded and backed case binding with hollow back
 **Finished size:** 6" x 9" (A5 approximate)

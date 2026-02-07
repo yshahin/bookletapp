@@ -5,11 +5,21 @@ category: "Project"
 date: "May 26, 2026"
 image: "/images/covers/20260804-box-making-101-slipcases.png"
 published: false
+seoTitle: "How to Build a Slipcase: Box Making Basics"
+metaDescription: "Build a protective slipcase for your books. Learn precise measuring, board cutting, and assembly techniques that apply to all box-making projects."
+slug: "box-making-101-slipcases"
 ---
 
-A slipcase protects a book while displaying its spine. The book slides in and out through an open end, with the spine remaining visible. Building a slipcase introduces fundamental box-making skills that transfer to clamshell boxes, portfolios, and other enclosures.
+A slipcase protects a book while displaying its spine, and building one introduces fundamental box-making skills.
 
-### Understanding Slipcase Construction
+**TL;DR**
+- A slipcase is a five-sided box with the spine side open for display
+- Precise measurement with ease allowances ensures proper fit
+- Skills learned transfer directly to clamshell boxes and portfolios
+
+![Hero: Book sliding into finished slipcase showing spine display](/images/hero/slipcase-display.jpg)
+
+## Understanding Slipcase Construction
 
 A slipcase is essentially a five-sided box:
 - Two sides (parallel to book covers)
