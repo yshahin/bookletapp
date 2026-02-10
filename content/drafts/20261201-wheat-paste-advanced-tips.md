@@ -5,11 +5,21 @@ category: "Materials"
 date: "Dec 01, 2026"
 image: "/images/covers/20261201-wheat-paste-advanced-tips.png"
 published: false
+seoTitle: "Wheat Paste: Advanced Tips & Recipes"
+metaDescription: "Master wheat paste preparation and application for bookbinding. Covers cooking technique, consistency control, and troubleshooting common issues."
+slug: "wheat-paste-advanced-tips"
 ---
 
-Wheat paste is the traditional bookbinding adhesive, valued for its reversibility, long working time, and compatibility with paper and cloth. While basic paste-making is straightforward, advanced techniques produce better results. This guide covers professional approaches to wheat paste.
+Wheat paste is the traditional adhesive for paper work in bookbinding, and mastering its preparation transforms your results.
 
-### Understanding Wheat Paste
+**TL;DR**
+- Cook wheat starch slowly with constant stirring to achieve smooth, lump-free paste
+- Consistency ranges from thick (tipping) to thin (full sheet adhesion) depending on task
+- Wheat paste allows repositioning during application — PVA does not
+
+![Hero: Wheat Paste: Advanced Tips & Recipes](/images/hero/wheat-paste-advanced-tips.jpg)
+
+## Understanding Wheat Paste
 
 Wheat paste is cooked starch:
 - Starch granules swell with water and heat
@@ -24,7 +34,7 @@ Wheat paste is cooked starch:
 - Centuries of proven use
 - Can be modified for specific needs
 
-### Basic Recipe Review
+## Basic Recipe Review
 
 **Standard wheat paste:**
 - 1 part wheat starch
@@ -38,9 +48,8 @@ Wheat paste is cooked starch:
 4. Strain if lumps present
 5. Cool before use
 
-<!-- TODO: Add photo showing paste consistency stages -->
 
-### Starch Selection
+## Starch Selection
 
 The starting material matters:
 
@@ -69,7 +78,7 @@ The starting material matters:
 - Lower tack
 - Useful for specific applications
 
-### Advanced Cooking Techniques
+## Advanced Cooking Techniques
 
 #### Double Boiler Method
 
@@ -102,7 +111,7 @@ For exceptionally smooth paste:
 3. Removes any remaining lumps
 4. Creates very smooth texture
 
-### Consistency Modifications
+## Consistency Modifications
 
 Different jobs need different paste:
 
@@ -138,9 +147,8 @@ Different jobs need different paste:
 - Enough body to stay where applied
 - Most versatile
 
-<!-- TODO: Add comparison photo of paste consistencies -->
 
-### Modifying Paste Properties
+## Modifying Paste Properties
 
 #### Adding PVA
 
@@ -189,7 +197,7 @@ For longer refrigerator life:
 
 **Without preservatives:** Use within 1 week refrigerated
 
-### Storage and Handling
+## Storage and Handling
 
 #### Short-term Storage
 
@@ -222,7 +230,7 @@ If paste thickens in storage:
 3. May need to warm gently
 4. Test before using on good materials
 
-### Professional Application
+## Professional Application
 
 How experts use paste:
 
@@ -257,7 +265,7 @@ For large areas:
 4. Place working amount in shallow dish
 5. Work from this, not the storage container
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -269,7 +277,7 @@ For large areas:
 | Won't stick | Paste dried on brush or material | Fresh paste, work faster |
 | Cockling paper | Wet-out not even | More consistent application |
 
-### Special Applications
+## Special Applications
 
 #### Leather Work
 
@@ -297,7 +305,7 @@ Joining papers:
 - Press well
 - Allow full drying under weight
 
-### Conservation Considerations
+## Conservation Considerations
 
 For archival work:
 
@@ -312,7 +320,7 @@ For archival work:
 - Important for conservation records
 - Aids future treatments
 
-### Making Paste for Workshops
+## Making Paste for Workshops
 
 When making paste for multiple users:
 
@@ -327,8 +335,49 @@ When making paste for multiple users:
 - Individual containers prevent contamination
 - Brief storage instructions
 
-### Conclusion
+---
 
-Mastering wheat paste elevates all your binding work. The adhesive that seems simple rewards attention to detail in preparation, consistency modification, and application technique.
+## Glossary
 
-Make paste regularly enough that it becomes familiar. Experiment with modifications for specific applications. Trust the material that has served bookbinders for centuries, and your work will show the difference.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Wheat Paste: Advanced Tips & Recipes
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

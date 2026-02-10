@@ -5,11 +5,21 @@ category: "Tools"
 date: "Jul 07, 2026"
 image: "/images/covers/20270202-leather-paring-knife-shapes.png"
 published: false
+seoTitle: "Leather Paring Knives: Shapes & Uses"
+metaDescription: "Learn which paring knife shapes suit different leather thinning tasks. Compare English, French, and Swiss knife profiles for bookbinding."
+slug: "leather-paring-knife-shapes"
 ---
 
-Leather paring requires specific tools with particular geometries. French and English paring knives represent two distinct approaches, each with advantages for different techniques. Understanding these tools helps you choose appropriately and use them effectively.
+Different paring knife shapes excel at different leather thinning tasks, and understanding these shapes helps you choose the right tool.
 
-### Why Knife Shape Matters
+**TL;DR**
+- English paring knives handle broad paring and general thinning
+- French knives excel at edge paring with their curved blade profile
+- Knife shape determines paring technique — match the tool to the task
+
+![Hero: Leather Paring Knives: Shapes & Uses](/images/hero/leather-paring-knife-shapes.jpg)
+
+## Why Knife Shape Matters
 
 Paring leather is precise work:
 - Removing small amounts of material
@@ -23,7 +33,7 @@ The knife's shape determines:
 - Which techniques are possible
 - How easy control is to achieve
 
-### French Paring Knife
+## French Paring Knife
 
 The French style dominates in fine binding:
 
@@ -49,7 +59,6 @@ Side view:
 - Blade width: 1-1.5 inches
 - Overall length: 5-6 inches
 
-<!-- TODO: Add photo of French paring knife with labeled parts -->
 
 #### Characteristics
 
@@ -80,7 +89,7 @@ Side view:
 3. Lift at end of stroke
 4. Repeatable, controlled shaving
 
-### English Paring Knife
+## English Paring Knife
 
 The English style offers different advantages:
 
@@ -134,7 +143,7 @@ ____________
 3. Consistent angle maintained
 4. Controlled by hand position
 
-### Comparing the Knives
+## Comparing the Knives
 
 | Feature | French Knife | English Knife |
 |---------|--------------|---------------|
@@ -147,7 +156,7 @@ ____________
 | Sharpening | Complex | Simpler |
 | Tradition | Continental | British |
 
-### Choosing Your Knife
+## Choosing Your Knife
 
 #### Consider Your Training
 
@@ -168,7 +177,7 @@ ____________
 - English knives: More readily available
 - Quality matters more than style
 
-### Other Paring Tools
+## Other Paring Tools
 
 Beyond these two primary styles:
 
@@ -195,9 +204,8 @@ Beyond these two primary styles:
 - Less control than knife
 - Good for repetitive tasks
 
-<!-- TODO: Add photo comparing various paring tools -->
 
-### Quality Indicators
+## Quality Indicators
 
 When purchasing any paring knife:
 
@@ -215,7 +223,7 @@ When purchasing any paring knife:
 - Uncomfortable grip
 - Uneven bevels
 
-### Maintaining Your Paring Knife
+## Maintaining Your Paring Knife
 
 #### Sharpening French Knives
 
@@ -241,7 +249,7 @@ Both styles benefit from:
 - Protected storage
 - Regular sharpening schedule
 
-### Learning to Pare
+## Learning to Pare
 
 Regardless of knife style:
 
@@ -257,7 +265,7 @@ Regardless of knife style:
 - Gouging (knife catches)
 - Fatigue (grip too tight)
 
-### Historical Context
+## Historical Context
 
 The French/English division reflects broader bookbinding traditions:
 
@@ -275,7 +283,7 @@ The French/English division reflects broader bookbinding traditions:
 
 Both produced excellent work; the tools reflect different approaches to the same goal.
 
-### Building Your Kit
+## Building Your Kit
 
 **Starting out:**
 - One quality knife (either style)
@@ -289,10 +297,49 @@ Both produced excellent work; the tools reflect different approaches to the same
 - Various blade shapes
 - Possibly mechanized paring
 
-### Conclusion
+---
 
-French and English paring knives represent different solutions to leather thinning. Neither is definitively superior - each has strengths for particular techniques and preferences.
+## Glossary
 
-Choose based on your training, intended work, and what feels natural in your hand. A well-maintained knife of either type, in practiced hands, produces beautiful results.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
 
-In the next article, we'll move from tools to techniques, covering edge paring versus full-surface paring methods.
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Leather Paring Knives: Shapes & Uses
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

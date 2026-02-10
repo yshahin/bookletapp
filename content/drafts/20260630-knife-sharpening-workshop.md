@@ -5,11 +5,21 @@ category: "Tools"
 date: "Jun 30, 2026"
 image: "/images/covers/20260818-knife-sharpening-workshop.png"
 published: false
+seoTitle: "Bookbinding Knife Sharpening: Edge Maintenance"
+metaDescription: "Learn to sharpen and maintain bookbinding knives for precise cutting and leather paring. Covers sharpening stones, angles, and technique."
+slug: "knife-sharpening-workshop"
 ---
 
-Sharp tools are essential for quality bookbinding, especially when working with leather. A dull knife tears rather than cuts, makes paring impossible, and creates frustration. This workshop covers sharpening principles and techniques for the knives bookbinders use most.
+Sharp tools are essential for quality bookbinding, and learning to maintain them properly is a foundational skill.
 
-### Why Sharpness Matters
+**TL;DR**
+- A dull knife tears rather than cuts, making precision work impossible
+- Different bookbinding knives require different sharpening angles and techniques
+- Regular stropping maintains an edge far longer than occasional full resharpening
+
+![Hero: Bookbinding Knife Sharpening: Edge Maintenance](/images/hero/knife-sharpening-setup.jpg)
+
+## Why Sharpness Matters
 
 In bookbinding, sharpness affects:
 
@@ -19,7 +29,7 @@ In bookbinding, sharpness affects:
 **Safety:** Dull knives require more pressure, increasing slip risk
 **Results:** Clean cuts vs. ragged edges
 
-### Understanding Knife Edges
+## Understanding Knife Edges
 
 Before sharpening, understand what you're creating:
 
@@ -55,9 +65,10 @@ Cross-section:
 - Most Western knives
 - More versatile
 
-<!-- TODO: Add diagram comparing bevel types -->
 
-### Tools for Sharpening
+> **Pro tip:** Test sharpness by slicing a single sheet of paper. A sharp knife cuts cleanly with minimal pressure; a dull one catches and tears.
+
+## Tools for Sharpening
 
 #### Sharpening Stones
 
@@ -95,7 +106,9 @@ Cross-section:
 
 For bookbinding, a medium (1000) and fine (4000-6000) stone combination serves most needs.
 
-### Sharpening Technique
+![Step 1: Bookbinding Knife Sharpening: Edge Maintenance - setup](/images/diagrams/sharpening-angle-guide.jpg)
+
+## Sharpening Technique
 
 #### Basic Motion
 
@@ -108,7 +121,6 @@ The fundamental sharpening motion:
 5. Apply even pressure
 6. Count strokes for consistency
 
-<!-- TODO: Add photo demonstrating proper sharpening position -->
 
 #### Maintaining Angle
 
@@ -132,7 +144,7 @@ When sharpening creates a burr (wire edge):
 2. Alternate sides with decreasing pressure
 3. Strop to remove final burr
 
-### Sharpening Specific Tools
+## Sharpening Specific Tools
 
 #### Paring Knives
 
@@ -185,7 +197,9 @@ Bookbinding scissors need occasional attention:
 4. Never sharpen flat inside surface
 5. Test cut frequently
 
-### Stropping
+> **Common mistake:** Pressing too hard on the stone. Let the abrasive do the work. Heavy pressure creates an uneven bevel and can dish the stone.
+
+## Stropping
 
 A strop polishes and aligns the edge after sharpening.
 
@@ -216,9 +230,8 @@ A strop polishes and aligns the edge after sharpening.
 
 **Critical:** Edge trails during stropping. Edge leading will cut the strop.
 
-<!-- TODO: Add video showing proper stropping technique -->
 
-### Maintenance Schedule
+## Maintenance Schedule
 
 #### Daily
 
@@ -238,7 +251,9 @@ A strop polishes and aligns the edge after sharpening.
 - Check for chips requiring coarse stone
 - Clean and condition handles
 
-### Testing Sharpness
+![Step 2: Bookbinding Knife Sharpening: Edge Maintenance - process](/images/diagrams/stropping-technique.jpg)
+
+## Testing Sharpness
 
 Several methods to evaluate your edge:
 
@@ -263,7 +278,9 @@ Several methods to evaluate your edge:
 - Gently, don't cut yourself
 - Dull blade slides off
 
-### Troubleshooting
+> **Budget option:** Wet/dry sandpaper on a flat surface (glass or granite) works as an effective sharpening system. Start at 400 grit and progress to 2000.
+
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -273,7 +290,7 @@ Several methods to evaluate your edge:
 | Uneven edge | Pressure not distributed | Full stone contact, even pressure |
 | Stone glazing | Metal buildup | Flatten and clean stone |
 
-### Stone Maintenance
+## Stone Maintenance
 
 Sharpening stones need care too.
 
@@ -292,7 +309,7 @@ Water stones dish (become concave) with use:
 - Oil stones: wipe clean, replenish oil
 - Diamond stones: scrub with soap and water
 
-### Safety Considerations
+## Safety Considerations
 
 Working with sharp tools requires care:
 
@@ -308,7 +325,11 @@ Working with sharp tools requires care:
 - Don't rush
 - Respect the edge
 
-### Building the Kit
+> **Tool swap:** No leather strop? The back of a leather belt, smooth side, mounted flat works well. Add stropping compound for best results.
+
+![Step 3: Bookbinding Knife Sharpening: Edge Maintenance - result](/images/diagrams/edge-testing-paper.jpg)
+
+## Building the Kit
 
 **Beginner sharpening kit:**
 - 1000 grit water stone
@@ -322,8 +343,49 @@ Working with sharp tools requires care:
 - Cardboard strop with compound
 - Marker for angle checking
 
-### Conclusion
+---
 
-Sharpening is a skill that develops with practice. The investment in learning proper technique pays dividends in every cut you make. Sharp tools are safer, produce better results, and make work enjoyable rather than frustrating.
+## Glossary
 
-Start with your most-used knife. Practice the motion until it becomes natural. Maintain your edges regularly, and you'll always be ready for precise, clean work.
+- **Stropping:** Drawing a blade across leather (often with compound) to realign and polish the edge
+- **Bevel:** The angled face ground into the blade that forms the cutting edge
+- **Grit:** The coarseness of a sharpening stone — lower numbers are coarser, higher are finer
+- **Burr:** A thin wire edge that forms on the opposite side of the blade during sharpening
+- **Honing:** Refining an edge on fine-grit stones after establishing the bevel on coarser stones
+
+---
+
+## FAQ
+
+**How often should I sharpen my knives?**
+Strop before every session. Full sharpening on stones is only needed when stropping no longer restores the edge — typically every few weeks of regular use.
+
+**What grit stones do I need?**
+A 1000 grit and a 4000–6000 grit cover most needs. Add a coarser 400–600 grit if you need to reshape a damaged edge.
+
+**Can I use a honing guide?**
+Yes, especially when learning. Guides maintain consistent angles. As you develop muscle memory, freehand sharpening becomes more efficient.
+
+**My paring knife won't hold an edge. Why?**
+Likely sharpened at too acute an angle (too thin an edge) for the steel type. Try a slightly more obtuse angle for durability.
+
+**Is a strop really necessary?**
+Absolutely. Stropping is the single most impactful maintenance habit. A stropped edge outperforms a freshly-stoned-but-unstropped edge.
+
+---
+
+## Suggested Internal Links
+
+- Leather Paring: Knife Shapes
+- Leather Paring Techniques
+- DIY Bookbinding Tools
+- Tools Checklist: Soft vs. Hard Cover
+
+---
+
+## Image Plan
+
+- **Hero:** Bookbinding Knife Sharpening: Edge Maintenance
+- **Step 1:** sharpening-angle-guide
+- **Step 2:** stropping-technique
+- **Step 3:** edge-testing-paper

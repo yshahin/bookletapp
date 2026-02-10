@@ -5,11 +5,21 @@ category: "Repair"
 date: "Oct 20, 2026"
 image: "/images/covers/20261103-rebacking-reconstruction.png"
 published: false
+seoTitle: "Rebacking Part 2: Spine Reconstruction"
+metaDescription: "Complete a rebacking by constructing and attaching a new spine. Learn to integrate new materials while preserving the book's original character."
+slug: "rebacking-reconstruction"
 ---
 
-With the book disassembled and prepared, reconstruction begins. This phase creates a new structural spine while preserving the original appearance by reattaching the salvaged spine piece. Part 2 covers this careful restoration process.
+Spine reconstruction attaches a new spine to the book while preserving as much original material and character as possible.
 
-### Reconstruction Overview
+**TL;DR**
+- New spine material should match the original in color, weight, and texture
+- The original spine strip can often be laid over the new spine for authentic appearance
+- Hinge flexibility is critical — the repaired book must open as well as the original
+
+![Hero: Rebacking Part 2: Spine Reconstruction](/images/hero/rebacking-reconstruction.jpg)
+
+## Reconstruction Overview
 
 The reconstruction sequence:
 1. Reinforce text block spine if needed
@@ -20,7 +30,7 @@ The reconstruction sequence:
 
 Each step builds on the previous, requiring patience and precision.
 
-### Materials for Reconstruction
+## Materials for Reconstruction
 
 | Material | Purpose | Notes |
 |----------|---------|-------|
@@ -33,7 +43,7 @@ Each step builds on the previous, requiring patience and precision.
 | Bone folder | Working material | Standard |
 | Ruler and knife | Measuring and cutting | Sharp blade |
 
-### Step 1: Reinforce the Text Block Spine
+## Step 1: Reinforce the Text Block Spine
 
 Before adding new material, ensure the spine is sound.
 
@@ -61,9 +71,8 @@ Before adding new material, ensure the spine is sound.
 
 This mull connects text block to boards structurally.
 
-<!-- TODO: Add photo showing mull application -->
 
-### Step 2: Create the New Spine
+## Step 2: Create the New Spine
 
 The new spine replaces the damaged original structurally.
 
@@ -88,7 +97,7 @@ For rounded spines or added structure:
 3. Creates firm, defined spine
 4. Not always necessary for simple repairs
 
-### Step 3: Attach New Spine to Boards
+## Step 3: Attach New Spine to Boards
 
 This is the critical structural step.
 
@@ -109,7 +118,6 @@ This is the critical structural step.
 
 **Key point:** The joint area must adhere well for strong hinges.
 
-<!-- TODO: Add diagram showing spine cloth positioning -->
 
 #### Creating the Joint
 
@@ -120,7 +128,7 @@ The joint (or French groove) allows the cover to open properly:
 3. Repeat on both sides
 4. Define the groove clearly
 
-### Step 4: Turn-Ins
+## Step 4: Turn-Ins
 
 Complete the new spine attachment.
 
@@ -140,7 +148,7 @@ The new cloth overlaps onto the boards where the original cloth was lifted:
 3. Avoid bulk at overlap
 4. The original spine piece will cover the junction
 
-### Step 5: Reattach Original Spine
+## Step 5: Reattach Original Spine
 
 The original spine becomes a veneer over the new structure.
 
@@ -170,7 +178,6 @@ For original material preservation, paste or mixture preferred.
 
 **Alignment:** The original spine should sit exactly where it originally was. Any labels, titles, or decorations should appear correctly positioned.
 
-<!-- TODO: Add photo showing original spine reattachment -->
 
 #### Edge Treatment
 
@@ -180,7 +187,7 @@ Where original spine edges meet board cloth:
 **Overlap:** Original slightly overlaps onto board cloth (can be lifted and slipped under)
 **Visible seam:** Accept small gap, consistent on both sides
 
-### Step 6: Pressing and Drying
+## Step 6: Pressing and Drying
 
 Proper pressing ensures good adhesion and flat results.
 
@@ -207,7 +214,7 @@ The joints need special attention:
 2. Hold in place with rubber bands around book
 3. This keeps joints defined during drying
 
-### Troubleshooting Reconstruction
+## Troubleshooting Reconstruction
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -218,7 +225,7 @@ The joints need special attention:
 | Color mismatch | New cloth differs from boards | Choice made at planning stage |
 | Hinge weak | Insufficient adhesive or mull | May need reinforcement |
 
-### Finishing Touches
+## Finishing Touches
 
 After pressing:
 
@@ -244,7 +251,7 @@ After pressing:
 - Some issues not critical to function
 - Balance perfection against further intervention
 
-### Quality Assessment
+## Quality Assessment
 
 A successful reback shows:
 
@@ -260,7 +267,7 @@ A successful reback shows:
 - Clean edges and joints
 - Seamless integration of old and new
 
-### Documentation
+## Documentation
 
 Complete your records:
 
@@ -277,7 +284,7 @@ This documentation has value for:
 - Learning from experience
 - Provenance of repair
 
-### Limitations and Honesty
+## Limitations and Honesty
 
 Rebacking is visible repair:
 
@@ -292,10 +299,49 @@ Rebacking is visible repair:
 - New cloth provides function
 - Combination is honest restoration
 
-### Conclusion
+---
 
-Reconstruction completes the rebacking process. The new spine provides structure while the original piece preserves the book's identity. Done well, rebacking extends a book's useful life by decades while maintaining its character.
+## Glossary
 
-Practice on expendable books before attempting valuable ones. Each repair teaches lessons that improve the next. The skills developed here apply to many other repair situations.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
 
-A successfully rebacked book stands on the shelf looking much as it always did, but now with a sound structure that allows continued use and enjoyment.
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Rebacking Part 2: Spine Reconstruction
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

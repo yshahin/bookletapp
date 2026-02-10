@@ -5,11 +5,21 @@ category: "Decoration"
 date: "Sep 08, 2026"
 image: "/images/covers/20261006-gold-tooling-hand-tools.png"
 published: false
+seoTitle: "Gold Tooling with Hand Tools"
+metaDescription: "Learn traditional gold tooling on leather bindings using hand tools. Covers preparation, adhesive sizing, and pressing technique for gold leaf."
+slug: "gold-tooling-hand-tools"
 ---
 
-Gold tooling transforms fine leather bindings into works of art. This ancient technique uses heated metal tools to apply gold leaf to leather, creating brilliant decorative lines, patterns, and text. Understanding the tools is the first step toward mastering this exquisite craft.
+Gold tooling applies gold leaf to leather bindings using heated brass tools, creating the iconic lettering and decoration of fine binding.
 
-### Understanding Gold Tooling
+**TL;DR**
+- Heated brass tools press gold leaf into leather prepared with glair or adhesive
+- Temperature, pressure, and timing must all be correct for gold to adhere
+- Practice on scrap leather extensively before tooling a finished binding
+
+![Hero: Gold Tooling with Hand Tools](/images/hero/gold-tooling-hand-tools.jpg)
+
+## Understanding Gold Tooling
 
 Gold tooling involves:
 1. Preparing the leather surface
@@ -20,9 +30,8 @@ Gold tooling involves:
 
 The result is permanent gold decoration integrated into the leather surface.
 
-<!-- TODO: Add photo of gold-tooled leather binding detail -->
 
-### Categories of Finishing Tools
+## Categories of Finishing Tools
 
 Gold tooling uses three main tool types:
 
@@ -32,7 +41,7 @@ Gold tooling uses three main tool types:
 
 Each serves specific decorative purposes.
 
-### Fillets
+## Fillets
 
 Fillets create continuous straight lines.
 
@@ -62,9 +71,8 @@ Fillets create continuous straight lines.
 
 **Skill required:** Even pressure and speed throughout the stroke
 
-<!-- TODO: Add photo showing fillet rolling technique -->
 
-### Gouges
+## Gouges
 
 Gouges create curved lines, particularly for circle segments.
 
@@ -92,7 +100,7 @@ Gouges come in numbered sizes corresponding to curve radius:
 
 **Skill required:** Smooth rocking motion, consistent pressure
 
-### Pallets
+## Pallets
 
 Pallets stamp straight line sections with decorative patterns.
 
@@ -120,7 +128,7 @@ Pallets stamp straight line sections with decorative patterns.
 
 **Skill required:** Accurate positioning, straight alignment
 
-### Individual Hand Tools
+## Individual Hand Tools
 
 Individual tools (also called hand stamps or single tools) create discrete designs.
 
@@ -140,7 +148,7 @@ Professional finishers accumulate tools over careers:
 - Antique tools often superior quality
 - Custom tools for special projects
 
-### Type Holders and Type
+## Type Holders and Type
 
 Letters and numbers require special handling.
 
@@ -168,9 +176,8 @@ Different from printing type:
 
 **Skill required:** Accurate spacing and alignment
 
-<!-- TODO: Add photo of type holder with type -->
 
-### The Finishing Stove
+## The Finishing Stove
 
 Tools require heating:
 
@@ -196,7 +203,7 @@ Tools require heating:
 
 Testing on scrap leather essential.
 
-### Other Essential Equipment
+## Other Essential Equipment
 
 #### Gold Cushion
 
@@ -223,7 +230,7 @@ Testing on scrap leather essential.
 - Applied before gilding
 - Gold adheres where glair is present
 
-### Understanding the Process
+## Understanding the Process
 
 While this article focuses on tools, the basic process:
 
@@ -236,7 +243,7 @@ While this article focuses on tools, the basic process:
 
 Each step requires practice to master.
 
-### Starting Out
+## Starting Out
 
 For beginners approaching gold tooling:
 
@@ -257,7 +264,7 @@ For beginners approaching gold tooling:
 4. Progress to small designs
 5. Eventually attempt lettering
 
-### Tool Quality
+## Tool Quality
 
 Quality matters significantly:
 
@@ -280,7 +287,7 @@ Quality matters significantly:
 - Store carefully
 - Clean after use (remove gold residue)
 
-### The Investment
+## The Investment
 
 Gold tooling requires significant investment:
 
@@ -304,7 +311,7 @@ For serious fine binding work, yes. For occasional hobbyists, consider:
 - Using foil alternatives
 - Focusing on other decoration methods
 
-### Foil as Alternative
+## Foil as Alternative
 
 Modern gold foil offers advantages:
 
@@ -320,8 +327,49 @@ Modern gold foil offers advantages:
 - Different appearance (usually brighter)
 - May not age the same way
 
-### Conclusion
+---
 
-Gold tooling represents the pinnacle of bookbinding decoration. The tools - fillets, gouges, pallets, and type - enable the binder to create permanent beauty on leather.
+## Glossary
 
-Start by understanding the tools and their functions. Practice blind tooling before attempting gold. Build your tool collection gradually as skills develop. The craft rewards patience and dedication with stunning results that can last centuries.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Gold Tooling with Hand Tools
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

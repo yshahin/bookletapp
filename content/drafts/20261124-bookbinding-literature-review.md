@@ -5,11 +5,21 @@ category: "Resources"
 date: "Nov 24, 2026"
 image: "/images/covers/20261124-bookbinding-literature-review.png"
 published: false
+seoTitle: "Essential Bookbinding Books & Resources"
+metaDescription: "A curated guide to the best bookbinding books, from beginner manuals to advanced technique references. Build your bookbinding library wisely."
+slug: "bookbinding-literature-review"
 ---
 
-Learning bookbinding requires studying from multiple sources. Books, despite our digital age, remain the best way to absorb the depth and detail that bookbinding demands. This guide surveys the essential literature, from foundational texts to specialized references.
+Building a bookbinding reference library helps you learn techniques beyond what any single source can teach.
 
-### Foundational Texts
+**TL;DR**
+- Start with one comprehensive beginner manual before branching out
+- Specialized references for leather, conservation, and design fill gaps over time
+- Online resources complement books but rarely replace hands-on instruction manuals
+
+![Hero: Essential Bookbinding Books & Resources](/images/hero/bookbinding-literature-review.jpg)
+
+## Foundational Texts
 
 These books every bookbinder should own:
 
@@ -43,9 +53,8 @@ Not a how-to but an essential reference. When you encounter an unfamiliar term, 
 
 Cockerell wrote the definitive early 20th century manual. Some techniques have evolved, but his principles and philosophy remain relevant. Read for perspective.
 
-<!-- TODO: Add photo of essential bookbinding texts -->
 
-### Contemporary Instructional Texts
+## Contemporary Instructional Texts
 
 Modern manuals with current techniques:
 
@@ -79,7 +88,7 @@ Smith's multi-volume series catalogs an incredible range of structures. Essentia
 
 A contemporary alternative to Watson, with color photos that help visual learners.
 
-### Historical and Scholarly Works
+## Historical and Scholarly Works
 
 For deeper understanding:
 
@@ -113,7 +122,7 @@ The definitive technical study of medieval binding. Dense but invaluable for und
 
 Important for understanding American context.
 
-### Specialized Topics
+## Specialized Topics
 
 Books for specific interests:
 
@@ -157,7 +166,7 @@ Authoritative text on Japanese methods
 **Jack Hillier**
 Historical context and appreciation
 
-### Paper Arts Adjacent
+## Paper Arts Adjacent
 
 Understanding paper enhances binding:
 
@@ -169,7 +178,7 @@ Classic work on handmade paper
 **Michael LaFosse**
 Contemporary paper arts
 
-### Periodicals and Journals
+## Periodicals and Journals
 
 Stay current with:
 
@@ -182,7 +191,7 @@ American organization's publication
 **Bonefolder** (Online journal)
 Peer-reviewed book arts scholarship
 
-### Building Your Library
+## Building Your Library
 
 #### First Purchases
 
@@ -208,7 +217,7 @@ Build gradually based on:
 - Historical curiosity
 - Teaching requirements
 
-### Finding These Books
+## Finding These Books
 
 **New copies:**
 - Specialized bookbinding suppliers
@@ -226,7 +235,7 @@ Build gradually based on:
 - University libraries often have binding collections
 - Some binder's guilds maintain libraries
 
-### Digital Resources
+## Digital Resources
 
 While not replacing books:
 
@@ -245,7 +254,7 @@ While not replacing books:
 - Video can supplement but not substitute
 - Depth requires sustained study
 
-### Reading Strategically
+## Reading Strategically
 
 How to use your library:
 
@@ -264,8 +273,49 @@ How to use your library:
 - Scholarly works deepen understanding
 - Build comprehensive reference collection
 
-### Conclusion
+---
 
-A well-chosen bookbinding library provides decades of instruction and inspiration. Start with foundational texts, add specialized works as interests develop, and treat these books as working tools - annotate, flag pages, and return repeatedly.
+## Glossary
 
-The investment in books pays compound interest: each reading reveals new insights as your practical experience deepens. Build your library thoughtfully, and you build the foundation for a lifetime in the craft.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Essential Bookbinding Books & Resources
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

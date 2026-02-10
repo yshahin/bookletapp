@@ -5,11 +5,21 @@ category: "History"
 date: "Oct 27, 2026"
 image: "/images/covers/20261110-medieval-girdle-books.png"
 published: false
+seoTitle: "Medieval Girdle Books: History & Recreation"
+metaDescription: "Explore medieval girdle books designed to hang from a belt. Learn the history and construction of these unique portable book structures."
+slug: "medieval-girdle-books"
 ---
 
-Girdle books represent one of the most distinctive and practical binding styles of the medieval period. These books, bound with extended covers designed to be tucked into a belt or girdle, allowed clergy, students, and travelers to keep important texts literally at hand. Understanding girdle books illuminates both medieval bookmaking and daily life.
+Girdle books were designed to hang upside-down from a belt, keeping the text ready to read in an era before pockets.
 
-### What is a Girdle Book?
+**TL;DR**
+- The binding extends beyond the book in a leather tail that attaches to a belt
+- Books hung upside-down so they could be read without detaching from the girdle
+- Recreating this structure teaches medieval binding techniques and leather work
+
+![Hero: Medieval Girdle Books: History & Recreation](/images/hero/medieval-girdle-books.jpg)
+
+## What is a Girdle Book?
 
 A girdle book features a leather cover that extends well beyond the text block, forming a "tail" or extension that could be tucked under a belt worn around the waist (the girdle).
 
@@ -22,9 +32,8 @@ A girdle book features a leather cover that extends well beyond the text block, 
 
 When the wearer wanted to read, they simply lifted the book without removing it from the belt.
 
-<!-- TODO: Add illustration showing how girdle book was worn -->
 
-### Historical Context
+## Historical Context
 
 #### Time Period
 
@@ -47,7 +56,7 @@ Primarily European:
 
 Different regions developed variations in style and construction.
 
-### Why Girdle Books?
+## Why Girdle Books?
 
 The design solved practical problems:
 
@@ -79,7 +88,7 @@ The book hung ready for use.
 - Text block protected inside
 - Less wear than carrying in hand or pocket
 
-### Typical Contents
+## Typical Contents
 
 Most surviving girdle books contain:
 
@@ -102,7 +111,7 @@ Clergy and devout laity needed constant access to prayers.
 
 Any text needing frequent consultation might be bound this way.
 
-### Construction Details
+## Construction Details
 
 #### The Extended Cover
 
@@ -141,9 +150,8 @@ Most girdle books used:
 - Design was intentional
 - Text oriented appropriately
 
-<!-- TODO: Add diagram showing construction details -->
 
-### Who Used Them?
+## Who Used Them?
 
 #### Clergy
 
@@ -178,7 +186,7 @@ The need for constant prayer and ready reference made girdle books practical.
 - Merchants
 - Anyone needing portable reference
 
-### Surviving Examples
+## Surviving Examples
 
 Remarkably few girdle books survive intact:
 
@@ -196,7 +204,7 @@ Remarkably few girdle books survive intact:
 
 **Approximately 20-30** intact girdle books are known to survive worldwide.
 
-### Identifying Former Girdle Books
+## Identifying Former Girdle Books
 
 Many books lost their extensions but show evidence:
 
@@ -206,7 +214,7 @@ Many books lost their extensions but show evidence:
 - Wear patterns inconsistent with normal use
 - Historical references to specific volumes
 
-### Medieval Daily Life
+## Medieval Daily Life
 
 Girdle books illuminate broader history:
 
@@ -234,7 +242,7 @@ Girdle books illuminate broader history:
 - Constant spiritual awareness
 - Reading as religious act
 
-### Modern Interest
+## Modern Interest
 
 Girdle books attract contemporary attention:
 
@@ -260,7 +268,7 @@ Surviving examples draw visitors:
 - Connects viewers to daily medieval life
 - Demonstrates book as used object
 
-### Making a Modern Girdle Book
+## Making a Modern Girdle Book
 
 For those interested in creating one:
 
@@ -280,7 +288,7 @@ For those interested in creating one:
 
 **Note:** This is more a specialty project than standard binding.
 
-### Cultural Significance
+## Cultural Significance
 
 Girdle books represent:
 
@@ -299,10 +307,49 @@ Girdle books represent:
 - Integration of practical and spiritual
 - Thoughtful object design
 
-### Conclusion
+---
 
-Girdle books remind us that book design has always responded to user needs. The medieval binder who first extended a cover to create a belt attachment was solving the same problem we solve with tote bags and backpacks today.
+## Glossary
 
-The handful of surviving examples preserve a window into daily medieval life - clergy walking parish rounds, students crossing university quadrangles, devout laity maintaining portable prayer books. Each hanging book was a practical tool and a precious possession.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
 
-Their rarity today makes surviving girdle books treasures, studied by scholars and admired by booklovers as ingenious solutions from a world that valued books enough to keep them close at hand.
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Medieval Girdle Books: History & Recreation
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

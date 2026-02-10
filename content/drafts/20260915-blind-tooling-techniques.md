@@ -5,11 +5,21 @@ category: "Decoration"
 date: "Sep 15, 2026"
 image: "/images/covers/20261013-blind-tooling-techniques.png"
 published: false
+seoTitle: "Blind Tooling on Leather Bindings"
+metaDescription: "Master blind tooling to create impressed decorations on leather book covers. Learn dampening, tool selection, and pattern layout techniques."
+slug: "blind-tooling-techniques"
 ---
 
-Blind tooling creates impressions in leather without gold or color. The technique uses heat and pressure to compress the leather surface, creating designs visible through shadow and texture change. Blind tooling offers subtle elegance and serves as essential training for gold tooling.
+Blind tooling impresses decorative patterns into dampened leather without gold, creating subtle, elegant decoration.
 
-### Understanding Blind Tooling
+**TL;DR**
+- Dampened leather accepts permanent impressions from heated or cold brass tools
+- Blind tooling creates subtle texture visible through light reflection
+- Simpler than gold tooling and an excellent way to learn tool handling
+
+![Hero: Blind Tooling on Leather Bindings](/images/hero/blind-tooling-techniques.jpg)
+
+## Understanding Blind Tooling
 
 Blind tooling works through physical impression:
 - Heated tool contacts dampened leather
@@ -20,9 +30,8 @@ Blind tooling works through physical impression:
 
 The result is decoration integrated into the leather itself.
 
-<!-- TODO: Add close-up photo of blind tooling detail -->
 
-### Historical Context
+## Historical Context
 
 Blind tooling predates gold tooling:
 - Medieval European bindings primarily blind tooled
@@ -32,7 +41,7 @@ Blind tooling predates gold tooling:
 
 Today, blind tooling remains valued for its subtlety and historical connection.
 
-### Tools for Blind Tooling
+## Tools for Blind Tooling
 
 All gold tooling tools work for blind tooling:
 
@@ -52,7 +61,7 @@ All gold tooling tools work for blind tooling:
 
 The same techniques apply, minus the gold.
 
-### Preparing Leather for Blind Tooling
+## Preparing Leather for Blind Tooling
 
 Proper preparation ensures clear impressions.
 
@@ -79,7 +88,7 @@ Leather must be dampened, not wet:
 
 Practice determines the feel for correct moisture.
 
-### Temperature Control
+## Temperature Control
 
 Temperature matters even more without gold's visual feedback.
 
@@ -106,7 +115,7 @@ Temperature matters even more without gold's visual feedback.
 - Slightly darker in the depression
 - Maintains leather texture
 
-### Blind Tooling Techniques
+## Blind Tooling Techniques
 
 #### Single Impression
 
@@ -133,7 +142,6 @@ For individual tools:
 
 **Skill:** Even pressure and speed create consistent lines
 
-<!-- TODO: Add photo demonstrating fillet technique -->
 
 #### Curved Lines with Gouge
 
@@ -145,7 +153,7 @@ For individual tools:
 
 **Skill:** Smooth rocking motion
 
-### Building Designs
+## Building Designs
 
 Complex designs build from simple elements.
 
@@ -171,7 +179,7 @@ Classic panel approach:
 - Or tool first impression cold (very light)
 - Creates guide for heated tooling
 
-### Specific Techniques
+## Specific Techniques
 
 #### Double Impressions
 
@@ -198,7 +206,7 @@ Many bindings combine both:
 - Creates visual hierarchy
 - Blind work done first
 
-### Common Patterns
+## Common Patterns
 
 Traditional blind tooling patterns:
 
@@ -224,7 +232,7 @@ Repeated tools across entire surface:
 - Creates textural field
 - Simple but effective
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -235,7 +243,7 @@ Repeated tools across entire surface:
 | Muddy impression | Too much moisture | Let leather dry more |
 | Double impression | Tool slipped | More stable positioning |
 
-### Practice Exercises
+## Practice Exercises
 
 Before working on real bindings:
 
@@ -255,9 +263,8 @@ Before working on real bindings:
 - Place corner tools
 - Build skill systematically
 
-<!-- TODO: Add photo of practice exercise results -->
 
-### Leather Considerations
+## Leather Considerations
 
 Not all leathers respond equally:
 
@@ -281,7 +288,7 @@ Not all leathers respond equally:
 - Heavily finished surfaces
 - Chrome-tanned leather (doesn't respond well)
 
-### Tools for Beginners
+## Tools for Beginners
 
 Start with versatile basics:
 
@@ -297,7 +304,7 @@ Start with versatile basics:
 - Antique tools often excellent
 - Quality over quantity
 
-### Design Inspiration
+## Design Inspiration
 
 Study historical bindings:
 - Museum collections online
@@ -310,10 +317,49 @@ Study historical bindings:
 - Study proportion and balance
 - Adapt rather than copy
 
-### Conclusion
+---
 
-Blind tooling offers entry into the art of leather finishing without the complexity of gold. The techniques translate directly to gold tooling while standing as a complete decorative approach in its own right.
+## Glossary
 
-Practice builds the hand skills and temperature judgment essential for all finishing work. Start with simple exercises, build to complete panels, and develop the sensitivity that transforms mechanical pressing into refined decoration.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
 
-The subtle play of light across blind-tooled leather represents bookbinding's quiet elegance - decoration that enhances rather than dominates.
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Blind Tooling on Leather Bindings
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

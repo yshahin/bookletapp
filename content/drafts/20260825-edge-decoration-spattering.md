@@ -5,11 +5,21 @@ category: "Technique"
 date: "Aug 25, 2026"
 image: "/images/covers/20260825-edge-decoration-spattering.png"
 published: false
+seoTitle: "Edge Decoration: Spattering Technique"
+metaDescription: "Add spattered edge decoration to your books using simple tools. Learn brush technique, color mixing, and masking for clean, professional results."
+slug: "edge-decoration-spattering"
 ---
 
-Sprinkled or spattered edges have decorated books for centuries. This technique creates a random pattern of colored dots on the text block edges, adding visual interest and helping hide handling marks. The process is simple enough for beginners yet allows for sophisticated results.
+Spattering creates a distinctive speckled pattern on book edges using nothing more than a stiff brush, paint, and a screen.
 
-### History of Edge Decoration
+**TL;DR**
+- Dip a stiff brush in diluted acrylic and draw across a screen to spatter
+- Multiple light passes create better results than one heavy application
+- Mask the spine and covers carefully before spattering to protect them
+
+![Hero: Edge Decoration: Spattering Technique](/images/hero/edge-decoration-spattering.jpg)
+
+## History of Edge Decoration
 
 Edge decoration serves both practical and aesthetic purposes:
 
@@ -25,7 +35,7 @@ Edge decoration serves both practical and aesthetic purposes:
 - Various colors indicated different purposes
 - Red edges common for religious texts
 
-### Understanding Spattered Edges
+## Understanding Spattered Edges
 
 Spattering creates random dots by flicking pigmented liquid onto the edge:
 
@@ -42,9 +52,8 @@ Before:          After:
 
 The randomness is the charm - each application is unique.
 
-<!-- TODO: Add photo comparing plain and spattered edges -->
 
-### Materials Needed
+## Materials Needed
 
 | Material | Purpose | Notes |
 |----------|---------|-------|
@@ -55,7 +64,7 @@ The randomness is the charm - each application is unique.
 | Waste paper/plastic | Surface protection | Spatter goes everywhere |
 | Scrap paper | Test strips | Dial in consistency |
 
-### Preparing the Text Block
+## Preparing the Text Block
 
 The text block must be properly prepared:
 
@@ -79,9 +88,8 @@ The text block must be properly prepared:
 **Tail edge:** Less common, sometimes matching head
 **All three:** Most complete decoration
 
-<!-- TODO: Add photo of text block clamped for spattering -->
 
-### Preparing the Spatter Medium
+## Preparing the Spatter Medium
 
 The consistency of your pigment determines the result.
 
@@ -110,7 +118,7 @@ The consistency of your pigment determines the result.
 - Metallic inks
 - Custom mixed colors
 
-### Spattering Techniques
+## Spattering Techniques
 
 Several methods achieve the spattered effect:
 
@@ -153,7 +161,7 @@ Modern variation:
 
 **Results:** Very fine, even spatter
 
-### Step-by-Step Process
+## Step-by-Step Process
 
 #### Step 1: Prepare Workspace
 
@@ -201,9 +209,8 @@ Modern variation:
 2. Repeat process for next edge
 3. Protect dried edges with paper
 
-<!-- TODO: Add video demonstrating spattering technique -->
 
-### Creating Different Effects
+## Creating Different Effects
 
 #### Dense Coverage
 
@@ -231,7 +238,7 @@ Modern variation:
 3. Or increase distance as you work
 4. Creates fade effect
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -242,7 +249,7 @@ Modern variation:
 | Ink running between pages | Pages not tight enough | Press harder |
 | Dots too uniform | Mechanical technique | Vary distance and brush load |
 
-### Protecting Your Work
+## Protecting Your Work
 
 After spattering, consider sealing:
 
@@ -256,7 +263,7 @@ After spattering, consider sealing:
 - Book handling patterns developed over time
 - Part of the book's character
 
-### Alternatives to Traditional Spattering
+## Alternatives to Traditional Spattering
 
 #### Sponge Application
 
@@ -276,7 +283,7 @@ After spattering, consider sealing:
 - Book edge dragged across marbling bath
 - Unique, unrepeatable patterns
 
-### Historical Examples
+## Historical Examples
 
 Museums and rare book collections show centuries of spattered edges:
 
@@ -295,7 +302,7 @@ Museums and rare book collections show centuries of spattered edges:
 - More uniform results
 - Still found on library bindings
 
-### Practice Projects
+## Practice Projects
 
 **Project 1: Test blocks**
 - Create several dummy text blocks
@@ -313,8 +320,49 @@ Museums and rare book collections show centuries of spattered edges:
 - Execute with consistent technique
 - Create unified decorative scheme
 
-### Conclusion
+---
 
-Spattered edges connect your bindings to centuries of bookmaking tradition. The technique requires minimal materials, develops with practice, and adds distinctive character to handmade books.
+## Glossary
 
-Start with simple single-color spattering on practice pieces. As your control develops, explore multiple colors, gradients, and combinations with other edge treatments. Each spattered edge is unique - embrace the randomness as part of the craft's charm.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Edge Decoration: Spattering Technique
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

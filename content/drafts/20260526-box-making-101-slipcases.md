@@ -44,20 +44,20 @@ A slipcase is essentially a five-sided box:
 
 The book's spine faces outward through the open side.
 
-<!-- TODO: Add photo of book in slipcase showing construction -->
-
-### Materials Needed
+## Materials Needed
 
 | Material | Specification | Quantity |
 |----------|---------------|----------|
-| Binder's board | 2mm thickness | Enough for 5 pieces |
+| Binder's board | 2mm (3/32 inch) thickness | Enough for 5 pieces |
 | Covering material | Book cloth or decorative paper | Sufficient to wrap exterior |
 | Lining paper | Decorative or plain | For interior |
 | PVA glue | Bookbinding quality | As needed |
 | Waste paper | For gluing | Several sheets |
 | Weights | For pressing | Heavy books or bricks |
 
-### Measuring for the Slipcase
+> **Budget option:** For your first few slipcases, use chipboard instead of binder's board and kraft paper instead of book cloth. Chipboard is cheaper, easier to cut, and perfectly fine for learning the process.
+
+## Measuring for the Slipcase
 
 Precision is critical. Measure your book carefully.
 
@@ -67,6 +67,8 @@ Precision is critical. Measure your book carefully.
 - Height (head to tail)
 - Width (spine to fore edge)
 - Thickness (front board to back board)
+
+> **Pro tip:** Take each measurement at least three times at different points along the dimension. Books can vary by 1–2mm from head to tail. Always use the largest measurement as your reference.
 
 **Measurement tips:**
 - Measure at multiple points (books aren't always square)
@@ -79,17 +81,17 @@ Precision is critical. Measure your book carefully.
 The slipcase must be slightly larger than the book for easy insertion/removal.
 
 **Standard ease allowances:**
-- Height: Book height + 3mm (total)
-- Width: Book width + 2mm (total)
-- Thickness: Book thickness + 2mm (total)
+- Height: Book height + 3mm (1/8 inch) total
+- Width: Book width + 2mm (1/16 inch) total
+- Thickness: Book thickness + 2mm (1/16 inch) total
 
 **Example calculation:**
-Book dimensions: 150mm H x 100mm W x 25mm thick
+Book dimensions: 150mm H × 100mm W × 25mm thick (6 × 4 × 1 inches)
 
 Slipcase interior:
-- Height: 153mm
-- Width: 102mm
-- Depth: 27mm
+- Height: 153mm (6-1/8 inches)
+- Width: 102mm (4-1/16 inches)
+- Depth: 27mm (1-1/16 inches)
 
 #### Board Cutting List
 
@@ -97,16 +99,18 @@ For standard construction (board thickness = T):
 
 | Piece | Dimensions |
 |-------|------------|
-| 2 Side boards | Interior width x Interior depth |
-| 1 Back board | Interior height x (Interior depth + T) |
-| 1 Head board | Interior height x (Interior width + 2T) |
-| 1 Tail board | Interior height x (Interior width + 2T) |
+| 2 Side boards | Interior width × Interior depth |
+| 1 Back board | Interior height × (Interior depth + T) |
+| 1 Head board | Interior height × (Interior width + 2T) |
+| 1 Tail board | Interior height × (Interior width + 2T) |
 
 **Note:** These dimensions create a wrapped construction where head/tail boards overlap the edges.
 
-<!-- TODO: Add diagram showing board arrangement -->
+![Step 1: Board cutting layout with dimensions](/images/diagrams/slipcase-board-layout.jpg)
 
-### Construction Methods
+> **Tool swap:** If you don't have board shears, a sharp utility knife, metal straightedge, and self-healing cutting mat work well. Score the board in multiple light passes rather than trying to cut through in one stroke.
+
+## Construction Methods
 
 Two main approaches exist:
 
@@ -124,7 +128,7 @@ Two main approaches exist:
 
 This tutorial uses Method 1.
 
-### Step-by-Step Assembly
+## Step-by-Step Assembly
 
 #### Step 1: Cut All Boards
 
@@ -133,7 +137,7 @@ This tutorial uses Method 1.
 3. Verify all dimensions before proceeding
 4. Label pieces (S1, S2, Back, Head, Tail)
 
-**Square check:** Stack like pieces - they should be identical
+**Square check:** Stack like pieces — they should be identical
 
 #### Step 2: Plan the Covering
 
@@ -141,12 +145,12 @@ The covering wraps exterior surfaces:
 
 **For wrapped construction:**
 - Each piece gets its own covering section
-- Allow 20mm turn-in on all wrapped edges
+- Allow 3/4 inch (20mm) turn-in on all wrapped edges
 - Plan which edges wrap and which butt against other pieces
 
 #### Step 3: Cover the Back Board
 
-1. Cut covering material: board size + 40mm (20mm turn-in each side)
+1. Cut covering material: board size + 1-1/2 inches (40mm) — 3/4 inch (20mm) turn-in each side
 2. Apply PVA to board
 3. Position on covering material
 4. Turn in all four edges
@@ -168,9 +172,9 @@ Similar to sides:
 2. Turn-in on three edges
 3. One edge will butt to adjacent pieces
 
-<!-- TODO: Add photos showing covering process -->
+![Step 2: Covering process showing turn-in technique](/images/diagrams/slipcase-covering.jpg)
 
-### Assembly
+## Assembly
 
 With pieces covered, assemble the box.
 
@@ -189,10 +193,12 @@ With pieces covered, assemble the box.
 4. Repeat with second side
 5. Check for square (corners should be 90 degrees)
 
+> **Common mistake:** Not checking for square during assembly. After attaching each piece, use a try square or measure diagonals — they should be equal. Once glue sets out of square, there is no practical fix.
+
 #### Step 7: Attach Head and Tail
 
 1. Apply PVA to edges where head/tail will attach
-2. Position carefully - these overlap the side edges
+2. Position carefully — these overlap the side edges
 3. Check for square
 4. Clamp or tape to hold while drying
 
@@ -203,7 +209,7 @@ For strength:
 2. Use matching or decorative paper
 3. Creates visual feature while strengthening
 
-### Lining the Interior
+## Lining the Interior
 
 The interior should be lined for finished appearance.
 
@@ -211,7 +217,7 @@ The interior should be lined for finished appearance.
 
 Each interior surface needs its own lining:
 - Measure actual interior dimensions
-- Cut lining paper 2mm smaller than each surface
+- Cut lining paper 2mm (1/16 inch) smaller than each surface
 - This creates a small margin and prevents lining from buckling
 
 #### Applying Lining
@@ -222,7 +228,7 @@ Each interior surface needs its own lining:
 4. Smooth from center outward
 5. Continue with sides, then head/tail
 
-### Testing the Fit
+## Testing the Fit
 
 Before declaring success:
 
@@ -234,7 +240,7 @@ Before declaring success:
 **If too tight:** Sand interior surfaces lightly
 **If too loose:** Add thin lining material or rebuild
 
-### Finishing Options
+## Finishing Options
 
 #### Thumb Notch
 
@@ -259,9 +265,9 @@ For exposed board edges at opening:
 - Cover with thin strip of material
 - Leave natural for industrial aesthetic
 
-<!-- TODO: Add photo of finished slipcase with thumb notch -->
+![Step 3: Finished slipcase with thumb notch](/images/diagrams/slipcase-finished.jpg)
 
-### Troubleshooting
+## Tips & Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -272,7 +278,7 @@ For exposed board edges at opening:
 | Covering bubbles | Air trapped or too much glue | Work from center outward |
 | Joints weak | Insufficient glue or poor contact | Reinforce with strip |
 
-### Design Variations
+## Design Variations
 
 #### Open Back
 
@@ -295,22 +301,7 @@ Hybrid with clamshell elements:
 - More protective
 - Advanced construction
 
-### Skills Developed
-
-Box making for slipcases teaches:
-- Precise measurement
-- Board cutting and squaring
-- Covering techniques
-- Assembly and clamping
-- Interior lining
-
-These skills apply directly to:
-- Clamshell boxes
-- Portfolios
-- Presentation boxes
-- Other enclosures
-
-### Practice Tips
+## Practice Tips
 
 **First slipcase:**
 - Use an expendable book for fitting
@@ -327,8 +318,49 @@ These skills apply directly to:
 - All finishing details
 - For a book you want to protect
 
-### Conclusion
+---
 
-A well-made slipcase protects while displaying. The construction process seems complex but reduces to careful measurement, precise cutting, and systematic assembly.
+## Glossary
 
-Start with simple materials to learn the process, then apply those skills to create slipcases for books you value. The same principles will serve you for all future box-making projects.
+- **Slipcase:** A five-sided box that protects a book while displaying its spine
+- **Ease:** Small additional space added to interior dimensions for comfortable book insertion and removal
+- **Mitering:** Cutting covering material at corners at an angle for neat turn-ins
+- **Turn-in:** The portion of covering material folded over the board edge to the interior
+- **Lining:** Decorative or plain paper applied to interior surfaces for a finished appearance
+
+---
+
+## FAQ
+
+**How much ease should I add?**
+Standard ease is 2–3mm total for height and width. Too little makes insertion difficult; too much lets the book slide around. Test with scrap board first.
+
+**Can I use chipboard instead of binder's board?**
+Yes, for practice. Chipboard is softer and less precise but works for learning the construction process. Graduate to binder's board for finished work.
+
+**My slipcase isn't square — can I fix it?**
+If caught while glue is still wet, re-clamp at correct angles. Once dry, it's very difficult to correct. Always check square during assembly.
+
+**What covering material works best for beginners?**
+Book cloth is forgiving — it doesn't show finger marks and wraps smoothly. Decorative paper is trickier but creates beautiful results once you have the technique.
+
+**How do I make a thumb notch?**
+Mark a semicircle at the center of the open edge, cut with a curved blade or round file, then cover the exposed edge with a thin strip of covering material.
+
+---
+
+## Suggested Internal Links
+
+- Clamshell Box: Trays
+- Clamshell Box: Casing
+- Adhesives 101: PVA vs. Paste
+- Beginner's Guide to Case Binding
+
+---
+
+## Image Plan
+
+- **Hero:** Book sliding into finished slipcase showing spine display
+- **Step 1:** Board cutting and measuring layout with dimensions marked
+- **Step 2:** Covering and turn-in process on side board
+- **Step 3:** Finished slipcase with thumb notch detail

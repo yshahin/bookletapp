@@ -5,11 +5,21 @@ category: "Materials"
 date: "Jul 21, 2026"
 image: "/images/covers/20260811-intro-to-leather-binding.png"
 published: false
+seoTitle: "Introduction to Leather Bookbinding"
+metaDescription: "Start your journey into leather binding with this overview of leathers, preparation, and basic covering technique for hardcover books."
+slug: "intro-to-leather-binding"
 ---
 
-Leather has been the premier bookbinding material for centuries. Its durability, beauty, and workability make it the choice for fine binding. This introduction covers leather types, binding styles, and essential knowledge for beginners entering this traditional craft.
+Leather binding represents the pinnacle of traditional bookmaking craft, and this introduction covers everything you need to get started.
 
-### Why Leather for Books?
+**TL;DR**
+- Goatskin (morocco) is the most common and versatile bookbinding leather
+- Proper paring is essential — leather must be thinned before covering
+- Start with a half or quarter leather binding before attempting full leather
+
+![Hero: Introduction to Leather Bookbinding](/images/hero/intro-to-leather-binding.jpg)
+
+## Why Leather for Books?
 
 Leather offers unique advantages:
 
@@ -19,7 +29,7 @@ Leather offers unique advantages:
 **Tradition:** Connects to bookbinding heritage
 **Feel:** Distinctive tactile quality
 
-### Types of Binding Leather
+## Types of Binding Leather
 
 Not all leather suits bookbinding. The best choices come from specific animals and tanning processes.
 
@@ -72,9 +82,8 @@ Less common but used:
 - Translucent, distinctive
 - Historical significance
 
-<!-- TODO: Add photo comparing goat, calf, and pigskin samples -->
 
-### Binding Styles
+## Binding Styles
 
 Leather binding styles describe how much of the cover is leather:
 
@@ -116,9 +125,8 @@ Spine only in leather:
 - No leather corners
 - Often with contrasting decorative paper
 
-<!-- TODO: Add diagram comparing full, half, and quarter styles -->
 
-### Leather Preparation
+## Leather Preparation
 
 Working with leather requires preparation.
 
@@ -144,7 +152,7 @@ Leather requires proper storage:
 - Moderate humidity (too dry = brittle, too wet = mold)
 - Between acid-free tissue if stacking
 
-### Essential Leather Skills
+## Essential Leather Skills
 
 Working leather requires specific techniques.
 
@@ -186,7 +194,7 @@ Adding decoration:
 - Gold tooling: Gold leaf applied with heated tools
 - Both require skill development
 
-### Starting with Leather
+## Starting with Leather
 
 Beginners should start simply:
 
@@ -212,7 +220,7 @@ Beginners should start simply:
 4. Half binding with more complex paring
 5. Eventually: full leather binding
 
-### Tools for Leather Work
+## Tools for Leather Work
 
 Leather binding requires additional tools:
 
@@ -225,7 +233,7 @@ Leather binding requires additional tools:
 | Finishing tools | Gold tooling | Later |
 | Gold cushion and knife | Applying gold leaf | Later |
 
-### Adhesives for Leather
+## Adhesives for Leather
 
 Different adhesives for different purposes:
 
@@ -246,7 +254,7 @@ Different adhesives for different purposes:
 - Adjustable working time
 - Common professional choice
 
-### Caring for Leather Books
+## Caring for Leather Books
 
 Leather requires maintenance:
 
@@ -266,7 +274,7 @@ Leather requires maintenance:
 - Stable humidity
 - Not too tight or too loose
 
-### Common Beginner Mistakes
+## Common Beginner Mistakes
 
 | Mistake | Result | Prevention |
 |---------|--------|------------|
@@ -276,7 +284,7 @@ Leather requires maintenance:
 | Handling with dirty hands | Stains | Wash hands frequently |
 | Rushing | Poor fit, sloppy edges | Allow adequate time |
 
-### Ethical and Practical Considerations
+## Ethical and Practical Considerations
 
 **Sourcing:**
 Modern bookbinding leather comes from food industry byproducts. Vegetable-tanned leathers are more traditional and environmentally appropriate than chrome-tanned.
@@ -287,11 +295,11 @@ For those preferring not to use leather:
 - Paper bindings have their own tradition
 - Synthetic materials exist (different properties)
 
-### The Tradition
+## The Tradition
 
 Leather binding connects you to centuries of bookmaking tradition. Medieval manuscripts, Renaissance printed books, and Victorian fine binding all employed leather. Learning these skills connects you to a continuous craft tradition.
 
-### Next Steps
+## Next Steps
 
 After understanding the basics:
 
@@ -301,8 +309,49 @@ After understanding the basics:
 4. **Learn tooling** - Add decoration to your bindings
 5. **Eventually attempt full leather** - The complete traditional binding
 
-### Conclusion
+---
 
-Leather binding represents the pinnacle of traditional bookbinding craft. The learning curve is longer than other binding methods, but the results justify the investment. Start with simple projects, appropriate materials, and realistic expectations.
+## Glossary
 
-Master the fundamentals of leather selection, paring, and attachment. Then build toward the full range of leather binding skills that have defined fine bookmaking for centuries.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Introduction to Leather Bookbinding
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

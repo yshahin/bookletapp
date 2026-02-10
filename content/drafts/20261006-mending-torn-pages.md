@@ -5,11 +5,21 @@ category: "Conservation"
 date: "Oct 06, 2026"
 image: "/images/covers/20270105-mending-torn-pages.png"
 published: false
+seoTitle: "Mending Torn Pages: Repair Techniques"
+metaDescription: "Learn to mend torn book pages with Japanese tissue, wheat paste, and proper technique. Restore damaged pages while preserving readability."
+slug: "mending-torn-pages"
 ---
 
-Torn pages threaten a book's usability and longevity. Proper mending stabilizes damage while respecting the original material. Using Japanese tissue (kozo) for repairs ensures archival quality - the mends will last as long as the book itself while remaining reversible if future treatment is needed.
+Mending torn pages with Japanese tissue and wheat paste creates nearly invisible repairs that restore both strength and readability.
 
-### Understanding Paper Mending
+**TL;DR**
+- Japanese tissue torn (not cut) to shape creates feathered edges that blend invisibly
+- Wheat paste allows repositioning and dries to a flexible, archival bond
+- Always mend from the back of the page to minimize visual impact on text
+
+![Hero: Mending Torn Pages: Repair Techniques](/images/hero/mending-torn-pages.jpg)
+
+## Understanding Paper Mending
 
 Effective mending requires understanding:
 - The nature of paper tears
@@ -24,9 +34,8 @@ Effective mending requires understanding:
 - Remain reversible
 - Last as long as the original
 
-<!-- TODO: Add photo comparing damaged page before and after mending -->
 
-### Why Japanese Tissue?
+## Why Japanese Tissue?
 
 Japanese tissue (particularly kozo - mulberry fiber) is ideal for mending:
 
@@ -46,7 +55,7 @@ Japanese tissue (particularly kozo - mulberry fiber) is ideal for mending:
 | Office paper | Poor | High | Variable | Difficult |
 | Heat-set tissue | Good | Medium | Yes | Difficult |
 
-### Materials for Mending
+## Materials for Mending
 
 | Material | Specification | Notes |
 |----------|---------------|-------|
@@ -58,7 +67,7 @@ Japanese tissue (particularly kozo - mulberry fiber) is ideal for mending:
 | Water container | Clean | For brush rinsing |
 | Bone folder | Rounded | For smoothing |
 
-### Types of Paper Damage
+## Types of Paper Damage
 
 Different damage requires different approaches:
 
@@ -90,7 +99,7 @@ Damage at margins:
 - Often reinforced rather than mended
 - Less critical unless affecting text
 
-### Preparing Japanese Tissue
+## Preparing Japanese Tissue
 
 #### Selecting Weight
 
@@ -112,9 +121,8 @@ Damage at margins:
 - Transition is gradual
 - Less visible when adhered
 
-<!-- TODO: Add photo showing torn vs cut tissue edge -->
 
-### Preparing Wheat Paste
+## Preparing Wheat Paste
 
 **For mending consistency:**
 - Slightly thinner than for cloth work
@@ -126,7 +134,7 @@ Damage at margins:
 - Can refrigerate for short-term use
 - No lumps
 
-### Basic Mending Technique
+## Basic Mending Technique
 
 #### Step 1: Assess the Tear
 
@@ -178,9 +186,8 @@ Damage at margins:
 4. Remove release paper
 5. Allow to dry under light weight
 
-<!-- TODO: Add step-by-step photos of mending process -->
 
-### Mending from Both Sides
+## Mending from Both Sides
 
 For stronger repairs or fragile paper:
 
@@ -191,7 +198,7 @@ For stronger repairs or fragile paper:
 5. Align tissue strips
 6. Dry under weight
 
-### Special Situations
+## Special Situations
 
 #### Tears Extending into Text
 
@@ -220,7 +227,7 @@ For extensively damaged pages:
 3. Then address smaller tears
 4. Consider overall strengthening vs. individual mends
 
-### Handling Paste-Ups and Mends
+## Handling Paste-Ups and Mends
 
 After mending:
 
@@ -234,7 +241,7 @@ After mending:
 - No bubbles or lifting
 - Text legible through mend
 
-### When NOT to Mend
+## When NOT to Mend
 
 Some situations require different approaches:
 
@@ -253,7 +260,7 @@ Some situations require different approaches:
 - Beyond basic mending scope
 - Specialized treatment required
 
-### Avoiding Common Mistakes
+## Avoiding Common Mistakes
 
 | Mistake | Problem | Prevention |
 |---------|---------|------------|
@@ -264,7 +271,7 @@ Some situations require different approaches:
 | Insufficient drying | Mold risk, sticking | Complete drying time |
 | Mending across opening | Restricts page turn | Plan for book function |
 
-### Quality Checklist
+## Quality Checklist
 
 After mending, verify:
 
@@ -276,7 +283,7 @@ After mending, verify:
 - [ ] No excess paste visible
 - [ ] Appearance acceptable
 
-### Practice Recommendations
+## Practice Recommendations
 
 Before working on valuable books:
 
@@ -291,8 +298,49 @@ Before working on valuable books:
 - Progress to more critical repairs
 - Each mend teaches lessons
 
-### Conclusion
+---
 
-Proper page mending preserves books for future generations. Japanese tissue and wheat paste create archival repairs that respect the original while restoring function. The technique requires patience and practice but yields satisfying results.
+## Glossary
 
-Start with simple tears on non-precious books. Develop your skills systematically. When in doubt about valuable materials, consult a professional conservator. But for the everyday damaged books in your collection, proper mending can extend their useful life indefinitely.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Mending Torn Pages: Repair Techniques
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

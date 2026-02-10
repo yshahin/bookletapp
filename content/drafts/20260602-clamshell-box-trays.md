@@ -5,11 +5,21 @@ category: "Project"
 date: "Jun 02, 2026"
 image: "/images/covers/20270119-clamshell-box-trays.png"
 published: false
+seoTitle: "Clamshell Box Trays: Solander Box Part 1"
+metaDescription: "Build the trays for a clamshell (Solander) box. Learn precise tray construction that forms the foundation of this elegant protective enclosure."
+slug: "clamshell-box-trays"
 ---
 
-The clamshell box (or Solander box) provides the highest level of protection for books, documents, and art. Named after Swedish naturalist Daniel Solander who commissioned the design in the 18th century, this enclosure has two trays that nest together. Part 1 covers constructing the trays - the foundation of this sophisticated box.
+The clamshell box provides the highest level of protection for books, and it starts with well-constructed trays.
 
-### Understanding Clamshell Construction
+**TL;DR**
+- A clamshell box has two trays (base and lid) that nest together
+- Precise measurement with different ease allowances for base and lid ensures proper fit
+- Wall overlap construction creates strong corners that hold up to repeated use
+
+![Hero: Clamshell Box Trays: Solander Box Part 1](/images/hero/clamshell-trays-open.jpg)
+
+## Understanding Clamshell Construction
 
 A clamshell box consists of:
 - **Base tray:** Holds the book, slightly smaller
@@ -29,9 +39,8 @@ Assembled view:
 
 The trays nest together, with the lid dropping over the base.
 
-<!-- TODO: Add photo of finished clamshell box open -->
 
-### Project Overview
+## Project Overview
 
 **Structure:** Two-tray clamshell (Solander box)
 **Size:** Custom to your book (this tutorial uses 6" x 8" x 1" book)
@@ -40,7 +49,9 @@ The trays nest together, with the lid dropping over the base.
 
 This article covers tray construction. Part 2 covers casing.
 
-### Measuring for the Trays
+> **Pro tip:** Label every piece before assembly. Once covered, wall pieces look identical and mixing up base and lid components is easy to do.
+
+## Measuring for the Trays
 
 Precision is critical. Measure your book carefully.
 
@@ -70,7 +81,9 @@ Book: 6" x 8" x 1"
 - Width: Base width + 6mm = approximately 8 3/8"
 - Depth: Similar, plus one board thickness
 
-### Materials Needed
+![Step 1: Clamshell Box Trays: Solander Box Part 1 - setup](/images/diagrams/tray-wall-assembly.jpg)
+
+## Materials Needed
 
 | Material | Specification | Quantity |
 |----------|---------------|----------|
@@ -81,7 +94,7 @@ Book: 6" x 8" x 1"
 | Bone folder | Standard | For corners |
 | Ruler and knife | Metal ruler, sharp blade | For cutting |
 
-### Understanding Tray Construction
+## Understanding Tray Construction
 
 Each tray has:
 - **Floor:** Bottom board
@@ -91,7 +104,9 @@ Each tray has:
 
 Walls attach to the floor, then everything is covered as a unit.
 
-### Cutting the Components
+> **Common mistake:** Gluing walls in the wrong order. Always attach long walls first, then short walls that overlap the long wall edges. Reversing this creates weak joints.
+
+## Cutting the Components
 
 #### Board Cutting List (Base Tray)
 
@@ -109,9 +124,8 @@ Same principle, larger dimensions:
 - All pieces sized for lid dimensions
 - Follows same construction logic
 
-<!-- TODO: Add diagram showing how walls overlap -->
 
-### Constructing the Base Tray
+## Constructing the Base Tray
 
 #### Step 1: Cut All Boards
 
@@ -146,9 +160,10 @@ Same principle, larger dimensions:
 3. Minor adjustment possible while glue soft
 4. If significantly off, may need to rebuild
 
-<!-- TODO: Add photo showing corner construction detail -->
 
-### Covering the Tray
+![Step 2: Clamshell Box Trays: Solander Box Part 1 - process](/images/diagrams/tray-covering-corners.jpg)
+
+## Covering the Tray
 
 The exterior gets covered with cloth or paper.
 
@@ -197,9 +212,10 @@ The corners require careful folding:
 3. Press firmly for clean appearance
 4. This takes practice
 
-<!-- TODO: Add detailed photos of corner covering -->
 
-### Lining the Tray
+> **Budget option:** Practice with cereal box cardboard and kraft paper before committing binder's board. The construction principles are identical.
+
+## Lining the Tray
 
 Interior lining provides finished appearance:
 
@@ -223,7 +239,7 @@ Each interior surface needs lining:
 3. Should overlap wall lining edges slightly
 4. Creates clean appearance
 
-### Constructing the Lid Tray
+## Constructing the Lid Tray
 
 Follow same process as base:
 
@@ -235,7 +251,7 @@ Follow same process as base:
 
 **Critical difference:** Lid interior dimensions must allow base to fit inside easily.
 
-### Test Fitting
+## Test Fitting
 
 Before proceeding to casing:
 
@@ -247,7 +263,9 @@ Before proceeding to casing:
 **If too tight:** Sand interior walls lightly
 **If too loose:** Add additional lining paper thickness
 
-### Common Mistakes
+> **Tool swap:** No board shears? A sharp utility knife with a metal ruler works — just make multiple light passes rather than forcing through in one cut.
+
+## Common Mistakes
 
 | Mistake | Result | Prevention |
 |---------|--------|------------|
@@ -257,7 +275,9 @@ Before proceeding to casing:
 | Wrong wall overlap | Weak corners | Follow construction sequence |
 | Insufficient drying time | Parts shift | Patience between steps |
 
-### Quality Check
+![Step 3: Clamshell Box Trays: Solander Box Part 1 - result](/images/diagrams/nested-trays-fit-test.jpg)
+
+## Quality Check
 
 Before Part 2 (casing):
 
@@ -268,10 +288,49 @@ Before Part 2 (casing):
 - [ ] Linings flat and even
 - [ ] No visible adhesive
 
-### Conclusion
+---
 
-Well-constructed trays form the foundation of a quality clamshell box. The precision required at this stage determines the success of the final enclosure.
+## Glossary
 
-Take time with the wall attachment and corner covering - these details show in the finished box. Let adhesives dry fully before proceeding. The investment in careful construction pays off in a box that protects its contents for generations.
+- **Solander box:** Another name for a clamshell box, named after Swedish naturalist Daniel Solander
+- **Base tray:** The smaller inner tray that holds the book directly
+- **Lid tray:** The larger outer tray that drops over the base
+- **Ease:** Additional space added to allow comfortable insertion and removal
+- **Turn-in:** The portion of covering material folded over the edge to the interior
 
-In Part 2, we'll assess fit and create the case that joins these trays into a complete clamshell box.
+---
+
+## FAQ
+
+**How much larger should the lid be than the base?**
+The lid needs approximately 6mm more in height and width than the base, plus the thickness of the covering material. This allows the lid to drop smoothly over the base.
+
+**Can I use different materials for base and lid?**
+Yes, though matching materials create a more professional appearance. Some binders use contrasting linings for visual interest.
+
+**My trays don't nest smoothly. What went wrong?**
+Usually a squareness issue. Check that all corners are true 90 degrees. Even slight deviation prevents smooth nesting.
+
+**How long should I let the trays dry before casing?**
+At least 24 hours. Rushing to casing before trays are fully cured risks distortion during assembly.
+
+**Do I need special board for the walls?**
+Standard 2mm binder's board works well. Some prefer slightly thinner board (1.5mm) for the walls of smaller boxes.
+
+---
+
+## Suggested Internal Links
+
+- Clamshell Box: Casing
+- Box Making 101: Slipcases
+- Adhesives 101: PVA vs. Paste
+- Beginner's Guide to Case Binding
+
+---
+
+## Image Plan
+
+- **Hero:** Clamshell Box Trays: Solander Box Part 1
+- **Step 1:** tray-wall-assembly
+- **Step 2:** tray-covering-corners
+- **Step 3:** nested-trays-fit-test

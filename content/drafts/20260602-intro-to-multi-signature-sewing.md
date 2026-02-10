@@ -5,11 +5,21 @@ category: "Technique"
 date: "Jun 02, 2026"
 image: "/images/covers/20260602-intro-to-multi-signature-sewing.png"
 published: false
+seoTitle: "Multi-Signature Sewing: Getting Started"
+metaDescription: "Learn the fundamentals of sewing multiple signatures into a text block. Covers station planning, thread management, and basic sewing patterns."
+slug: "intro-to-multi-signature-sewing"
 ---
 
-Moving from single-signature pamphlets to multi-signature books represents a significant step in bookbinding skill. Multiple signatures, linked together through sewing, create the text blocks found in most substantial books. This introduction covers the core concepts and basic techniques.
+Multi-signature sewing joins folded sections into a text block, and mastering this technique opens the door to most traditional binding styles.
 
-### Understanding Signatures
+**TL;DR**
+- Plan sewing stations evenly along the spine with kettle stitches at head and tail
+- Maintain consistent tension — too tight bunches signatures, too loose creates gaps
+- Start with 4–6 signatures to learn the rhythm before attempting larger projects
+
+![Hero: Multi-Signature Sewing: Getting Started](/images/hero/intro-to-multi-signature-sewing.jpg)
+
+## Understanding Signatures
 
 A signature (also called a gathering, section, or quire) is a group of nested folded sheets that form a unit of the text block.
 
@@ -37,7 +47,7 @@ A signature (also called a gathering, section, or quire) is a group of nested fo
 - Allows pages to turn around central axis
 - Pages lie flat when open
 
-### Why Multiple Signatures?
+## Why Multiple Signatures?
 
 Single signatures have practical limits:
 
@@ -53,7 +63,7 @@ Multiple signatures solve these problems:
 - No limit to total page count
 - Spine develops gradually
 
-### Signature Preparation
+## Signature Preparation
 
 Before sewing, signatures must be properly prepared.
 
@@ -86,9 +96,8 @@ All signatures need identical hole positions:
 2. Use marked signature as template
 3. Stack and pierce multiple signatures at once
 
-<!-- TODO: Add photo of sewing station template -->
 
-### Basic Sewing Pattern
+## Basic Sewing Pattern
 
 The simplest multi-signature sewing uses alternating entry/exit stitches with kettle stitches at the head and tail.
 
@@ -129,7 +138,6 @@ More stations create stronger binding but take longer.
 5. Enter at Station 3 (outside to inside)
 6. Leave thread exiting at tail, with 4" tail for tying
 
-<!-- TODO: Add diagram of first signature sewing path -->
 
 #### Adding Signature 2
 
@@ -151,7 +159,7 @@ For each subsequent signature:
 
 **Pattern rhythm:** Enter - Sew - Exit - Kettle Stitch - Enter next
 
-### The Sewing Cradle
+## The Sewing Cradle
 
 A sewing cradle (or punching cradle) holds signatures at a comfortable angle for sewing.
 
@@ -167,7 +175,6 @@ Using the cradle:
 3. Both hands free for sewing
 4. Consistent angle for all signatures
 
-<!-- TODO: Add diagram of simple sewing cradle -->
 
 #### Alternative: Table Edge Method
 
@@ -177,7 +184,7 @@ Without a cradle:
 3. Support with non-dominant hand
 4. Less consistent but workable
 
-### Tension Control
+## Tension Control
 
 Proper tension creates a solid text block without distortion.
 
@@ -202,7 +209,7 @@ Proper tension creates a solid text block without distortion.
 3. Pull toward yourself, not upward
 4. Don't jerk - smooth, steady pull
 
-### Common Sewing Configurations
+## Common Sewing Configurations
 
 #### Three-Station Sewing
 
@@ -224,7 +231,7 @@ Proper tension creates a solid text block without distortion.
 - Time-intensive
 - Maximum strength
 
-### Handling the Thread
+## Handling the Thread
 
 #### Starting
 
@@ -247,7 +254,7 @@ Proper tension creates a solid text block without distortion.
 - Cut thread close
 - Dot of PVA optional for security
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -258,7 +265,7 @@ Proper tension creates a solid text block without distortion.
 | Spine bowing | Uneven tension head to tail | More consistent technique |
 | Thread tangling | Too long or twisted | Use shorter lengths, pause to untwist |
 
-### Building the Text Block
+## Building the Text Block
 
 As you sew, the text block takes shape:
 
@@ -277,7 +284,7 @@ As you sew, the text block takes shape:
 - Don't rush the end
 - Secure final knot well
 
-### Post-Sewing Treatment
+## Post-Sewing Treatment
 
 After sewing is complete:
 
@@ -301,9 +308,8 @@ After sewing is complete:
 3. Press overnight
 4. Check before proceeding
 
-<!-- TODO: Add photo of text block in press -->
 
-### Practice Project
+## Practice Project
 
 **Simple practice book:**
 - 5 signatures of 4 sheets each
@@ -317,7 +323,7 @@ After sewing is complete:
 - Are kettle stitches consistent?
 - Is overall appearance tidy?
 
-### Next Steps
+## Next Steps
 
 After mastering basic multi-signature sewing:
 
@@ -327,8 +333,49 @@ After mastering basic multi-signature sewing:
 4. **Add tapes:** Sewing on tapes for strength
 5. **Explore:** Historical and decorative variations
 
-### Conclusion
+---
 
-Multi-signature sewing opens the door to creating substantial books. The basic technique of entering, sewing through, exiting, and linking with kettle stitches applies to countless binding structures. Master this foundation and you can adapt to any variation that interests you.
+## Glossary
 
-Take time to practice with inexpensive materials before committing to a significant project. The rhythm of sewing becomes natural with repetition, and soon you will be creating text blocks that look and feel professional.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Multi-Signature Sewing: Getting Started
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

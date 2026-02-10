@@ -5,11 +5,21 @@ category: "Conservation"
 date: "Sep 29, 2026"
 image: "/images/covers/20261020-cleaning-cloth-covers.png"
 published: false
+seoTitle: "How to Clean Cloth Book Covers"
+metaDescription: "Safely clean and restore cloth-covered books. Learn gentle techniques for removing dirt, stains, and mold from buckram and book cloth covers."
+slug: "cleaning-cloth-covers"
 ---
 
-Old cloth-bound books accumulate decades of handling marks, dust, and grime. Proper cleaning can dramatically improve their appearance while preserving their integrity. This guide covers safe cleaning techniques for book cloth covers.
+Cleaning cloth book covers requires gentle techniques that remove dirt and stains without damaging the fabric or adhesive beneath.
 
-### Assessing the Book
+**TL;DR**
+- Start with dry cleaning methods (erasers, brushes) before trying wet techniques
+- Test any cleaning method on an inconspicuous area first
+- Mold requires isolation and careful treatment to prevent spreading to other books
+
+![Hero: How to Clean Cloth Book Covers](/images/hero/cleaning-cloth-covers.jpg)
+
+## Assessing the Book
 
 Before cleaning, evaluate the book's condition.
 
@@ -35,9 +45,8 @@ Before cleaning, evaluate the book's condition.
 
 **Rule:** Address structural issues before cleaning. Cleaning can stress weakened areas.
 
-<!-- TODO: Add photo showing assessment of dirty cloth book -->
 
-### Setting Up Your Workspace
+## Setting Up Your Workspace
 
 #### Materials Needed
 
@@ -58,7 +67,7 @@ Before cleaning, evaluate the book's condition.
 - Good ventilation
 - Space to work around book
 
-### Dry Cleaning Methods
+## Dry Cleaning Methods
 
 Always start with the least invasive method.
 
@@ -87,7 +96,6 @@ For surface grime after dusting:
 
 **Best for:** General grime, handling marks, light soiling
 
-<!-- TODO: Add photo demonstrating sponge cleaning technique -->
 
 #### Step 3: Document Cleaning Pad
 
@@ -112,7 +120,7 @@ For specific spots:
 
 **Caution:** Can damage weak cloth or remove color if aggressive.
 
-### Wet Cleaning Methods
+## Wet Cleaning Methods
 
 Use only if dry methods insufficient.
 
@@ -164,7 +172,7 @@ For heavily soiled, stable cloth:
 
 **Warning:** Saddle soap can darken some cloths or affect sizing.
 
-### Specific Problems
+## Specific Problems
 
 #### Handling Grime at Edges
 
@@ -200,7 +208,7 @@ Water marks (tide lines) are challenging:
 3. May require professional treatment
 4. Accept some marks as part of history
 
-### What Not to Do
+## What Not to Do
 
 **Never:**
 - Use colored erasers (leave marks)
@@ -211,7 +219,7 @@ Water marks (tide lines) are challenging:
 - Clean deteriorating cloth aggressively
 - Use baby wipes or wet wipes (contain chemicals)
 
-### After Cleaning
+## After Cleaning
 
 #### Drying
 
@@ -232,7 +240,7 @@ Some binders apply light conditioning after cleaning:
 
 **Caution:** May change appearance. Test first.
 
-### When to Stop
+## When to Stop
 
 Recognize limits:
 
@@ -248,9 +256,8 @@ Recognize limits:
 - Patina has value
 - Perfect is enemy of good
 
-<!-- TODO: Add before/after photo comparison -->
 
-### Documentation
+## Documentation
 
 For valuable books, document your work:
 
@@ -265,7 +272,7 @@ For valuable books, document your work:
 - After cleaning
 - Any problem areas
 
-### When to Consult a Conservator
+## When to Consult a Conservator
 
 Some problems require professional help:
 
@@ -282,7 +289,7 @@ Some problems require professional help:
 - Document treatment for provenance
 - Advise on proper storage
 
-### Preventive Care
+## Preventive Care
 
 After cleaning, prevent future soiling:
 
@@ -298,10 +305,49 @@ After cleaning, prevent future soiling:
 - Don't pull by headcap
 - Use book supports for reading
 
-### Conclusion
+---
 
-Cleaning cloth covers requires patience and restraint. Start with the gentlest methods, progress only as needed, and accept that some marks represent a book's history.
+## Glossary
 
-The goal is improvement, not perfection. A cleaned book that retains its character serves better than an aggressively cleaned book with damaged cloth.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
 
-With practice, you'll develop judgment about what each book needs and how much intervention is appropriate.
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** How to Clean Cloth Book Covers
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

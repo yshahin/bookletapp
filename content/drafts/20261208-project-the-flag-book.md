@@ -5,11 +5,21 @@ category: "Project"
 date: "Dec 08, 2026"
 image: "/images/covers/20261222-project-the-flag-book.png"
 published: false
+seoTitle: "Flag Book Project: Interactive Binding"
+metaDescription: "Build a flag book with pages that swing open from an accordion spine. A playful, interactive structure for creative bookmaking."
+slug: "project-the-flag-book"
 ---
 
-The flag book, developed by book artist Hedi Kyle in the 1970s, creates a dynamic structure where pages pop up perpendicular to the spine when opened. The "flags" can display images, text, or abstract designs, creating a kinetic reading experience unlike traditional books.
+The flag book features pages that swing open from an accordion spine, creating a playful, interactive reading experience.
 
-### Understanding the Structure
+**TL;DR**
+- Pages ("flags") attach to the peaks and valleys of an accordion spine
+- Opening the accordion causes pages to fan outward in alternating directions
+- Great for visual storytelling, art installations, and creative gifts
+
+![Hero: Flag Book Project: Interactive Binding](/images/hero/project-the-flag-book.jpg)
+
+## Understanding the Structure
 
 The flag book consists of:
 - An accordion spine
@@ -28,9 +38,8 @@ Closed:           Open (from above):
 
 When the accordion extends, flags stand perpendicular, creating a sculptural display.
 
-<!-- TODO: Add photo showing flag book closed and open -->
 
-### Project Overview
+## Project Overview
 
 **Structure:** Flag book (Hedi Kyle style)
 **Finished size:** 4" x 6" closed
@@ -38,7 +47,7 @@ When the accordion extends, flags stand perpendicular, creating a sculptural dis
 **Time required:** 2-3 hours
 **Skill level:** Intermediate
 
-### Materials Needed
+## Materials Needed
 
 | Material | Specification | Quantity |
 |----------|---------------|----------|
@@ -50,7 +59,7 @@ When the accordion extends, flags stand perpendicular, creating a sculptural dis
 | Bone folder | Standard | - |
 | Ruler and knife | For cutting | - |
 
-### Understanding the Components
+## Understanding the Components
 
 #### The Accordion Spine
 
@@ -66,7 +75,7 @@ Flags are the "pages":
 - Fold flat when accordion is compressed
 - Stand up when accordion extends
 
-### Step-by-Step Construction
+## Step-by-Step Construction
 
 #### Step 1: Create the Accordion
 
@@ -79,7 +88,6 @@ Flags are the "pages":
 
 **Important:** Consistent fold width is essential.
 
-<!-- TODO: Add photo of accordion folding -->
 
 #### Step 2: Prepare the Flags
 
@@ -130,7 +138,6 @@ For each flag:
 - Continue alternating
 - Creates visual interest when open
 
-<!-- TODO: Add diagram showing flag attachment -->
 
 #### Step 5: Test the Mechanism
 
@@ -165,7 +172,7 @@ Covers attach to first and last accordion panels:
 5. Adhere to inside of back cover
 6. Ensure accordion folds freely between covers
 
-### Making It Work
+## Making It Work
 
 #### Opening the Flag Book
 
@@ -182,7 +189,7 @@ Covers attach to first and last accordion panels:
 3. Book closes to standard shape
 4. Can stand on shelf
 
-### Design Variations
+## Design Variations
 
 #### More Flags
 
@@ -213,7 +220,7 @@ Adding dimension:
 - Creates secondary motion
 - Complex but engaging
 
-### Content Ideas
+## Content Ideas
 
 The flag book suits specific content:
 
@@ -237,7 +244,7 @@ The flag book suits specific content:
 - Pattern collections
 - Texture explorations
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -247,13 +254,13 @@ The flag book suits specific content:
 | Uneven display | Inconsistent attachment angles | Re-attach for perpendicular |
 | Book won't stay closed | Flags springing | May need tie or elastic closure |
 
-### Historical Context
+## Historical Context
 
 Hedi Kyle (b. 1937) developed the flag book structure as part of her innovative book arts practice. Kyle's work emphasizes the book as a three-dimensional object with movement and surprise. The flag book demonstrates that the codex form contains unexplored possibilities.
 
 Kyle's structures have influenced generations of book artists and continue to be taught in programs worldwide.
 
-### Taking It Further
+## Taking It Further
 
 After mastering the basic flag book:
 
@@ -269,7 +276,7 @@ After mastering the basic flag book:
 - Accordion forms a circle
 - Flags radiate outward
 
-### Teaching with Flag Books
+## Teaching with Flag Books
 
 Flag books work well for workshops:
 - Clear mechanism to understand
@@ -277,8 +284,49 @@ Flag books work well for workshops:
 - Satisfying results quickly
 - Introduces sculptural book concepts
 
-### Conclusion
+---
 
-The flag book transforms the familiar act of opening a book into a moment of kinetic surprise. Flags popping up engage viewers and invite interaction. The structure demonstrates that books can be sculptural, playful, and full of movement.
+## Glossary
 
-Start with the basic structure, master the mechanism, then explore variations and personal content. Hedi Kyle's invention continues to inspire because it reveals possibilities hidden in the simple act of opening pages.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Flag Book Project: Interactive Binding
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

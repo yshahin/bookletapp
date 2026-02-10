@@ -5,11 +5,21 @@ category: "Tutorial"
 date: "Dec 15, 2026"
 image: "/images/covers/20261229-square-knot-binding.png"
 published: false
+seoTitle: "Square Knot Binding Tutorial"
+metaDescription: "Learn the square knot binding technique for decorative exposed-spine books. A beginner-friendly method with striking visual results."
+slug: "square-knot-binding"
 ---
 
-Square knot binding creates a distinctive exposed spine where decorative knots form part of the visible structure. Each knot serves a structural purpose while adding to the binding's aesthetic appeal. This technique works well for journals, sketchbooks, and gift books where the spine becomes a design feature.
+Square knot binding creates decorative knots at sewing stations visible on the spine, combining structure with ornamentation.
 
-### Understanding the Structure
+**TL;DR**
+- Square knots form at each sewing station, creating a textured spine pattern
+- The technique uses two needles working simultaneously from opposite ends
+- Beginner-friendly with visually impressive results from the first project
+
+![Hero: Square Knot Binding Tutorial](/images/hero/square-knot-binding.jpg)
+
+## Understanding the Structure
 
 Square knot binding uses macrame-style knots to link signatures:
 
@@ -28,9 +38,8 @@ Spine appearance:
    at each station
 ```
 
-<!-- TODO: Add photo of square knot binding spine -->
 
-### How It Differs
+## How It Differs
 
 Compared to other exposed spine bindings:
 
@@ -42,7 +51,7 @@ Compared to other exposed spine bindings:
 
 Square knot creates the most three-dimensional spine texture.
 
-### Materials Needed
+## Materials Needed
 
 | Material | Specification | Notes |
 |----------|---------------|-------|
@@ -53,7 +62,7 @@ Square knot creates the most three-dimensional spine texture.
 | Awl | For piercing | Sharp |
 | Bone folder | Standard | - |
 
-### Thread Considerations
+## Thread Considerations
 
 Square knots require enough thread bulk to be visible:
 
@@ -68,7 +77,7 @@ Square knots require enough thread bulk to be visible:
 - Each thread = 3x book height
 - Total = 6x height per station
 
-### Preparing the Components
+## Preparing the Components
 
 #### Signatures
 
@@ -91,7 +100,7 @@ Covers attach through the sewing:
 3. Punch or drill holes
 4. Holes need to accommodate two threads each
 
-### The Square Knot
+## The Square Knot
 
 Before sewing, master the knot:
 
@@ -115,9 +124,8 @@ With two cords (left L, right R):
 
 **Test:** A proper square knot lies flat. A granny knot (wrong sequence) twists.
 
-<!-- TODO: Add photo demonstrating square knot formation -->
 
-### Sewing Process
+## Sewing Process
 
 #### Setup
 
@@ -166,7 +174,7 @@ For each new signature:
 3. Form final square knots on cover exterior
 4. Secure thread ends
 
-### Managing Multiple Threads
+## Managing Multiple Threads
 
 With several stations, thread management is critical:
 
@@ -176,7 +184,7 @@ With several stations, thread management is critical:
 - Keep unused threads clipped aside
 - Untangle as needed between signatures
 
-### Finishing Thread Ends
+## Finishing Thread Ends
 
 After final knots:
 
@@ -186,7 +194,7 @@ After final knots:
 - Thread ends back through cover and trim inside
 - Dot of PVA on knots (optional security)
 
-### Variations
+## Variations
 
 #### Different Knot Types
 
@@ -210,7 +218,7 @@ Using different colors:
 - Alternating colors
 - Plan color sequence beforehand
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -220,7 +228,7 @@ Using different colors:
 | Spine too bulky | Thread too heavy or too many knots | Lighter thread or fewer stations |
 | Knots loose | Not pulled tight | Tighten while forming |
 
-### Design Considerations
+## Design Considerations
 
 **Thread color:**
 - Contrasting makes knots prominent
@@ -237,7 +245,7 @@ Using different colors:
 - More stations = denser pattern
 - Consider visual rhythm
 
-### Practice Project
+## Practice Project
 
 **Simple square knot notebook:**
 - 4 signatures, 4 sheets each
@@ -251,9 +259,8 @@ Using different colors:
 - Achieve even tension
 - Experience thread management
 
-<!-- TODO: Add photo of completed practice project -->
 
-### When to Use Square Knot Binding
+## When to Use Square Knot Binding
 
 **Ideal for:**
 - Journals where spine is visible
@@ -266,7 +273,7 @@ Using different colors:
 - Very thick books (bulk accumulates)
 - When subtlety preferred
 
-### Historical and Contemporary Context
+## Historical and Contemporary Context
 
 Square knot binding combines:
 - Traditional bookbinding (signature sewing)
@@ -275,8 +282,49 @@ Square knot binding combines:
 
 The structure appears in various cultures' craft traditions, connecting bookbinding to broader textile and cordwork practices.
 
-### Conclusion
+---
 
-Square knot binding offers a unique approach to exposed spine decoration. The three-dimensional texture of the knots creates visual interest and demonstrates the maker's hand.
+## Glossary
 
-Master the basic square knot formation, practice thread management, and this binding becomes accessible. The resulting books combine the satisfaction of structural accomplishment with decorative achievement.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Square Knot Binding Tutorial
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

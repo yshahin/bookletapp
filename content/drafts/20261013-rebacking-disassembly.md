@@ -5,11 +5,21 @@ category: "Repair"
 date: "Oct 13, 2026"
 image: "/images/covers/20261027-rebacking-disassembly.png"
 published: false
+seoTitle: "Rebacking Part 1: Safe Disassembly"
+metaDescription: "Learn to safely remove a damaged spine from a bound book. Covers assessment, documentation, and careful disassembly techniques for rebacking."
+slug: "rebacking-disassembly"
 ---
 
-Rebacking replaces a book's damaged spine while preserving the original cover material. This technique saves books with worn or broken spines when the boards and text block remain sound. Part 1 covers assessment and disassembly - the critical preparation for successful rebacking.
+Rebacking starts with careful disassembly of the damaged spine while preserving the original boards and text block.
 
-### Understanding Rebacking
+**TL;DR**
+- Document everything before starting — photographs and notes guide reconstruction
+- Steam or moisture softens old adhesive for safer removal
+- Preserve the original spine piece if possible for reattachment during reconstruction
+
+![Hero: Rebacking Part 1: Safe Disassembly](/images/hero/rebacking-disassembly.jpg)
+
+## Understanding Rebacking
 
 Rebacking involves:
 1. Removing the damaged original spine
@@ -19,9 +29,8 @@ Rebacking involves:
 
 This repair maintains the book's original appearance while restoring function.
 
-<!-- TODO: Add photo showing typical candidate for rebacking -->
 
-### When to Reback
+## When to Reback
 
 #### Good Candidates
 
@@ -46,7 +55,7 @@ This repair maintains the book's original appearance while restoring function.
 - Original spine too damaged to reuse
 - Entire cover needs replacement
 
-### Assessment
+## Assessment
 
 Careful assessment before beginning prevents problems.
 
@@ -94,7 +103,7 @@ Careful assessment before beginning prevents problems.
 - As you proceed
 - Any discoveries during disassembly
 
-### Tools for Disassembly
+## Tools for Disassembly
 
 | Tool | Purpose | Notes |
 |------|---------|-------|
@@ -107,7 +116,7 @@ Careful assessment before beginning prevents problems.
 | Brushes | Applying moisture | Small, soft |
 | Tweezers | Handling small pieces | Blunt tips |
 
-### Disassembly Process
+## Disassembly Process
 
 Work slowly and carefully. Rushing causes damage.
 
@@ -123,7 +132,6 @@ Most book adhesives soften with moisture:
 
 **Patience:** Better to reapply moisture than force separation.
 
-<!-- TODO: Add photo showing moisture application -->
 
 #### Step 2: Separate Spine from Boards
 
@@ -184,7 +192,7 @@ With spine lifted, examine how boards attach:
 - They may need reattachment during reconstruction
 - This complicates the repair (but is manageable)
 
-### Preserving the Original Spine
+## Preserving the Original Spine
 
 The original spine piece will be reattached as veneer.
 
@@ -216,9 +224,8 @@ The original spine piece will be reattached as veneer.
 - Protect from damage
 - Don't fold or crease
 
-<!-- TODO: Add photo of preserved spine piece -->
 
-### Troubleshooting Disassembly
+## Troubleshooting Disassembly
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -228,7 +235,7 @@ The original spine piece will be reattached as veneer.
 | Can't access joint | Tight construction | Work more carefully at edges |
 | Text block separating | Sewing failure | Stop - needs more extensive repair |
 
-### Documentation During Disassembly
+## Documentation During Disassembly
 
 Keep records as you work:
 
@@ -240,7 +247,7 @@ Keep records as you work:
 
 **This information guides reconstruction.**
 
-### Knowing When to Stop
+## Knowing When to Stop
 
 Not all books should be rebacked by beginners.
 
@@ -255,7 +262,7 @@ Not all books should be rebacked by beginners.
 - Seek advice
 - Choose not to proceed
 
-### Preparing for Reconstruction
+## Preparing for Reconstruction
 
 With disassembly complete, you should have:
 
@@ -273,10 +280,49 @@ With disassembly complete, you should have:
 
 **In the next article,** we'll cover reconstruction - creating the new spine and reattaching the original piece.
 
-### Conclusion
+---
 
-Successful rebacking starts with careful disassembly. Work slowly, add moisture gradually, and document everything. The goal is removing the damaged spine while preserving maximum original material.
+## Glossary
 
-Patience during disassembly pays dividends during reconstruction. A well-prepared book reassembles smoothly; a rushed disassembly creates problems that persist through the entire repair.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
 
-Take your time. The book has survived this long - it can wait while you work carefully.
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Rebacking Part 1: Safe Disassembly
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

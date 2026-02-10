@@ -5,11 +5,21 @@ category: "Project"
 date: "Jun 09, 2026"
 image: "/images/covers/20270126-clamshell-box-casing.png"
 published: false
+seoTitle: "Clamshell Box Casing: Solander Box Part 2"
+metaDescription: "Complete your Solander box by joining trays with a hinged case. Learn fit assessment and casing techniques for a professional enclosure."
+slug: "clamshell-box-casing"
 ---
 
-With trays constructed in Part 1, this article completes the clamshell box. The case wraps around the nested trays, creating a hinge at the spine and a finished enclosure. Proper fit assessment and careful casing technique produce a box worthy of protecting your most valued books.
+The case wraps around nested trays and creates the hinge that transforms two separate boxes into one elegant clamshell enclosure.
 
-### Reviewing Part 1
+**TL;DR**
+- Verify tray fit before casing — trays must nest smoothly with consistent gaps
+- The case creates hinge zones that allow the box to open and close properly
+- Careful tray-to-case alignment determines the success of the finished box
+
+![Hero: Clamshell Box Casing: Solander Box Part 2](/images/hero/clamshell-complete-open.jpg)
+
+## Reviewing Part 1
 
 You should have:
 - Completed base tray (covered and lined)
@@ -17,7 +27,7 @@ You should have:
 - Trays that nest smoothly
 - Quality construction ready for casing
 
-### Fit Assessment
+## Fit Assessment
 
 Before casing, verify the trays work together.
 
@@ -50,9 +60,10 @@ Before casing, verify the trays work together.
 3. Verify book fits with slight ease
 4. Box should close completely with book inside
 
-<!-- TODO: Add photo showing nested trays with book -->
 
-### Understanding the Case
+> **Pro tip:** Mark the spine position on your covering material with light pencil lines before gluing anything. Repositioning after adhesive is applied is nearly impossible.
+
+## Understanding the Case
 
 The case connects the trays:
 
@@ -72,7 +83,9 @@ When assembled:
 - Lid attaches to other side
 - Opening at one end (fore edge)
 
-### Materials for Casing
+![Step 1: Clamshell Box Casing: Solander Box Part 2 - setup](/images/diagrams/casing-spine-stiffener.jpg)
+
+## Materials for Casing
 
 | Material | Specification | Notes |
 |----------|---------------|-------|
@@ -81,7 +94,7 @@ When assembled:
 | Lining | Optional | For interior finish |
 | PVA | As needed | Primary adhesive |
 
-### Measuring for the Case
+## Measuring for the Case
 
 #### Case Dimensions
 
@@ -96,7 +109,7 @@ When assembled:
 - Width: Lid depth + base depth + 2mm
 - Height: Case height minus turn-in allowance
 
-### Constructing the Case
+## Constructing the Case
 
 #### Step 1: Cut Components
 
@@ -126,9 +139,8 @@ The case needs to flex at two points:
 
 These gaps allow the case to fold properly.
 
-<!-- TODO: Add diagram showing hinge gap positions -->
 
-### Attaching Trays to Case
+## Attaching Trays to Case
 
 #### Positioning
 
@@ -170,9 +182,10 @@ Complete the case edges:
 4. Then complete fore edge turn-ins
 5. Work corners neatly
 
-<!-- TODO: Add photos showing tray attachment sequence -->
 
-### The Fore Edge
+> **Common mistake:** Making hinge gaps too narrow. The case needs room to flex — if gaps are too tight, the box won't open fully and stress will tear the covering.
+
+## The Fore Edge
 
 The fore edge (opening) can be treated several ways:
 
@@ -197,7 +210,9 @@ The fore edge (opening) can be treated several ways:
 3. Invisible closure
 4. Modern, clean appearance
 
-### Final Assembly Steps
+![Step 2: Clamshell Box Casing: Solander Box Part 2 - process](/images/diagrams/tray-attachment-positioning.jpg)
+
+## Final Assembly Steps
 
 #### Interior Finishing
 
@@ -215,7 +230,7 @@ The case interior may need finishing:
 3. Allow 24 hours cure time
 4. Check function before first use
 
-### Quality Assessment
+## Quality Assessment
 
 Evaluate the finished box:
 
@@ -236,7 +251,7 @@ Evaluate the finished box:
 - [ ] No loose areas
 - [ ] Joints strong
 
-### Troubleshooting Final Issues
+## Troubleshooting Final Issues
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -246,7 +261,7 @@ Evaluate the finished box:
 | Weak attachment | Insufficient adhesive | Reinforce carefully |
 | Box twists | Construction not square | Limited fixes available |
 
-### Design Variations
+## Design Variations
 
 #### Decorative Spines
 
@@ -266,7 +281,9 @@ Evaluate the finished box:
 - Allows easy book removal
 - Functional addition
 
-### Caring for Your Clamshell Box
+> **Budget option:** Use a strong decorative paper instead of book cloth for the case. It's less durable but fine for boxes that won't see daily handling.
+
+## Caring for Your Clamshell Box
 
 **Storage:**
 - Store flat or upright
@@ -278,7 +295,7 @@ Evaluate the finished box:
 - Support at spine when opening
 - Don't overfill
 
-### The Complete Process Review
+## The Complete Process Review
 
 Creating a clamshell box requires:
 
@@ -291,7 +308,9 @@ Creating a clamshell box requires:
 
 Each step builds on previous work. Mistakes early compound later.
 
-### When to Use Clamshell Boxes
+![Step 3: Clamshell Box Casing: Solander Box Part 2 - result](/images/diagrams/clamshell-finished-closed.jpg)
+
+## When to Use Clamshell Boxes
 
 **Ideal for:**
 - Valuable books
@@ -305,10 +324,49 @@ Each step builds on previous work. Mistakes early compound later.
 - Temporary storage
 - Books without special value
 
-### Conclusion
+---
 
-A well-made clamshell box represents the pinnacle of book protection. The combination of custom-fit trays and hinged case creates an enclosure that preserves contents indefinitely while presenting beautifully.
+## Glossary
 
-The skills developed in this project - precision measurement, box construction, covering, and assembly - transfer to many other bookbinding enclosure projects. Master the clamshell, and simpler boxes become easy.
+- **Casing:** The covering structure that wraps around and joins the two trays at a spine hinge
+- **Hinge zone:** The gap between the spine stiffener and tray attachment areas that allows the case to flex
+- **Spine stiffener:** A board strip placed at the spine of the case to provide structure
+- **Fore edge:** The open side of the clamshell box, opposite the spine hinge
+- **Nesting:** How the base tray fits inside the lid tray when the box is closed
 
-Your finished box protects while it impresses. The time invested in careful construction produces an object worthy of the treasures it holds.
+---
+
+## FAQ
+
+**What if my trays don't nest properly?**
+Sand the interior lid walls lightly or add thin paper lining to the base exterior. Fix fit issues before casing — they can't be corrected afterward.
+
+**How wide should the hinge gaps be?**
+Approximately board thickness (2mm) plus the thickness of your covering material. Too narrow prevents proper opening; too wide creates a floppy hinge.
+
+**Can I add a closure mechanism?**
+Yes — ribbon ties, magnetic closures, or bone clasps all work. Plan for these during case construction, not after.
+
+**My box twists when closed. Can I fix it?**
+Twisting usually means the trays aren't square. Limited correction is possible by re-pressing, but prevention through careful construction is the real solution.
+
+**How long until I can use the finished box?**
+Allow 24 hours full cure time after final assembly before placing a book inside.
+
+---
+
+## Suggested Internal Links
+
+- Clamshell Box: Trays
+- Box Making 101: Slipcases
+- Adhesives 101: PVA vs. Paste
+- Beginner's Guide to Case Binding
+
+---
+
+## Image Plan
+
+- **Hero:** Clamshell Box Casing: Solander Box Part 2
+- **Step 1:** casing-spine-stiffener
+- **Step 2:** tray-attachment-positioning
+- **Step 3:** clamshell-finished-closed

@@ -5,11 +5,21 @@ category: "Project"
 date: "Nov 17, 2026"
 image: "/images/covers/20261117-project-the-flutter-book.png"
 published: false
+seoTitle: "Flutter Book Project: Sculptural Binding"
+metaDescription: "Create a flutter book — a sculptural accordion structure that fans open to display pages in three dimensions. A creative book arts project."
+slug: "project-the-flutter-book"
 ---
 
-The flutter book (also called butterfly binding or blizzard book) creates a dramatic fanning structure where pages spread open like butterfly wings. When closed, it resembles a simple accordion; when opened and rotated, it transforms into a radial display. This project teaches an impressive structure that delights viewers.
+The flutter book is a sculptural accordion structure that fans open to display pages in three dimensions.
 
-### Understanding the Structure
+**TL;DR**
+- Pages attach to an accordion spine at alternating angles
+- The structure fans open into a circular or semi-circular display
+- Ideal for art books, photo displays, and creative book arts projects
+
+![Hero: Flutter Book Project: Sculptural Binding](/images/hero/project-the-flutter-book.jpg)
+
+## Understanding the Structure
 
 The flutter book consists of:
 - Multiple folded pages connected at a central point
@@ -28,9 +38,8 @@ Closed:        Open (from above):
                     ╲│╱
 ```
 
-<!-- TODO: Add photo showing flutter book closed and open -->
 
-### Project Overview
+## Project Overview
 
 **Structure:** Flutter/butterfly binding
 **Finished size:** 4" x 4" pages, expanding to approximately 12" diameter
@@ -38,7 +47,7 @@ Closed:        Open (from above):
 **Time required:** 1-2 hours
 **Skill level:** Beginner to Intermediate
 
-### Materials Needed
+## Materials Needed
 
 | Material | Specification | Quantity |
 |----------|---------------|----------|
@@ -50,7 +59,7 @@ Closed:        Open (from above):
 | Needle (optional) | If using thread | Large eye |
 | Decorative paper (optional) | For covers | 2 pieces |
 
-### Step-by-Step Construction
+## Step-by-Step Construction
 
 #### Step 1: Cut the Pages
 
@@ -99,7 +108,6 @@ Each square collapses into a smaller folded unit:
 
 Repeat for all 4 squares.
 
-<!-- TODO: Add photo showing folding sequence -->
 
 #### Step 4: Stack the Units
 
@@ -140,7 +148,7 @@ Covers protect and finish the piece:
 2. Attach to first and last panels
 3. Creates polished exterior
 
-### Making It Flutter
+## Making It Flutter
 
 To open your flutter book:
 
@@ -154,9 +162,8 @@ To open your flutter book:
 - Hang from center point
 - Stand in specially made holder
 
-<!-- TODO: Add photo of flutter book fully opened -->
 
-### Design Considerations
+## Design Considerations
 
 #### Content Planning
 
@@ -187,7 +194,7 @@ When fanned, panels create visual relationships:
 - Leave margins for safety
 - Test with dummy first
 
-### Variations
+## Variations
 
 #### More Pages
 
@@ -219,7 +226,7 @@ Adding dimension:
 - Three-dimensional elements
 - Interactive features
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -229,7 +236,7 @@ Adding dimension:
 | Panels uneven | Squares not identical | More careful cutting |
 | Binding loose | Not tight enough | Re-tie more securely |
 
-### Applications
+## Applications
 
 Flutter books work well for:
 
@@ -248,7 +255,7 @@ Flutter books work well for:
 - Portfolio presentations
 - Educational materials
 
-### Historical and Contemporary Context
+## Historical and Contemporary Context
 
 The flutter book is a modern structure:
 - Developed in contemporary book arts movement
@@ -258,7 +265,7 @@ The flutter book is a modern structure:
 
 It represents bookbinding as sculpture and performance - the opening of a flutter book is itself a small drama.
 
-### Practice Project: Photo Flutter
+## Practice Project: Photo Flutter
 
 Create a simple photo flutter book:
 
@@ -271,8 +278,49 @@ Create a simple photo flutter book:
 
 This makes an impressive gift that seems more complex than it is.
 
-### Conclusion
+---
 
-The flutter book demonstrates that bookbinding includes sculptural and performance elements. The transformation from simple stack to radial fan delights viewers and showcases the possibilities of paper engineering.
+## Glossary
 
-Start with the basic structure, then experiment with variations. The simple folding principle supports endless creative interpretation. Each flutter book you make will suggest new possibilities for the next.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Flutter Book Project: Sculptural Binding
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

@@ -5,19 +5,27 @@ category: "Tutorial"
 date: "Jul 28, 2026"
 image: "/images/covers/placeholder.png"
 published: false
+seoTitle: "Quarter Leather Binding: A First Leather Project"
+metaDescription: "Create a quarter leather binding with leather spine and paper-covered boards. An accessible introduction to working with leather on books."
+slug: "quarter-leather-binding"
 ---
 
-# Quarter-Leather Binding
+Quarter leather binding combines a leather spine with paper-covered boards for an elegant, accessible first leather project.
 
-Quarter-leather binding is a classic style where the spine is covered in leather, while the sides are covered in cloth or decorative paper. This style offers the durability and elegance of leather at the hinge—the part of the book that flexes most—without the expense and difficulty of a full leather cover.
+**TL;DR**
+- Leather covers the spine only — paper or cloth covers the boards
+- Requires less paring skill than full leather while teaching core techniques
+- The leather-to-paper joint is the critical detail that makes or breaks the design
 
-### Why Choose Quarter-Leather?
+![Hero: Quarter Leather Binding: A First Leather Project](/images/hero/quarter-leather-binding.jpg)
+
+## Why Choose Quarter-Leather?
 
 *   **Durability:** Leather provides superior strength at the joint compared to cloth or paper.
 *   **Aesthetics:** The contrast between the leather spine and marbled paper sides is historically significant and visually striking.
 *   **Cost:** It uses significantly less skin than a full binding.
 
-### Key Techniques
+## Key Techniques
 
 #### 1. Leather Paring (The Hinge)
 As discussed in our *Knife Sharpening Workshop*, the leather must be pared thin where it turns in at the head and tail, but also along the "joint" where the board opens.
@@ -41,7 +49,7 @@ Once the leather is dry and trimmed, the paper or cloth sides are applied.
 *   **Glue:** Use PVA or a mix of PVA/Paste for the sides.
 *   **Rub Down:** Ensure neat adhesion where the paper overlaps the leather.
 
-### Troubleshooting
+## Troubleshooting
 *   **Stiff Opening:** Usually caused by leather that wasn't pared thin enough at the hinge.
 *   **Staining:** Paste can stain some leathers. Keep your hands and tools clean.
 

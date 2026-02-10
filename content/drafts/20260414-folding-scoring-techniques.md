@@ -5,11 +5,21 @@ category: "Technique"
 date: "Apr 14, 2026"
 image: "/images/covers/20260414-folding-scoring-techniques.png"
 published: false
+seoTitle: "Paper Folding & Scoring for Bookbinding"
+metaDescription: "Master paper folding and scoring techniques for clean, professional signatures. Covers grain direction, bone folder technique, and scoring methods."
+slug: "folding-scoring-techniques"
 ---
 
-The quality of a handmade book depends heavily on precise, clean folds. Whether you are creating signatures for a text block or folding cover materials, proper technique transforms amateur work into professional results. This guide covers the tools and methods that make the difference.
+Clean, precise folds along the paper grain create signatures that press flat and sew evenly.
 
-### Why Folding Matters
+**TL;DR**
+- Always fold with the grain — cross-grain folds crack and resist lying flat
+- Score heavier papers before folding to prevent cracking at the fold
+- A bone folder creates crisp folds without damaging the paper surface
+
+![Hero: Paper Folding & Scoring for Bookbinding](/images/hero/folding-scoring-techniques.jpg)
+
+## Why Folding Matters
 
 A poorly folded signature creates problems throughout the binding process:
 - Uneven page edges requiring excessive trimming
@@ -25,7 +35,7 @@ Conversely, crisp folds:
 - Enable precise sewing
 - Result in professional-looking books
 
-### The Bone Folder: Your Primary Tool
+## The Bone Folder: Your Primary Tool
 
 The bone folder is the bookbinder's most essential hand tool. Originally made from actual bone, modern versions come in various materials.
 
@@ -41,7 +51,6 @@ The bone folder is the bookbinder's most essential hand tool. Originally made fr
 
 **Recommended:** Start with genuine bone or Teflon. Each has distinct advantages.
 
-<!-- TODO: Add photo comparing different bone folder materials -->
 
 #### Anatomy of a Bone Folder
 
@@ -52,9 +61,8 @@ A quality bone folder has distinct working edges:
 - **Curved edge:** For smoothing rounded surfaces
 - **Broad side:** For pressing and smoothing
 
-<!-- TODO: Add diagram labeling bone folder parts -->
 
-### Scoring: Preparation for Folding
+## Scoring: Preparation for Folding
 
 Scoring creates a compressed line in the paper that guides the fold. Proper scoring prevents cracking and ensures the fold occurs exactly where intended.
 
@@ -98,9 +106,8 @@ Scoring creates a compressed line in the paper that guides the fold. Proper scor
 3. Fast for production work
 4. Requires practice to control depth
 
-<!-- TODO: Add photo demonstrating scoring with ruler and bone folder -->
 
-### Folding Techniques
+## Folding Techniques
 
 #### The Basic Fold
 
@@ -140,7 +147,6 @@ When folding multiple sheets nested together:
 7. Return to center, sweep to other edge
 8. Final pass across entire fold
 
-<!-- TODO: Add video demonstrating folio folding technique -->
 
 #### Folding a Quarto (Single Sheet, Four Leaves)
 
@@ -161,7 +167,7 @@ A quarto fold creates 8 pages from one sheet:
 3. Creates 16 pages from one sheet
 4. Multiple cross-grain folds require scoring and careful pressure
 
-### Common Folding Problems
+## Common Folding Problems
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -172,7 +178,7 @@ A quarto fold creates 8 pages from one sheet:
 | Offset fold | Paper slipped during folding | Anchor center first |
 | White line at fold | Coating cracking | Score before folding, consider different paper |
 
-### Advanced: Folding Cover Materials
+## Advanced: Folding Cover Materials
 
 Cover materials require special attention due to their weight and composition.
 
@@ -203,9 +209,8 @@ Leather folds differently than paper:
 4. Hold in position until set
 5. Do not use bone folder on grain side (burnishes the surface)
 
-<!-- TODO: Add photo showing leather folding technique -->
 
-### Grain Direction and Folding
+## Grain Direction and Folding
 
 Grain direction profoundly affects folding. Paper folds most easily parallel to its grain.
 
@@ -223,7 +228,7 @@ Grain direction profoundly affects folding. Paper folds most easily parallel to 
 - This means your fold is WITH the grain
 - Ensures pages turn easily and lie flat
 
-### Creating a Folding Template
+## Creating a Folding Template
 
 For consistent signature sizes, create a folding jig:
 
@@ -237,9 +242,8 @@ For consistent signature sizes, create a folding jig:
 2. Fold meets predetermined mark
 3. Produces identical signatures every time
 
-<!-- TODO: Add diagram of simple folding jig construction -->
 
-### Pressing After Folding
+## Pressing After Folding
 
 Folded signatures need pressing to:
 - Set the folds permanently
@@ -258,7 +262,7 @@ Folded signatures need pressing to:
 - 30-second press achieves similar results
 - Requires equipment investment
 
-### Practice Exercises
+## Practice Exercises
 
 **Exercise 1: Perfect folio**
 1. Cut 10 sheets of copy paper to A4
@@ -278,7 +282,7 @@ Folded signatures need pressing to:
 3. Measure spine thickness consistency
 4. Goal: Less than 0.5mm variation
 
-### Tools for Folding
+## Tools for Folding
 
 **Essential:**
 - Bone folder
@@ -297,7 +301,7 @@ Folded signatures need pressing to:
 - Folding machine (for production)
 - Scoring board
 
-### Maintaining Your Bone Folder
+## Maintaining Your Bone Folder
 
 A well-maintained bone folder performs better:
 
@@ -316,8 +320,49 @@ A well-maintained bone folder performs better:
 - Store flat
 - Keep away from extreme temperatures
 
-### Conclusion
+---
 
-Folding seems simple, but mastery requires attention to grain direction, paper weight, scoring technique, and tool control. The time invested in learning proper folding pays dividends in every subsequent step of bookbinding.
+## Glossary
 
-Start with basic folios, progress to quartos, and gradually work with heavier materials. Let your bone folder become an extension of your hand, and your books will show the difference.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Paper Folding & Scoring for Bookbinding
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

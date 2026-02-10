@@ -5,11 +5,21 @@ category: "Materials"
 date: "Jun 23, 2026"
 image: "/images/covers/20260929-thread-types-guide.png"
 published: false
+seoTitle: "Bookbinding Thread Guide: Linen, Silk & More"
+metaDescription: "Choose the right bookbinding thread for every project. Compare linen, silk, cotton, and polyester by strength, appearance, and best use cases."
+slug: "thread-types-guide"
 ---
 
-Thread choice affects both the strength and appearance of your binding. Each thread type has distinct properties that make it suitable for specific applications. This guide helps you choose wisely for every project.
+Choosing the right thread for your binding project determines both the strength and visual character of the finished book.
 
-### Thread Properties That Matter
+**TL;DR**
+- Linen is the traditional workhorse — strong, archival, and holds knots well
+- Silk offers the best strength-to-weight ratio and beautiful appearance for fine binding
+- Match thread weight to paper weight so sewing doesn't overwhelm delicate signatures
+
+![Hero: Bookbinding Thread Guide: Linen, Silk & More](/images/hero/thread-types-comparison.jpg)
+
+## Thread Properties That Matter
 
 When selecting thread, consider:
 
@@ -19,7 +29,7 @@ When selecting thread, consider:
 **Appearance:** Visible in exposed spine bindings
 **Longevity:** Must outlast the book it binds
 
-### Linen Thread
+## Linen Thread
 
 The traditional bookbinding thread of choice.
 
@@ -61,9 +71,10 @@ The traditional bookbinding thread of choice.
 - Can be stiff until broken in
 - Limited color range
 
-<!-- TODO: Add photo comparing linen thread weights -->
 
-### Silk Thread
+> **Pro tip:** Buy thread in small quantities from multiple suppliers to find what you prefer before committing to large spools. Thread feel and quality vary significantly between brands.
+
+## Silk Thread
 
 The luxury choice for fine binding.
 
@@ -104,7 +115,9 @@ The luxury choice for fine binding.
 - Can cut through soft paper if too tight
 - Harder to find in bookbinding weights
 
-### Cotton Thread
+![Step 1: Bookbinding Thread Guide: Linen, Silk & More - setup](/images/diagrams/thread-weight-samples.jpg)
+
+## Cotton Thread
 
 An economical, versatile option.
 
@@ -146,7 +159,7 @@ An economical, versatile option.
 - Less archival than linen
 - Can deteriorate faster
 
-### Polyester Thread
+## Polyester Thread
 
 The modern synthetic option.
 
@@ -188,7 +201,9 @@ The modern synthetic option.
 - Synthetic appearance
 - Some prefer natural materials
 
-### Comparative Table
+> **Common mistake:** Using thread that's too thick for your paper. Heavy thread on lightweight paper tears through the fold. The thread should nestle into the fold without bulging.
+
+## Comparative Table
 
 | Property | Linen | Silk | Cotton | Polyester |
 |----------|-------|------|--------|-----------|
@@ -200,7 +215,9 @@ The modern synthetic option.
 | Archival | Excellent | Excellent | Good | Excellent |
 | Feel | Wiry | Smooth | Soft | Smooth |
 
-### Thread Weight and Sizing
+![Step 2: Bookbinding Thread Guide: Linen, Silk & More - process](/images/diagrams/thread-waxing-technique.jpg)
+
+## Thread Weight and Sizing
 
 Thread thickness must match paper and project:
 
@@ -222,7 +239,7 @@ Thread thickness must match paper and project:
 
 **General rule:** Thread should not be thicker than the paper can comfortably accommodate without tearing.
 
-### Waxing Thread
+## Waxing Thread
 
 Wax treatment improves thread performance.
 
@@ -248,9 +265,10 @@ Wax treatment improves thread performance.
 **Microcrystalline wax:** More refined, less sticky
 **Pre-waxed thread:** Convenient, consistent
 
-<!-- TODO: Add photo demonstrating thread waxing -->
 
-### Thread for Specific Bindings
+> **Budget option:** Waxed linen from leather craft suppliers is often the same quality as bookbinding-specific thread at a lower price. Check the weight and buy a sample first.
+
+## Thread for Specific Bindings
 
 #### Coptic Binding
 
@@ -287,7 +305,7 @@ Wax treatment improves thread performance.
 **Weight:** Light to medium
 **Notes:** Don't overpower delicate signatures
 
-### Sourcing Quality Thread
+## Sourcing Quality Thread
 
 #### Specialty Suppliers
 
@@ -310,7 +328,9 @@ Wax treatment improves thread performance.
 - Thread with knots or joins
 - Old, degraded stock
 
-### Storage and Care
+![Step 3: Bookbinding Thread Guide: Linen, Silk & More - result](/images/diagrams/thread-binding-matching.jpg)
+
+## Storage and Care
 
 **Store thread:**
 - Away from direct light
@@ -323,13 +343,51 @@ Wax treatment improves thread performance.
 - Heat and humidity accelerate degradation
 - Rotate stock if you have a lot
 
-### Conclusion
+> **Tool swap:** No beeswax block? A plain white candle (unscented) works for waxing thread in a pinch. Microcrystalline wax is the professional alternative.
 
-Thread choice deserves thoughtful consideration for each project. Match the thread's properties to your binding's requirements:
+---
 
-- **Linen** for traditional quality and strength
-- **Silk** for fine work and beauty
-- **Cotton** for economy and learning
-- **Polyester** for durability and moisture resistance
+## Glossary
 
-Quality thread is a small investment that dramatically affects your binding's longevity and appearance. Choose well, and your books will serve readers for generations.
+- **Cord count:** Number of plies twisted together in a thread (e.g., 3-cord, 6-cord)
+- **Waxing:** Drawing thread across beeswax to reduce tangling, add stiffness, and ease passage through holes
+- **Swell:** Increased spine thickness from thread buildup — affected by thread weight and sewing stations
+- **Polished linen:** Linen thread with a smooth finish and slight sheen, preferred for fine binding
+- **Tex:** Metric measurement of thread weight — weight in grams of 1,000 meters of thread
+
+---
+
+## FAQ
+
+**What's the best all-around thread for beginners?**
+Waxed linen in medium weight. It's forgiving, holds knots well, and works for most binding styles. Buy a spool and you'll use it for dozens of projects.
+
+**Do I have to wax my thread?**
+Not if you buy pre-waxed thread. If using unwaxed thread, waxing is strongly recommended — it prevents tangling and helps thread grip in stitches.
+
+**Can I use regular sewing thread?**
+Standard sewing thread (polyester or cotton) is too thin and slippery for most bookbinding. It works only for very light pamphlet stitching.
+
+**How much thread do I need per project?**
+Roughly 2.5 times the spine height per signature, plus extra for starting and finishing. Better to have too much than to run out mid-sewing.
+
+**Does thread color matter?**
+For hidden sewing (case binding), no. For exposed-spine bindings (Coptic, long stitch, stab), thread color is a design choice that significantly affects appearance.
+
+---
+
+## Suggested Internal Links
+
+- Coptic Stitch: The Basics
+- Japanese Stab Binding: 4-Hole
+- Tape Sewing Techniques
+- French Link Stitch
+
+---
+
+## Image Plan
+
+- **Hero:** Bookbinding Thread Guide: Linen, Silk & More
+- **Step 1:** thread-weight-samples
+- **Step 2:** thread-waxing-technique
+- **Step 3:** thread-binding-matching

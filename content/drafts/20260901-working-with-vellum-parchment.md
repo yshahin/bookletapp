@@ -5,11 +5,21 @@ category: "Materials"
 date: "Sep 01, 2026"
 image: "/images/covers/20260915-working-with-vellum-parchment.png"
 published: false
+seoTitle: "Working with Vellum and Parchment"
+metaDescription: "Learn to handle, prepare, and use vellum and parchment in bookbinding. Covers sourcing, conditioning, and working techniques for animal skin materials."
+slug: "working-with-vellum-parchment"
 ---
 
-Vellum and parchment are among the most beautiful and challenging materials in bookbinding. Their translucent quality, exceptional durability, and historical significance make them prized, but their sensitivity to humidity requires understanding and careful handling.
+Vellum and parchment are animal-skin materials with unique properties that require specific handling techniques for successful bookbinding.
 
-### Understanding the Material
+**TL;DR**
+- Vellum (calfskin) and parchment (sheep/goat) respond dramatically to humidity
+- Conditioning and restraining during drying prevents warping and cockling
+- Always work in moderate humidity and allow time for the material to acclimate
+
+![Hero: Working with Vellum and Parchment](/images/hero/working-with-vellum-parchment.jpg)
+
+## Understanding the Material
 
 Vellum and parchment are prepared animal skins, not leather:
 
@@ -30,9 +40,8 @@ Vellum and parchment are prepared animal skins, not leather:
 - Sheep parchment (more economical)
 - Modern alternatives (paper-based products)
 
-<!-- TODO: Add photo comparing different vellum/parchment types -->
 
-### Properties You Must Understand
+## Properties You Must Understand
 
 #### Humidity Sensitivity
 
@@ -68,7 +77,7 @@ Vellum "remembers" how it was dried:
 - Curls toward hair side in dry conditions
 - Flattens or reverses in humid conditions
 
-### Selecting Vellum
+## Selecting Vellum
 
 When purchasing vellum, consider:
 
@@ -98,7 +107,7 @@ When purchasing vellum, consider:
 
 For limp binding covers, medium weight works best.
 
-### Preparing to Work
+## Preparing to Work
 
 #### Environment Control
 
@@ -130,7 +139,7 @@ Before cutting or folding:
 - Goal: Supple but not wet
 - Never soak or wet directly
 
-### Cutting Vellum
+## Cutting Vellum
 
 #### Tools
 
@@ -149,7 +158,7 @@ Before cutting or folding:
 
 **Critical:** Dull knives tear vellum. Test sharpness before starting.
 
-### Folding Vellum
+## Folding Vellum
 
 Vellum doesn't fold like paper:
 
@@ -171,9 +180,8 @@ Always score before folding:
 
 **Vellum creases hold:** Unlike paper, vellum folds are more permanent.
 
-<!-- TODO: Add photo showing proper vellum folding technique -->
 
-### Attaching Vellum
+## Attaching Vellum
 
 #### Adhesive Choices
 
@@ -205,7 +213,7 @@ Always score before folding:
 
 **Drying time:** Longer than paper - vellum must equalize with adhesive moisture.
 
-### Vellum as Book Covering
+## Vellum as Book Covering
 
 For limp vellum covers:
 
@@ -235,7 +243,7 @@ Options:
 - Historical accuracy
 - Strong connection
 
-### Dealing with Cockling
+## Dealing with Cockling
 
 Cockling (waviness) is the main challenge:
 
@@ -256,7 +264,7 @@ Cockling (waviness) is the main challenge:
 
 **Important:** Cockling may return with humidity changes - it's the nature of the material.
 
-### Decorating Vellum
+## Decorating Vellum
 
 #### Gold Tooling
 
@@ -280,7 +288,7 @@ Vellum was the manuscript painting surface:
 - Printed labels can be attached
 - Consider humidity effects
 
-### Storage and Care
+## Storage and Care
 
 #### Storing Unused Vellum
 
@@ -296,7 +304,7 @@ Vellum was the manuscript painting surface:
 - Handle with clean, dry hands
 - Allow acclimation when moving between environments
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -307,7 +315,7 @@ Vellum was the manuscript painting surface:
 | Adhesive won't stick | Surface too dry or smooth | Light dampening, roughen slightly |
 | Color changes | Wrong adhesive or contamination | Use appropriate adhesive |
 
-### Modern Alternatives
+## Modern Alternatives
 
 If vellum's challenges are too great:
 
@@ -329,10 +337,49 @@ If vellum's challenges are too great:
 - Modern appearance
 - No natural character
 
-### Conclusion
+---
 
-Working with vellum and parchment requires patience and environmental awareness. The material rewards careful handling with unmatched beauty and durability.
+## Glossary
 
-Accept that vellum will move with humidity - don't fight this, accommodate it. Learn to condition the material properly, use appropriate adhesives sparingly, and allow adequate drying time.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
 
-The connection to centuries of bookmaking tradition makes vellum worth the extra care. Start with simple projects, develop your feel for the material, and gradually take on more ambitious work.
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Working with Vellum and Parchment
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

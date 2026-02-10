@@ -5,11 +5,21 @@ category: "Technique"
 date: "Aug 25, 2026"
 image: "/images/covers/20260901-edge-decoration-graphite.png"
 published: false
+seoTitle: "Edge Decoration: Graphite Burnishing"
+metaDescription: "Create a smooth, metallic graphite finish on book edges. Learn the burnishing technique that gives books a refined, polished appearance."
+slug: "edge-decoration-graphite"
 ---
 
-Graphite edges give books a distinctive silvery, metallic appearance. The technique involves applying and burnishing graphite powder to create a smooth, reflective surface. While more subtle than gilded edges, graphite offers an elegant, understated decoration that complements modern and traditional bindings alike.
+Graphite burnishing creates a smooth, subtly metallic finish on trimmed book edges with minimal tools.
 
-### Understanding Graphite Edges
+**TL;DR**
+- Apply powdered graphite to trimmed, pressed edges with a soft cloth
+- Burnish with an agate or bone burnisher for a polished, reflective surface
+- Works best on smooth, tightly pressed text blocks with clean-cut edges
+
+![Hero: Edge Decoration: Graphite Burnishing](/images/hero/edge-decoration-graphite.jpg)
+
+## Understanding Graphite Edges
 
 Graphite creates its effect through burnishing:
 - Graphite particles fill paper surface texture
@@ -23,9 +33,8 @@ Graphite creates its effect through burnishing:
 - Transfers slightly to hands initially
 - Can be sealed for permanence
 
-<!-- TODO: Add photo showing finished graphite edge -->
 
-### Materials Needed
+## Materials Needed
 
 | Material | Specification | Notes |
 |----------|---------------|-------|
@@ -36,7 +45,7 @@ Graphite creates its effect through burnishing:
 | Sealer (optional) | Matte fixative | For permanence |
 | Cotton balls | Soft | Initial application |
 
-### The Process Overview
+## The Process Overview
 
 Graphite edge decoration involves:
 1. Preparing and pressing the edge
@@ -47,7 +56,7 @@ Graphite edge decoration involves:
 
 The key is building up layers and burnishing thoroughly.
 
-### Step-by-Step Guide
+## Step-by-Step Guide
 
 #### Step 1: Prepare the Text Block
 
@@ -100,7 +109,6 @@ The burnishing step creates the final polish:
 - Work methodically across entire surface
 - Check for missed spots
 
-<!-- TODO: Add photo showing burnishing technique -->
 
 #### Step 5: Final Polish
 
@@ -128,7 +136,7 @@ Graphite can transfer to hands unless sealed:
 4. Test for transfer
 5. Additional coat if needed
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -139,7 +147,7 @@ Graphite can transfer to hands unless sealed:
 | Dark smudges on book | Unsealed edges | Apply sealer |
 | Scratches in finish | Debris on burnisher | Clean tools frequently |
 
-### Comparing to Other Edge Treatments
+## Comparing to Other Edge Treatments
 
 | Treatment | Appearance | Difficulty | Cost | Durability |
 |-----------|------------|------------|------|------------|
@@ -149,7 +157,7 @@ Graphite can transfer to hands unless sealed:
 | Spatter | Patterned | Easy | Low | Good |
 | Color stain | Solid color | Easy | Low | Good |
 
-### When to Choose Graphite
+## When to Choose Graphite
 
 **Ideal for:**
 - Modern/contemporary bindings
@@ -163,7 +171,7 @@ Graphite can transfer to hands unless sealed:
 - Books frequently handled without sealing
 - Very light-colored bindings (contrast may clash)
 
-### Advanced Techniques
+## Advanced Techniques
 
 #### Burnished Patterns
 
@@ -192,7 +200,7 @@ Apply to specific edges only:
 - Head only (shows on shelf)
 - Creates hierarchy of decoration
 
-### Historical Context
+## Historical Context
 
 Graphite edges represent a 20th-century innovation:
 - Developed as alternative to expensive gilding
@@ -206,7 +214,7 @@ Graphite edges represent a 20th-century innovation:
 - Designer bindings
 - Private press editions
 
-### Materials Deep Dive
+## Materials Deep Dive
 
 #### Graphite Types
 
@@ -244,7 +252,7 @@ Graphite edges represent a 20th-century innovation:
 - Polished bone folder (may scratch)
 - Smooth glass rod
 
-### Practice Recommendations
+## Practice Recommendations
 
 **Before working on real books:**
 
@@ -260,7 +268,7 @@ Graphite edges represent a 20th-century innovation:
 - Compare different graphite amounts
 - Try different burnishing patterns
 
-### Care and Handling
+## Care and Handling
 
 Books with graphite edges require consideration:
 
@@ -279,10 +287,49 @@ Books with graphite edges require consideration:
 - Clean surface before re-application
 - Touch up as needed
 
-### Conclusion
+---
 
-Graphite edges offer an elegant alternative to traditional gilding at a fraction of the cost and complexity. The pewter-like finish suits contemporary aesthetics while connecting to fine binding traditions.
+## Glossary
 
-Success requires attention to edge preparation and patience during burnishing. The technique rewards practice - your early attempts teach you the feel of proper pressure and the signs of developing polish.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
 
-Add graphite edges to your decorative repertoire for books where subtle sophistication serves better than brilliant gold.
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Edge Decoration: Graphite Burnishing
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

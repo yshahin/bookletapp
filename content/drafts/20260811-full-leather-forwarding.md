@@ -5,19 +5,27 @@ category: "Tutorial"
 date: "Aug 11, 2026"
 image: "/images/covers/placeholder.png"
 published: false
+seoTitle: "Full Leather Forwarding: Complete Coverage"
+metaDescription: "Learn the forwarding steps for a full leather binding. Covers paring, covering, turning in, and board attachment for complete leather coverage."
+slug: "full-leather-forwarding"
 ---
 
-# Full Leather Forwarding
+Full leather forwarding covers the entire book in leather, requiring advanced paring and precise covering technique.
 
-"Full leather" means the entire book—spine and both boards—is covered in a single piece of skin. This is the most demanding and durable form of binding, traditionally used for the most valuable volumes.
+**TL;DR**
+- Leather must be pared to varying thicknesses across different zones
+- Covering requires working quickly while paste remains tacky
+- Corner treatment and turn-ins define the quality of the finished binding
 
-### The Structure: Raised Bands
+![Hero: Full Leather Forwarding: Complete Coverage](/images/hero/full-leather-forwarding.jpg)
+
+## The Structure: Raised Bands
 
 Unlike modern "hollow back" books, traditional leather bindings are often "tight backs" sewn on **raised cords**.
 *   The texture of the spine is defined by the thick hemp cords the book is sewn onto.
 *   The leather is pasted directly to the spine and molded over these cords, creating the classic "ribbed" look.
 
-### Lacing In
+## Lacing In
 
 The connection between the book and cover is mechanical, not just adhesive.
 1.  **Fraying:** The ends of the sewing cords (slips) are frayed out into soft fibers.
@@ -25,7 +33,7 @@ The connection between the book and cover is mechanical, not just adhesive.
 3.  **Lacing:** The frayed slips are threaded through the boards and hammered flat.
 This makes it nearly impossible for the covers to be torn off.
 
-### Covering Process
+## Covering Process
 
 Covering a full leather book is a time-sensitive race against the drying paste.
 
@@ -35,6 +43,6 @@ Covering a full leather book is a time-sensitive race against the drying paste.
 4.  **The Headcaps:** The leather at the head and tail is shaped over the endbands. This is the mark of a master—a well-formed headcap is smooth and protective.
 5.  **The Corners:** Unlike cloth, leather corners are "mitered" (cut at 45 degrees) and formed by butt-joining the edges of the leather, rather than overlapping.
 
-### Why It Matters
+## Why It Matters
 
 A full leather binding, when engineered correctly with good "forwarding" (structure), functions as a precise machine. The heavy boards provide leverage to open the book, the tight spine throws the pages upward for reading, and the leather acts as a tough, flexible hinge that can last for 500 years or more.

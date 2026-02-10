@@ -22,41 +22,43 @@ This project guides you through creating a round-backed case binding with hollow
 ## Project Overview
 
 **Structure:** Rounded and backed case binding with hollow back
-**Finished size:** 6" x 9" (A5 approximate)
+**Finished size:** 6 × 9 inches (15 × 23cm)
 **Signatures:** 8 signatures, 4 sheets each
 **Spine style:** English round with defined shoulders
-**Time required:** 6-8 hours over multiple sessions
+**Time required:** 6–8 hours over multiple sessions
 **Skill level:** Intermediate to Advanced
 
-### Materials List
+## Tools & Materials
 
 | Material | Specification | Quantity |
 |----------|---------------|----------|
-| Text paper | 80 gsm, grain long | 32 sheets (6" x 18") |
-| Endpaper stock | 100 gsm, grain long | 4 sheets |
-| Binder's board | 2.5mm | 2 pieces (6.25" x 9.25") |
-| Spine board | 1.5mm | 1 piece (calculated width x 9") |
-| Book cloth | Enough to cover case | Approximately 10" x 14" |
-| Thread | Linen, medium weight | 60" |
-| Spine lining (mull) | Open weave fabric | Strip 2" wide x spine length |
+| Text paper | 80 GSM, grain long | 32 sheets 6 × 18 inches (15 × 46cm) |
+| Endpaper stock | 100 GSM, grain long | 4 sheets |
+| Binder's board | 2.5mm (3/32 inch) | 2 pieces 6.25 × 9.25 inches (16 × 24cm) |
+| Spine board | 1.5mm (1/16 inch) | 1 piece (calculated width × 9 inches / 23cm) |
+| Book cloth | Enough to cover case | Approximately 10 × 14 inches (25 × 36cm) |
+| Thread | Linen, medium weight | 60 inches (150cm) |
+| Spine lining (mull) | Open weave fabric | Strip 2 inches (5cm) wide × spine length |
 | Kraft paper | For hollow back | Strip |
 | PVA glue | Flexible | As needed |
 | Headband material | Or pre-made headbands | 2 pieces |
 
-<!-- TODO: Add photo of all materials gathered -->
+> **Budget option:** Use pre-made headbands instead of hand-sewn for your first project. They work well and let you focus on the core rounding and backing techniques.
 
-### Phase 1: Preparing the Text Block
+![Step 1: All materials organized for round back project](/images/diagrams/round-back-materials.jpg)
+
+## Phase 1: Preparing the Text Block
 
 #### Folding Signatures
 
-1. Cut text paper to 6" x 18"
+1. Cut text paper to 6 × 18 inches (15 × 46cm)
 2. Fold each sheet in half (grain parallel to fold)
 3. Nest 4 sheets per signature = 8 signatures total
 4. Press overnight between boards with weight
 
 #### Making Endpapers
 
-1. Cut endpaper stock to 6" x 18"
+1. Cut endpaper stock to 6 × 18 inches (15 × 46cm)
 2. Fold in half
 3. Create 4 folded endpapers
 4. Two will wrap first signature, two will wrap last
@@ -71,30 +73,30 @@ This project guides you through creating a round-backed case binding with hollow
 For this project, use 5 sewing stations:
 
 **Measurements from head:**
-- Station 1: 1/2"
-- Station 2: 2"
-- Station 3: 4.5" (center)
-- Station 4: 7"
-- Station 5: 8.5"
+- Station 1: 1/2 inch (12mm)
+- Station 2: 2 inches (50mm)
+- Station 3: 4.5 inches (115mm) — center
+- Station 4: 7 inches (180mm)
+- Station 5: 8.5 inches (215mm)
 
 Create template and pierce all signatures identically.
 
-### Phase 2: Sewing the Text Block
+## Phase 2: Sewing the Text Block
 
 Use kettle stitch sewing with 5 stations:
 
-1. Thread needle with 60" waxed linen
-2. Begin at Station 1 of Signature 1, leave 4" tail
+1. Thread needle with 60 inches (150cm) waxed linen
+2. Begin at Station 1 of Signature 1, leave 4-inch (10cm) tail
 3. Sew through all stations
 4. Add Signature 2, kettle stitch at exit
 5. Continue through all 8 signatures
 6. Finish with double kettle stitch, tie off
 
-**Sewing tension:** Moderate - tight enough to hold but not so tight that signatures bunch. A properly sewn text block for rounding needs some swell.
+**Sewing tension:** Moderate — tight enough to hold but not so tight that signatures bunch. A properly sewn text block for rounding needs some swell.
 
-<!-- TODO: Add photo of sewn text block before rounding -->
+> **Pro tip:** For round-back books, err on the side of slightly more swell. The rounding process compresses the spine somewhat, so extra swell helps maintain the curve.
 
-### Phase 3: Preparing for Rounding
+## Phase 3: Preparing for Rounding
 
 #### Gluing the Spine
 
@@ -103,7 +105,7 @@ Use kettle stitch sewing with 5 stations:
 3. Work into gaps between signatures
 4. Let dry 30 minutes
 5. Apply second thin coat
-6. Let dry completely (1-2 hours)
+6. Let dry completely (1–2 hours)
 
 **Important:** Spine glue should be flexible when dry, not brittle.
 
@@ -117,7 +119,7 @@ If edges are uneven, trim now:
 
 Many binders leave untrimmed for handmade aesthetic.
 
-### Phase 4: Rounding the Spine
+## Phase 4: Rounding the Spine
 
 #### Setup
 
@@ -132,7 +134,7 @@ Many binders leave untrimmed for handmade aesthetic.
 3. Simultaneously pull fore edge toward you
 4. Text block begins to curve
 5. Flip over and repeat from other side
-6. Work gradually - multiple light efforts better than forcing
+6. Work gradually — multiple light efforts better than forcing
 
 **Hand rounding technique:**
 - Grip text block firmly
@@ -146,9 +148,9 @@ Many binders leave untrimmed for handmade aesthetic.
 - Fore edge should mirror with concave curve
 - Arc should be approximately 1/3 of spine width
 
-<!-- TODO: Add photo showing proper rounding technique -->
+![Step 2: Hand rounding technique showing thumb and finger positions](/images/diagrams/hand-rounding-technique.jpg)
 
-### Phase 5: Backing the Spine
+## Phase 5: Backing the Spine
 
 #### Setting Up in Backing Press
 
@@ -174,6 +176,8 @@ Many binders leave untrimmed for handmade aesthetic.
 - Creates ridge approximately equal to board thickness
 - Shoulder should be consistent along full spine length
 
+> **Common mistake:** Backing only the center of the spine. Work the entire length systematically from center outward, alternating sides to keep shoulders even.
+
 #### Checking Backing
 
 - Shoulder height even along spine
@@ -181,17 +185,17 @@ Many binders leave untrimmed for handmade aesthetic.
 - Spine curve maintained
 - No signatures crushed or damaged
 
-### Phase 6: Spine Linings
+## Phase 6: Spine Linings
 
 #### First Lining (Mull)
 
-1. Cut mull to spine width x text block height
+1. Cut mull to spine width × text block height
 2. Apply PVA to spine
 3. Press mull into wet glue
 4. Smooth from center outward
 5. Let dry
 
-**Mull overhang:** Should extend 1" beyond spine onto front and back - this anchors text block to case.
+**Mull overhang:** Should extend 1 inch (25mm) beyond spine onto front and back — this anchors text block to case.
 
 #### Second Lining (Paper)
 
@@ -199,15 +203,15 @@ Many binders leave untrimmed for handmade aesthetic.
 2. Glue and apply over mull
 3. This strengthens and smooths the spine
 
-<!-- TODO: Add photo showing spine lining application -->
+![Step 3: Spine with mull and paper linings applied](/images/diagrams/spine-linings-applied.jpg)
 
-### Phase 7: Creating the Hollow Back
+## Phase 7: Creating the Hollow Back
 
 A hollow back allows the spine covering to flex independently of the text block spine.
 
 #### Making the Hollow
 
-1. Cut kraft paper: Width = spine width x 3, Height = spine height minus 1/4"
+1. Cut kraft paper: Width = spine width × 3, Height = spine height minus 1/4 inch (6mm)
 2. Fold in thirds lengthwise
 3. Glue one-third to itself (creating a tube)
 4. Glue outside of tube to text block spine
@@ -224,7 +228,7 @@ Cross-section of hollow:
      └──┴───────────┴──┘
 ```
 
-### Phase 8: Attaching Headbands
+## Phase 8: Attaching Headbands
 
 Headbands protect spine ends and add decoration.
 
@@ -235,25 +239,25 @@ Headbands protect spine ends and add decoration.
 
 **Option:** Make your own sewn headbands (advanced technique).
 
-### Phase 9: Making the Case
+## Phase 9: Making the Case
 
 #### Measuring for Rounded Spine
 
 The case must accommodate the round:
 
-**Board height:** Text block height + 6mm (3mm squares)
-**Board width:** Text block width + 3mm (fore edge square)
+**Board height:** Text block height + 6mm (1/4 inch) — 3mm squares
+**Board width:** Text block width + 3mm (1/8 inch) — fore edge square
 **Spine piece width:** Measure around the curve, not flat across
 
 **Measuring spine width:**
 - Wrap strip of paper around spine from shoulder to shoulder
-- Mark and measure - this is your spine width
+- Mark and measure — this is your spine width
 
 #### Cutting and Assembling
 
 1. Cut two boards to calculated size
 2. Cut spine piece (use thinner board, 1.5mm)
-3. Cut book cloth 1" larger than assembled case
+3. Cut book cloth 1 inch (25mm) larger than assembled case
 
 **Assembly:**
 1. Position boards on book cloth with spine piece between
@@ -261,7 +265,7 @@ The case must accommodate the round:
 3. Glue and wrap book cloth
 4. Turn in edges
 
-### Phase 10: Casing In
+## Phase 10: Casing In
 
 Attaching the rounded text block to the case requires care.
 
@@ -273,6 +277,8 @@ Attaching the rounded text block to the case requires care.
 4. Close front cover, position for even squares
 5. Press for initial adhesion
 
+> **Tool swap:** No finishing press? Place waxed paper at the joints, close the book, and weight heavily. Check after 30 minutes to ensure proper joint formation.
+
 #### Completing the Case-In
 
 1. Turn book over
@@ -281,9 +287,7 @@ Attaching the rounded text block to the case requires care.
 4. Check alignment
 5. Place in press or under weights overnight
 
-<!-- TODO: Add photo of casing-in process for rounded spine -->
-
-### Quality Checkpoints
+## Quality Checkpoints
 
 After completion, evaluate:
 
@@ -305,7 +309,7 @@ After completion, evaluate:
 - [ ] Spine flexes naturally
 - [ ] Returns to shape when closed
 
-### Troubleshooting
+## Tips & Troubleshooting
 
 | Issue | Likely Cause | Fix/Prevention |
 |-------|--------------|----------------|
@@ -315,19 +319,60 @@ After completion, evaluate:
 | Spine hollow collapsed | Hollow construction error | Ensure tube properly formed |
 | Book won't close | Shoulders too pronounced | More conservative backing |
 
-### Variations
+## Variations
 
 **Quarter leather:**
 Add leather to spine and corners for durability and elegance.
 
 **Tight back instead of hollow:**
-Glue covering directly to spine - simpler but less flex.
+Glue covering directly to spine — simpler but less flex.
 
 **Flat back with false round:**
-Create appearance of round on case only - faster but less functional.
+Create appearance of round on case only — faster but less functional.
 
-### Conclusion
+---
 
-A properly rounded and backed book represents the pinnacle of case binding craft. The shaped spine improves function, longevity, and appearance. The skills developed in this project - rounding, backing, hollow construction - serve as foundations for even more advanced work.
+## Glossary
 
-Take your time with each phase. The multi-session approach allows adhesives to cure properly and gives you perspective on your work. Each completed round-back book teaches lessons that improve the next one.
+- **Hollow back:** A tube construction allowing the spine covering to flex independently of the text block spine
+- **Mull:** Open-weave fabric used to reinforce the spine and attach text block to covers
+- **Shoulder:** The ridge formed during backing where cover boards nestle into the spine edge
+- **Knocking down:** Gently tapping the spine to consolidate sewing before rounding
+- **Squares:** The portion of cover boards that extends beyond the text block edges
+
+---
+
+## FAQ
+
+**How do I know when I've rounded enough?**
+View the spine from head or tail. The curve should be gentle and even, with the fore edge showing a corresponding concave curve. The arc should project about 1/3 of the spine thickness.
+
+**Why did my round flatten during casing-in?**
+You may have pressed too hard on the spine during casing-in, or the book sat too long before being pressed. Work quickly and press at the joints, not the spine center.
+
+**Can I skip the hollow back?**
+Yes, for a tight back binding. However, hollow backs allow the spine to flex more naturally when opening, so they're preferred for frequently used books.
+
+**How long should I wait between phases?**
+Allow spine glue to dry 1–2 hours before rounding. After backing, let the structure set before adding linings. Overnight drying between major phases is ideal.
+
+**What if my shoulders are uneven?**
+Minor unevenness can be accommodated during casing-in by positioning boards carefully. Significant unevenness requires practicing backing technique on future projects.
+
+---
+
+## Suggested Internal Links
+
+- Rounding and Backing Theory
+- Beginner's Guide to Case Binding
+- Adhesives 101: PVA vs. Paste
+- Thread Types Guide
+
+---
+
+## Image Plan
+
+- **Hero:** Finished round-backed hardcover book showing curved spine profile
+- **Step 1:** All materials organized for round back project
+- **Step 2:** Hand rounding technique showing thumb and finger positions
+- **Step 3:** Spine with mull and paper linings applied

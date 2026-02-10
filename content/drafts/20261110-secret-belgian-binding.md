@@ -5,11 +5,21 @@ category: "Tutorial"
 date: "Nov 10, 2026"
 image: "/images/covers/20260721-secret-belgian-binding.png"
 published: false
+seoTitle: "Secret Belgian Binding Tutorial"
+metaDescription: "Learn the secret Belgian binding technique that creates a concealed spine with decorative exposed sewing. A modern classic for journal making."
+slug: "secret-belgian-binding"
 ---
 
-The Secret Belgian Binding is a modern structure developed by bookbinder Anne Goy in the 1980s. Despite its name, it is neither secret nor exclusively Belgian - Goy was Swiss. The name evokes mystery and has helped popularize this distinctive technique that creates books with interwoven covers and a flexible, decorative spine.
+The secret Belgian binding conceals the spine structure while displaying decorative thread patterns on the cover.
 
-### Understanding the Structure
+**TL;DR**
+- Covers attach with hidden sewing through a folded spine strip
+- Thread patterns on the cover are decorative — the real binding is hidden inside
+- An excellent technique for journals and sketchbooks with a modern aesthetic
+
+![Hero: Secret Belgian Binding Tutorial](/images/hero/secret-belgian-binding.jpg)
+
+## Understanding the Structure
 
 Secret Belgian Binding differs from traditional bindings in several key ways:
 
@@ -21,9 +31,8 @@ Secret Belgian Binding differs from traditional bindings in several key ways:
 
 **Construction:** Text block and covers are created separately, then assembled through the weaving process.
 
-<!-- TODO: Add photo showing the distinctive woven spine -->
 
-### Structure Diagram
+## Structure Diagram
 
 ```
 Front cover      Back cover
@@ -42,7 +51,7 @@ Front cover      Back cover
 
 The covers pass through slots in each other, creating the interlocking.
 
-### Materials Needed
+## Materials Needed
 
 | Material | Specification | Notes |
 |----------|---------------|-------|
@@ -54,7 +63,7 @@ The covers pass through slots in each other, creating the interlocking.
 | Metal ruler | Straight edge | Precise cutting |
 | Bone folder | Standard | For creasing |
 
-### Preparing the Text Block
+## Preparing the Text Block
 
 The text block can be sewn in various ways. A simple pamphlet-style or accordion attachment works well.
 
@@ -72,7 +81,7 @@ The text block can be sewn in various ways. A simple pamphlet-style or accordion
 
 For this tutorial, we'll use an accordion approach with attached signatures.
 
-### Creating the Covers
+## Creating the Covers
 
 The covers are the heart of Secret Belgian Binding. Each cover has a fold that creates the spine portion and slots that interlock with the other cover.
 
@@ -96,7 +105,6 @@ For each cover, cut:
 
 Score and fold at the spine portion boundaries.
 
-<!-- TODO: Add diagram of cover cutting layout -->
 
 #### Cutting the Slots
 
@@ -119,7 +127,7 @@ The slots must be carefully planned and cut:
 
 **Critical:** Both covers must have slots in identical positions, or they won't interlock properly.
 
-### The Weaving Process
+## The Weaving Process
 
 This is the "secret" of the binding - how the covers interlock.
 
@@ -151,9 +159,8 @@ This is the "secret" of the binding - how the covers interlock.
 3. Both covers should move freely
 4. Adjust weave tension if needed
 
-<!-- TODO: Add step-by-step photos of weaving process -->
 
-### Attaching the Text Block
+## Attaching the Text Block
 
 With covers woven, attach the text block.
 
@@ -170,7 +177,7 @@ With covers woven, attach the text block.
 2. Similar to pamphlet sewing
 3. More secure but requires punching holes through woven spine
 
-### Detailed Assembly Sequence
+## Detailed Assembly Sequence
 
 Putting it all together:
 
@@ -182,7 +189,7 @@ Putting it all together:
 6. **Attach text block** - Glue or sew in place
 7. **Final adjustment** - Ensure everything lies flat
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -193,7 +200,7 @@ Putting it all together:
 | Text block doesn't fit | Spine portion too narrow | Allow more spine width |
 | Covers don't lie flat | Uneven weave tension | Adjust weave systematically |
 
-### Design Variations
+## Design Variations
 
 #### Two-Color Contrast
 
@@ -223,7 +230,7 @@ Cut slots at an angle instead of perpendicular:
 - More complex cutting
 - Dramatic visual effect
 
-### Practical Considerations
+## Practical Considerations
 
 **Book thickness:**
 Secret Belgian Binding works best for:
@@ -241,7 +248,7 @@ Secret Belgian Binding works best for:
 - Woven joint can wear with heavy use
 - Appropriate for moderate use
 
-### Materials Tips
+## Materials Tips
 
 **Cover stock selection:**
 - Must hold a crease
@@ -254,7 +261,7 @@ Secret Belgian Binding works best for:
 - Matte + shiny
 - Paper + cloth
 
-### Practice Project: Secret Belgian Journal
+## Practice Project: Secret Belgian Journal
 
 **Specifications:**
 - 3 signatures, 4 sheets each
@@ -272,15 +279,14 @@ Secret Belgian Binding works best for:
 6. Attach accordion ends to covers
 7. Press flat overnight
 
-<!-- TODO: Add photo of completed Secret Belgian journal -->
 
-### Historical Context
+## Historical Context
 
 Anne Goy developed this structure as part of ongoing book structure innovation in the late 20th century. It represents the creative spirit of artist's books - finding new ways to construct the familiar object of a book.
 
 The structure has been adapted and varied by many binders, resulting in numerous related bindings sometimes called "Belgian Secret," "Two-Cover Woven," or "Interlocking Cover" binding.
 
-### Combining with Other Techniques
+## Combining with Other Techniques
 
 Secret Belgian Binding can incorporate:
 
@@ -296,8 +302,49 @@ Secret Belgian Binding can incorporate:
 - Different signature attachments
 - Various spine constructions
 
-### Conclusion
+---
 
-The Secret Belgian Binding offers a completely different approach to cover attachment. The woven spine becomes both structure and decoration, creating books with exceptional flexibility and visual interest.
+## Glossary
 
-The technique rewards precision - slot alignment determines success. Practice with simple materials before committing to special cover stocks. Once mastered, this binding becomes a valuable addition to your repertoire for journals, albums, and artistic books.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Secret Belgian Binding Tutorial
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

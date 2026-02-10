@@ -5,11 +5,21 @@ category: "Tutorial"
 date: "Jun 23, 2026"
 image: "/images/covers/20260623-buttonhole-stitch-binding.png"
 published: false
+seoTitle: "Buttonhole Stitch Binding Tutorial"
+metaDescription: "Create a decorative exposed-spine binding using the buttonhole stitch. This technique creates a wrapped, textured spine with excellent durability."
+slug: "buttonhole-stitch-binding"
 ---
 
-Buttonhole stitch binding creates an exposed spine structure where the sewing passes through cutouts in the cover boards. The stitching becomes a prominent visual element, with loops and knots visible on the spine surface. This technique offers a distinctive alternative to Coptic binding for journals and art books.
+Buttonhole stitch binding creates a wrapped, textured spine that is both decorative and structurally strong.
 
-### Understanding Buttonhole Stitch Binding
+**TL;DR**
+- The buttonhole stitch wraps thread around the spine edge creating a braided appearance
+- Works well with soft covers and can accommodate thick text blocks
+- An intermediate technique that builds on basic pamphlet and link stitch skills
+
+![Hero: Buttonhole Stitch Binding Tutorial](/images/hero/buttonhole-stitch-binding.jpg)
+
+## Understanding Buttonhole Stitch Binding
 
 Unlike Coptic binding where thread wraps around the cover edge, buttonhole binding passes thread through slots or holes cut into the spine edge of the covers. The thread forms decorative loops visible on the cover surface.
 
@@ -20,9 +30,8 @@ Unlike Coptic binding where thread wraps around the cover edge, buttonhole bindi
 - Opens completely flat
 - More decorative than functional
 
-<!-- TODO: Add photo comparing Coptic and buttonhole binding spines -->
 
-### Anatomy of the Structure
+## Anatomy of the Structure
 
 ```
 Cover board:
@@ -37,7 +46,7 @@ Thread passes through cutouts, forming
 buttonhole stitches visible on cover face
 ```
 
-### Materials Needed
+## Materials Needed
 
 | Material | Specification | Notes |
 |----------|---------------|-------|
@@ -50,7 +59,7 @@ buttonhole stitches visible on cover face
 | Metal ruler | Straight edge | For clean cuts |
 | Pencil | For marking | Precision essential |
 
-### Designing the Cover Cutouts
+## Designing the Cover Cutouts
 
 The cutouts define the binding's appearance. Several options exist:
 
@@ -91,9 +100,8 @@ Creative shapes (requires more skill):
 - Diamonds
 - Custom shapes
 
-<!-- TODO: Add diagram showing different cutout options -->
 
-### Creating the Cutouts
+## Creating the Cutouts
 
 #### Method 1: Knife and Ruler
 
@@ -120,7 +128,7 @@ If available:
 3. Single clean cut
 4. Most consistent results
 
-### Preparing Signatures
+## Preparing Signatures
 
 Signatures prepare identically to Coptic binding:
 
@@ -131,7 +139,7 @@ Signatures prepare identically to Coptic binding:
 
 **Critical:** Cutout centers must align perfectly with signature sewing stations.
 
-### The Buttonhole Stitch
+## The Buttonhole Stitch
 
 The buttonhole (blanket) stitch creates decorative loops on the cover surface.
 
@@ -158,9 +166,8 @@ The buttonhole (blanket) stitch creates decorative loops on the cover surface.
 4. Passes back through cutout
 5. Enters next station
 
-<!-- TODO: Add step-by-step diagram of buttonhole stitch formation -->
 
-### Sewing Process: Step by Step
+## Sewing Process: Step by Step
 
 #### Step 1: Attach First Cover
 
@@ -213,7 +220,7 @@ Final signature complete:
 4. Continue through all cutouts
 5. Secure thread with knot tucked under stitches
 
-### Tension Considerations
+## Tension Considerations
 
 Buttonhole binding requires careful tension management:
 
@@ -232,7 +239,7 @@ Buttonhole binding requires careful tension management:
 - Even appearance throughout
 - Book opens and closes freely
 
-### Design Variations
+## Design Variations
 
 #### Single Row of Cutouts
 
@@ -255,7 +262,7 @@ Two parallel rows:
 - Requires planning
 - Advanced technique
 
-### Thread Color Strategies
+## Thread Color Strategies
 
 The visible stitching invites color consideration:
 
@@ -274,7 +281,7 @@ The visible stitching invites color consideration:
 - Creates gradient effect
 - Requires joining threads
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -285,7 +292,7 @@ The visible stitching invites color consideration:
 | Can't close book | Too tight | Reduce tension, especially at covers |
 | Loops catching on things | Very long loops | Shorter cutout length or tighter pull |
 
-### Comparing to Coptic Binding
+## Comparing to Coptic Binding
 
 | Feature | Buttonhole | Coptic |
 |---------|------------|--------|
@@ -296,7 +303,7 @@ The visible stitching invites color consideration:
 | Difficulty | Intermediate | Beginner-Intermediate |
 | Historical accuracy | Victorian-era style | Ancient technique |
 
-### Cover Treatments
+## Cover Treatments
 
 #### Pre-Covered Boards
 
@@ -317,7 +324,7 @@ Leave cutout edges exposed for industrial aesthetic:
 - Optional: paint edges
 - Works with certain design styles
 
-### Practice Project: Buttonhole Journal
+## Practice Project: Buttonhole Journal
 
 **Specifications:**
 - 5 signatures, 3 sheets each
@@ -330,9 +337,8 @@ Leave cutout edges exposed for industrial aesthetic:
 - Consistent buttonhole formation
 - Even tension throughout
 
-<!-- TODO: Add photo of completed buttonhole binding project -->
 
-### Advanced Technique: Combined Methods
+## Advanced Technique: Combined Methods
 
 Buttonhole binding can combine with other elements:
 
@@ -340,7 +346,7 @@ Buttonhole binding can combine with other elements:
 **With ribbon:** Integrate ribbon as part of structure
 **With tapes:** Sew onto tapes that show through cutouts
 
-### When to Choose Buttonhole Binding
+## When to Choose Buttonhole Binding
 
 **Ideal for:**
 - Art journals where binding is a design element
@@ -353,10 +359,49 @@ Buttonhole binding can combine with other elements:
 - Everyday journals (loops can catch)
 - Production work (slower to sew)
 
-### Conclusion
+---
 
-Buttonhole stitch binding transforms the functional sewing of bookbinding into surface decoration. The cutouts and loops create visual interest that rewards careful execution.
+## Glossary
 
-Master the basic buttonhole formation on practice pieces before committing to quality materials. The technique sits between basic Coptic and more complex decorative bindings, offering an excellent next step for those comfortable with exposed spine structures.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
 
-The visible craftsmanship of buttonhole binding makes each book unique - your skill and care show in every loop.
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Buttonhole Stitch Binding Tutorial
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

@@ -5,11 +5,21 @@ category: "Project"
 date: "Dec 22, 2026"
 image: "/images/covers/20260519-project-spiral-bound-sketchbook.png"
 published: false
+seoTitle: "DIY Spiral Bound Sketchbook Project"
+metaDescription: "Make a custom spiral-bound sketchbook with hand-punched holes and wire binding. Choose your own paper, size, and cover materials."
+slug: "project-spiral-bound-sketchbook"
 ---
 
-This project guides you through creating a spiral-bound sketchbook with quality drawing paper and sturdy covers. The metal coil binding allows the book to lie flat and fold back completely, making it ideal for artists working in various positions.
+A custom spiral-bound sketchbook lets you choose the perfect paper, size, and cover for your drawing practice.
 
-### Project Overview
+**TL;DR**
+- Punch evenly spaced holes through covers and pages with a hole punch or drill
+- Wire coil or plastic spiral threads through the holes for 360-degree page rotation
+- Custom paper selection means you can optimize for your specific medium
+
+![Hero: DIY Spiral Bound Sketchbook Project](/images/hero/project-spiral-bound-sketchbook.jpg)
+
+## Project Overview
 
 **Finished size:** 8.5" x 11" (Letter size) or A4
 **Page count:** 50 sheets (100 pages)
@@ -17,7 +27,7 @@ This project guides you through creating a spiral-bound sketchbook with quality 
 **Time required:** 1-2 hours
 **Skill level:** Beginner to Intermediate
 
-### Materials List
+## Materials List
 
 | Material | Quantity | Notes |
 |----------|----------|-------|
@@ -29,9 +39,8 @@ This project guides you through creating a spiral-bound sketchbook with quality 
 | Decorative paper | Optional | For covering chipboard |
 | PVA glue | If covering | Adhesive for covers |
 
-<!-- TODO: Add photo of all materials gathered for project -->
 
-### Understanding Spiral Binding Machines
+## Understanding Spiral Binding Machines
 
 Before starting, familiarize yourself with your binding equipment:
 
@@ -50,7 +59,7 @@ Before starting, familiarize yourself with your binding equipment:
 
 **Note:** Many spiral machines are punch-only. You can insert coils by hand if needed.
 
-### Step 1: Prepare the Paper
+## Step 1: Prepare the Paper
 
 #### Selecting Drawing Paper
 
@@ -79,7 +88,7 @@ If your paper isn't pre-cut:
 - Test by bending: paper bends more easily with the grain
 - Pages will turn more smoothly with correct grain
 
-### Step 2: Prepare the Covers
+## Step 2: Prepare the Covers
 
 Chipboard covers protect your sketchbook and provide rigidity.
 
@@ -105,9 +114,8 @@ For a finished appearance:
 1. Can match front or use simpler material
 2. Follow same covering process
 
-<!-- TODO: Add photo of covered chipboard corners -->
 
-### Step 3: Punch the Holes
+## Step 3: Punch the Holes
 
 #### Machine Setup
 
@@ -130,9 +138,8 @@ For a finished appearance:
 - Chipboard may require separate punching
 - Clear any paper chad from dies between batches
 
-<!-- TODO: Add photo demonstrating proper alignment in punch -->
 
-### Step 4: Select and Size the Coil
+## Step 4: Select and Size the Coil
 
 #### Choosing Coil Diameter
 
@@ -159,7 +166,7 @@ The coil must accommodate all your sheets plus covers without being too loose:
 4. Cut through loop at an angle (easier insertion)
 5. Use wire cutters designed for coil
 
-### Step 5: Insert the Coil
+## Step 5: Insert the Coil
 
 #### Hand Insertion Method
 
@@ -188,9 +195,8 @@ If you have an electric inserter:
 4. Coil spins through automatically
 5. Cut coil when fully inserted
 
-<!-- TODO: Add video showing coil insertion technique -->
 
-### Step 6: Crimp the Coil Ends
+## Step 6: Crimp the Coil Ends
 
 Crimping prevents the coil from unscrewing out of the holes.
 
@@ -210,7 +216,7 @@ Crimping prevents the coil from unscrewing out of the holes.
 
 **Quality check:** Tug gently on covers - coil should not pull through.
 
-### Step 7: Final Inspection and Finishing
+## Step 7: Final Inspection and Finishing
 
 #### Check Your Work
 
@@ -236,9 +242,8 @@ Crimping prevents the coil from unscrewing out of the holes.
 - Thread through coil at one end
 - Wrap around fore edge
 
-<!-- TODO: Add photo of finished sketchbook with optional features -->
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -249,7 +254,7 @@ Crimping prevents the coil from unscrewing out of the holes.
 | Coil unscrewing | Poor crimping | Re-crimp ends more securely |
 | Covers warping | Humidity or uneven covering | Press under weight overnight |
 
-### Variations
+## Variations
 
 #### Mini Sketchbook
 
@@ -272,7 +277,7 @@ Crimping prevents the coil from unscrewing out of the holes.
 - Extra-large coil
 - Reinforced corners
 
-### Cost Analysis
+## Cost Analysis
 
 Making your own sketchbook offers savings and customization:
 
@@ -284,7 +289,7 @@ Making your own sketchbook offers savings and customization:
 
 **Note:** DIY becomes economical with volume and offers paper choice advantages.
 
-### Paper Recommendations by Use
+## Paper Recommendations by Use
 
 #### For Pencil/Graphite
 
@@ -304,15 +309,56 @@ Making your own sketchbook offers savings and customization:
 - Canson XL Mix Media
 - Fabriano Studio
 
-### Maintenance Tips
+## Maintenance Tips
 
 - Store flat or standing upright
 - Keep away from humidity
 - If coil bends, gently reshape
 - Clean cover with dry cloth
 
-### Conclusion
+---
 
-Creating your own spiral-bound sketchbook gives you control over paper quality, size, and cover design. The skills transfer to making other spiral-bound items: notebooks, planners, and presentation materials.
+## Glossary
 
-The initial equipment investment pays off through cost savings and the ability to create exactly the sketchbook you need for any project. Once you have mastered the basic process, experiment with different papers, sizes, and cover treatments to develop your signature sketchbook style.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** DIY Spiral Bound Sketchbook Project
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3

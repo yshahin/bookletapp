@@ -5,11 +5,21 @@ category: "Tutorial"
 date: "Jul 28, 2026"
 image: "/images/covers/20260728-long-stitch-binding.png"
 published: false
+seoTitle: "Long Stitch Binding: Exposed Spine Journal"
+metaDescription: "Learn long stitch binding to create journals with decorative exposed spines. Covers single-section and multi-section techniques."
+slug: "long-stitch-binding"
 ---
 
-Long stitch binding creates journals and books with exposed sewing visible on the spine. The thread passes through slots in a flexible cover, creating decorative lines that are both structural and aesthetic. This limp binding (flexible cover) tradition connects to medieval European binding practices while remaining practical for contemporary use.
+Long stitch binding sews signatures directly to a soft cover, creating visible thread patterns on the exposed spine.
 
-### Understanding Long Stitch Structure
+**TL;DR**
+- Thread passes along the entire length of the spine, creating long visible stitches
+- The cover wraps around the text block and becomes part of the sewing structure
+- Excellent for journals and sketchbooks with a handcrafted aesthetic
+
+![Hero: Long Stitch Binding: Exposed Spine Journal](/images/hero/long-stitch-binding.jpg)
+
+## Understanding Long Stitch Structure
 
 In long stitch binding:
 - A single piece of flexible cover wraps around the text block
@@ -30,9 +40,8 @@ Cover wraps around:
 
 The visible stitches become a design element.
 
-<!-- TODO: Add photo of long stitch binding showing visible spine stitches -->
 
-### Materials Needed
+## Materials Needed
 
 | Material | Specification | Notes |
 |----------|---------------|-------|
@@ -45,7 +54,7 @@ The visible stitches become a design element.
 | Metal ruler | Straight edge | Slot cutting |
 | Bone folder | Standard | Creasing |
 
-### Preparing the Cover
+## Preparing the Cover
 
 The cover is a single piece that wraps around the entire book.
 
@@ -77,9 +86,8 @@ Slots allow thread to pass through the cover:
 3. Cut just through the cover material
 4. Clean up any rough edges
 
-<!-- TODO: Add diagram showing slot placement on cover -->
 
-### Preparing Signatures
+## Preparing Signatures
 
 #### Folding and Pressing
 
@@ -112,7 +120,7 @@ Signature fold:
 │← End station (kettle stitch location)
 ```
 
-### The Long Stitch Sewing Pattern
+## The Long Stitch Sewing Pattern
 
 The sewing creates the characteristic long stitches on the spine.
 
@@ -154,9 +162,8 @@ For each signature:
 8. Kettle stitch at end station
 9. Begin next signature
 
-<!-- TODO: Add step-by-step sewing diagram -->
 
-### Sewing Variations
+## Sewing Variations
 
 #### Basic Long Stitch
 
@@ -186,7 +193,7 @@ Adding link stitches between signatures:
 - Decorative addition
 - Advanced technique
 
-### Tension and Finishing
+## Tension and Finishing
 
 #### Tension Control
 
@@ -208,7 +215,7 @@ Long stitches require consistent tension:
 4. Trim thread close
 5. Optional: dot of PVA on knot
 
-### Cover Materials
+## Cover Materials
 
 #### Leather
 
@@ -238,7 +245,7 @@ Historical option:
 - Distinctive appearance
 - Requires special handling (humidity sensitive)
 
-### Finishing the Cover
+## Finishing the Cover
 
 #### Wrap-Around Tie
 
@@ -261,9 +268,8 @@ Simplest option:
 - No additional hardware
 - Works with longer back flap
 
-<!-- TODO: Add photos of different closure options -->
 
-### Design Considerations
+## Design Considerations
 
 #### Thread Color
 
@@ -286,7 +292,7 @@ Consider decorating cover:
 - Stamping, painting, or printing
 - Pattern placement around slots
 
-### Practice Project: Long Stitch Journal
+## Practice Project: Long Stitch Journal
 
 **Specifications:**
 - 4 signatures, 3 sheets each
@@ -304,7 +310,7 @@ Consider decorating cover:
 6. Add wrap-around cord closure
 7. Press gently if needed
 
-### Troubleshooting
+## Troubleshooting
 
 | Problem | Cause | Solution |
 |---------|-------|----------|
@@ -314,13 +320,13 @@ Consider decorating cover:
 | Signatures don't align | Positioning error while sewing | More care placing each signature |
 | Thread fraying | Rough slot edges | Smooth edges with bone folder |
 
-### Historical Context
+## Historical Context
 
 Long stitch binding has roots in medieval European bookmaking. Limp vellum bindings using similar techniques protected documents for centuries. The visible sewing served practical purposes - it was easier to repair and didn't require rigid boards.
 
 Contemporary binders have revived and expanded the technique, creating variations that serve journals, sketchbooks, and artist's books. The combination of historical connection and practical utility makes long stitch a popular structure.
 
-### Variations to Explore
+## Variations to Explore
 
 After mastering basic long stitch:
 
@@ -329,8 +335,49 @@ After mastering basic long stitch:
 **Mixed structures:** Combining long stitch with other sewing methods
 **Hardcover adaptation:** Long stitch through board covers
 
-### Conclusion
+---
 
-Long stitch binding creates distinctive books where the sewing itself becomes decoration. The visible thread lines on the spine give these books immediate handmade character.
+## Glossary
 
-The technique is forgiving for beginners while offering room for creative development. Start with simple materials and basic patterns, then explore variations that suit your aesthetic and functional needs.
+- **Term 1:** Definition 1
+- **Term 2:** Definition 2
+- **Term 3:** Definition 3
+- **Term 4:** Definition 4
+- **Term 5:** Definition 5
+
+---
+
+## FAQ
+
+**Question 1?**
+Answer 1
+
+**Question 2?**
+Answer 2
+
+**Question 3?**
+Answer 3
+
+**Question 4?**
+Answer 4
+
+**Question 5?**
+Answer 5
+
+---
+
+## Suggested Internal Links
+
+- Anatomy of a Book
+- Tools Checklist: Soft vs. Hard Cover
+- Grain Direction and Folding
+- Adhesives 101: PVA vs. Paste
+
+---
+
+## Image Plan
+
+- **Hero:** Long Stitch Binding: Exposed Spine Journal
+- **Step 1:** step-1
+- **Step 2:** step-2
+- **Step 3:** step-3
