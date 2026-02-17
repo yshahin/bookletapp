@@ -83,6 +83,14 @@ export default function BookletTool() {
             <span>New to this? Read the <strong>How-To Guide</strong></span>
           </Link>
         </div>
+        <div className="flex justify-center">
+          <Link
+            to="/hole-guide"
+            className="inline-flex items-center gap-2 text-sm text-stone-500 hover:text-stone-800 border border-stone-200 rounded-full px-4 py-1.5 transition-colors bg-white/50 backdrop-blur-sm hover:bg-white hover:border-stone-300"
+          >
+            <span>Need to punch signatures? Open the <strong>Hole Guide Tool</strong></span>
+          </Link>
+        </div>
       </header>
 
       <main className="space-y-8 animate-fade-in">

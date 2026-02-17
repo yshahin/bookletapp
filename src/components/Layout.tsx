@@ -44,6 +44,7 @@ export default function Layout() {
             <div className="hidden md:flex space-x-8">
               <Link to="/" className={navLinkClass('/')}>Home</Link>
               <Link to="/tool" className={navLinkClass('/tool')}>Tool</Link>
+              <Link to="/hole-guide" className={navLinkClass('/hole-guide')}>Hole Guide</Link>
               <Link to="/articles" className={navLinkClass('/articles')}>Articles</Link>
               <Link to="/videos" className={navLinkClass('/videos')}>Videos</Link>
               <Link to="/gallery" className={navLinkClass('/gallery')}>Gallery</Link>
@@ -67,6 +68,7 @@ export default function Layout() {
             <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
               <Link to="/" onClick={() => setMobileMenuOpen(false)} className={mobileLinkClass('/')}>Home</Link>
               <Link to="/tool" onClick={() => setMobileMenuOpen(false)} className={mobileLinkClass('/tool')}>Tool</Link>
+              <Link to="/hole-guide" onClick={() => setMobileMenuOpen(false)} className={mobileLinkClass('/hole-guide')}>Hole Guide</Link>
               <Link to="/articles" onClick={() => setMobileMenuOpen(false)} className={mobileLinkClass('/articles')}>Articles</Link>
               <Link to="/videos" onClick={() => setMobileMenuOpen(false)} className={mobileLinkClass('/videos')}>Videos</Link>
               <Link to="/gallery" onClick={() => setMobileMenuOpen(false)} className={mobileLinkClass('/gallery')}>Gallery</Link>
